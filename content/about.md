@@ -6,9 +6,11 @@ draft: false
 
 <!-- ![[img src=attached-image.jpg alt=foobar]] -->
 
-<!-- ![Honda sensei](img src=honda.png) -->
+![Honda sensei](/hugo2/static/honda-1.png)
 
 The Tokyo Adachi Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu Iai (Yamanouchi-ha).  Muso Jikiden Eishin Ryu (MJER) originates from Tosa Province (modern day Kochi), which was ruled by the Yamauchi clan throughout the Edo Period.  The Tokyo Adachi Roshukai is led by Honda Masayoshi Jushin sensei who was awarded Iaijutsu Kongen no Maki by his teacher Onoue Masamitsu sensei. From Onoue sensei, our lineage goes through Kono Kanemitsu, Yamanouchi Toyotake, and Oe Masaji sensei.  Honda sensei was also a student of Iwata Norikazu sensei, the founder of the Roshukai.
+
+<!-- <img src="/honda-1.png" alt="alt" /> -->
 
 Yamanouchi Toyotake sensei (1903 - 1946) held the title of viscount and was a direct student of 17th generation instructor Oe Masaji (1852 - 1927).  He was one of multiple students to receive the Iaijutsu Kongen no Maki, a scroll signifying complete transmission.  As the grandson of daimyo Yamauchi Yodo, Oe sensei's former lord, he was taught iai befitting a lord.  While the core remains the same, this manifests through small stylistic differences from other branches of MJER.
 
