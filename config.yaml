@@ -5,7 +5,7 @@ title: "Tokyo Adachi Roshukai UK"
 theme: hugo-flex
 
 params:
-  color: teal           # Any color in CSS syntax
+  color: black           # Any color in CSS syntax
   width: 42rem          # Any length in CSS syntax
   footer: Except where otherwise noted, content on this site is licensed under a
     a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
