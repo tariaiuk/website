@@ -52,7 +52,9 @@ code {
 .Banner-link {
   font-size: 1.25rem;
   color: white;
-  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  /* padding: 0.5rem 1rem; */
 }
 
 .Heading {
@@ -135,7 +137,26 @@ code {
   display: inline-block;
 }
 
+
+
+
 .logo {
   height: 100px;
   width: 100px;
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Banner-item--title-text {
+  font-size: 2rem;
+  padding-right: 1rem;
+}
+
+.Banner-item--menu-text {
+  line-height: 2rem;
+  /* padding-top: 1rem; */
+  padding: 0.75rem 1rem 0rem;
 }
