@@ -1,11 +1,11 @@
 {{ define "heading" }}
 <div>
-    {{ partial "back-home.html" . }}
-    
+    {{ partial "mon-back-home.html" . }}
+
     <!-- Title and Publication Date -->
     <h1 class="text-4xl font-bold">{{ .Title }}</h1>
     <time datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "02 Jan 2006" }}</time>
-    
+
     <!-- Tags -->
     {{ with .Params.tags }}
     <ol class="mt-4">
