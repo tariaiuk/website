@@ -2,6 +2,9 @@
   <div class="hero">
 
     <div class="logo">
+      {{ with .Site.Params.mon }}
+        <img src="{{ .src | relURL }}" class="{{ .shape }}" width="{{ .width }}" alt="{{ .alt }}" />
+      {{ end }}
 
     </div>
     <div class="u-wrapper">
