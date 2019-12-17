@@ -1,20 +1,16 @@
 {{ define "heading" }}
-
+<!-- duplication of the code from index.html-->
     {{ with .Site.Params.mon }}
-    <!-- <div class=""> -->
       <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
-    <!-- </div> -->
     {{ end }}
-
     <div class="flex-grow">
         <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }}</h1>
     </div>
+<!-- end of duplicate -->
 {{ end }}
 
 {{ define "content" }}
 <section class="mb-24">
-    {{ range site.RegularPages.GroupByDate "2006" -}}
-        {{ partial "posts.html" . }}
-    {{ end }}
+        {{ partial "dojo-list.html" . }}
 </section>
 {{ end }}

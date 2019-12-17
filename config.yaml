@@ -14,8 +14,11 @@ params:
   color: black           # Any color in CSS syntax
   width: 48rem          # Any length in CSS syntax
 
+  # Define which content types are shown on the homepage
+  mainSections: dojo
+
   mon:
-      src: img/Honda-mon-1200.png
+      src: /img/Honda-mon-1200.png
       # src: honda-1.png
       shape: ""
       width: ""

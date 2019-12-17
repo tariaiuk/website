@@ -49,16 +49,21 @@
 </head>
 <!-- <body class="font-serif bg-gray-200 border-t-4 border-blue-500 antialiased"> -->
 <body class=" bg-gray-200 ">
-    <div class="w-full p-6 lg:w-3/4 lg:px-0 lg:mx-auto xl:w-2/5">
+    <div class="w-full  lg:px-0 lg:mx-auto lg:w-2/3">
         <header class="mb-6 ">
             <!-- All the pages must have a heading block, defaults to a link for the home page and a title. -->
-            <div class="mb-6 bg-black flex items-center">
+            <div class="mb-6 py-2 bg-black flex items-center">
                 {{ block "heading" . }}
-                    <div>
-                        <!-- {{ partial "back-home.html" . }} -->
-                        {{ partial "mon-back-home.html" . }}
-                        <h1 class="text-4xl font-bold text-center">{{ .Title }}</h1>
+                <!-- index.html has exact copy of this code -->
+                    {{ with .Site.Params.mon }}
+                      <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
+                    {{ end }}
+                    <div class="flex-grow">
+                        <h1 class="text-center text-2xl md:text-4xl text-white font-bold">
+                          {{ .Site.Title }}
+                        </h1>
                     </div>
+                <!-- end of duplicate -->
                 {{ end }}
             </div>
 
@@ -72,9 +77,10 @@
             </nav>
             {{ end }}
         </header>
-
-        <!-- The content block. -->
-        {{ block "content" . }}{{ end }}
+        <div class="px-6">
+          <!-- The content block. -->
+          {{ block "content" . }}{{ end }}
+        </div>
 
         <footer>
             <p>

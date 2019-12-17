@@ -1,0 +1,9 @@
+{{ define "content" }}
+    <p class="mb-4">
+      {{ with .Site.GetPage "section" "dojo" }}
+        {{ .Params.mytext }}
+      {{ end }}
+    </p>
+    {{ partial "dojo-list" . }}
+    help
+{{ end }}

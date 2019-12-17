@@ -1,22 +1,12 @@
 {{ define "heading" }}
-<div>
-    {{ partial "mon-back-home.html" . }}
-
-    <!-- Title and Publication Date -->
-    <h1 class="text-4xl font-bold">{{ .Title }}</h1>
-    <time datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "02 Jan 2006" }}</time>
-
-    <!-- Tags -->
-    {{ with .Params.tags }}
-    <ol class="mt-4">
-        {{ range . }}
-        <li class="inline-block">
-            <a class="border-none text-gray-800 text-xs bg-gray-400 hover:bg-gray-600 hover:text-white rounded-sm px-3 py-1" href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
-        </li>
-        {{ end }}
-    </ol>
+<!-- duplication of the code from index.html-->
+    {{ with .Site.Params.mon }}
+      <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
     {{ end }}
-</div>
+    <div class="flex-grow">
+        <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }}</h1>
+    </div>
+<!-- end of duplicate -->
 {{ end }}
 
 {{ define "content" }}
