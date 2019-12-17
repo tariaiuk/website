@@ -1,16 +1,16 @@
-{{ define "heading" }}
-<!-- duplication of the code from index.html-->
-    {{ with .Site.Params.mon }}
-      <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
-    {{ end }}
-    <div class="flex-grow">
-        <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }}</h1>
-    </div>
-<!-- end of duplicate -->
-{{ end }}
 
 {{ define "content" }}
 <section class="mb-24">
-        {{ partial "dojo-list.html" . }}
+    <h3>starting in index</h3>
+    <div class="bg-green-300">
+      <h1>About html partial is not used, all in index</h1>
+    </div>
+
+    <div class="mb-4 px-4 flex flex-wrap">
+      {{ with .GetPage "about" }}
+          {{ .Content }}
+      {{ end }}
+
+    </div>
 </section>
 {{ end }}

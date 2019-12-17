@@ -1,9 +1,9 @@
 ---
-title: list of dojo pages
+title: Find a dojo
 date: 2019-12-02T19:49:47Z
 draft: false
 
 mytext: There are dojo throughout the UK. Select for more information
 ---
 
-params:
+this is the content of dojo/-index

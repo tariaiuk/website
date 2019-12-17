@@ -1,18 +1,42 @@
-{{ define "heading" }}
-<!-- duplication of the code from index.html-->
-    {{ with .Site.Params.mon }}
-      <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
-    {{ end }}
-    <div class="flex-grow">
-        <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }}</h1>
-    </div>
-<!-- end of duplicate -->
-{{ end }}
+
 
 {{ define "content" }}
-<article class="mb-12">
-    {{ .Content }}
+  <article class="mb-12">
+    <h3>block "content" in single.html</h3>
+        {{ if eq .Section "dojo" }}
+            <h3>dojo metadata go to partial</h3>
+            {{ partial "dojo-single.html" }}
+            <h3>back from partial file</h3>
+            <div class="flex flex-col sm:flex-row">
+              <div class="w-full sm:w-2/3">
+                <div class="flex pl-8 mb-0">
+                  <p class="w-24"> NAME </p><p class=""> {{ .Params.dojoName }}</p>
+                </div>
+                <div class="flex pl-8 mb-0 ">
+                  <p class="w-24"> LEADER </p><p class=""> {{ .Params.dojoLeader }}</p>
+                </div>
+                <div class="flex pl-8 mb-0 ">
+                  <p class="w-24"> Venue </p><p class=""> {{ .Params.venue }}</p>
+                </div>
+                <div class="flex pl-8 mb-0 ">
+                  <p class="w-24"> Address </p><p class=""> {{ .Params.addr }}</p>
+                </div>
+                <div class="flex pl-8 mb-0 ">
+                  <p class="w-24"> Time </p><p class=""> {{ .Params.time }}</p>
+                </div>
+              </div>
 
-    {{ template "_internal/disqus.html" . }}
-</article>
+              <div class="w-full sm:w-1/3">
+              img
+              </div>
+            </div>
+            {{ .Content }}
+            below
+        {{ else }}
+            <h3>this content is a normal single</h3>
+            {{ .Content }}
+            {{ template "_internal/disqus.html" . }}
+        {{ end }}
+
+  </article>
 {{ end }}
