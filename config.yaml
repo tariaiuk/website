@@ -1,5 +1,5 @@
-baseURL: localhost:8080
-# baseURL: http://davidstreet.org/hugo2/
+# baseURL: localhost:8080
+baseURL: http://davidstreet.org/hugo2/
 # baseURL: http://davidstreet.org/
 languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
@@ -18,7 +18,7 @@ params:
   mainSections: dojo
 
   mon:
-      src: /img/Honda-mon-1200.png
+      src: /hugo2/img/Honda-mon-1200.png
       # src: honda-1.png
       shape: ""
       width: ""

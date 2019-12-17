@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="http://davidstreet.org/hugo2/xml/base.min.xml" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tokyo Adachi Roshukai UK</title>
@@ -7,38 +6,9 @@
     <description>Recent content in Tags on Tokyo Adachi Roshukai UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://davidstreet.org/hugo2/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Edinburgh</title>
-      <link>http://davidstreet.org/hugo2/dojo/edinburgh/</link>
-      <pubDate>Wed, 04 Dec 2019 19:49:15 +0000</pubDate>
-      <guid>http://davidstreet.org/hugo2/dojo/edinburgh/</guid>
-      <description>&lt;p&gt;Located in the heart of Edinburgh this popular dojo is run by David Hickey and Matt Bielby.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Glasgow</title>
-      <link>http://davidstreet.org/hugo2/dojo/glasgow/</link>
-      <pubDate>Tue, 03 Dec 2019 19:49:33 +0000</pubDate>
-      <guid>http://davidstreet.org/hugo2/dojo/glasgow/</guid>
-      <description>&lt;p&gt;Kensaki iaido dojo is Scotland&#39;s oldest school of the Japanese sword and was founded in 1973 by Sam McKay, but is now run by Robert Boyd.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Borders</title>
-      <link>http://davidstreet.org/hugo2/dojo/borders/</link>
-      <pubDate>Mon, 02 Dec 2019 19:49:47 +0000</pubDate>
-      <guid>http://davidstreet.org/hugo2/dojo/borders/</guid>
-      <description>&lt;p&gt;David McLean runs the borders dojo located in Leitholm near Coldstream.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Sussex</title>
-      <link>http://davidstreet.org/hugo2/dojo/sussex/</link>
-      <pubDate>Sun, 01 Dec 2019 19:51:30 +0000</pubDate>
-      <guid>http://davidstreet.org/hugo2/dojo/sussex/</guid>
-      <description>&lt;p&gt;Sussex has 2 dojo one in West Sussex and the other in East Sussex.&lt;/p&gt;
-</description>
-    </item>
+    
+	<atom:link href="http://davidstreet.org/hugo2/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://davidstreet.org/hugo2/about/</loc>
-    <lastmod>2019-12-08T19:48:51+00:00</lastmod>
+    <loc>http://davidstreet.org/hugo2/dojo-chou/</loc>
+    <lastmod>2019-12-17T11:48:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://davidstreet.org/hugo2/</loc>
-    <lastmod>2019-12-08T19:48:51+00:00</lastmod>
+    <lastmod>2019-12-17T11:48:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davidstreet.org/hugo2/dojo/</loc>
-    <lastmod>2019-12-04T19:49:15+00:00</lastmod>
+    <loc>http://davidstreet.org/hugo2/about/</loc>
+    <lastmod>2019-12-08T19:48:51+00:00</lastmod>
   </url>
   
   <url>
@@ -29,6 +29,11 @@
   
   <url>
     <loc>http://davidstreet.org/hugo2/dojo/borders/</loc>
+    <lastmod>2019-12-02T19:49:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://davidstreet.org/hugo2/dojo/</loc>
     <lastmod>2019-12-02T19:49:47+00:00</lastmod>
   </url>
   
