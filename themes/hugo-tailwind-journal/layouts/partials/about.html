@@ -1,0 +1,24 @@
+    <p>partial / about layout</p>
+    <div class="mb-4">
+      {{ with .GetPage "about" }}
+        <div class="">
+          <div class="clear-fix">
+            <img src="{{ .Params.imghonda1 }}" alt="Honda sensei" class="float-right w-32 xs:w-40 sm:w-56 ml-4">
+            <p>{{ .Params.para1 }}</p>
+          </div>
+          <div class="clear-fix">
+            <img src="{{ .Params.imghonda2 }}" alt="Yamauchi Toyotake Hoken" class="float-left w-40 xs:w-56 md:w-64 mr-4">
+            <p class="m-0">{{ .Params.para2 }}</p>
+          </div>
+          <div class="clear-fix">
+            <img src="{{ .Params.imghonda3 }}" alt="Onoue Sensei" class="float-right w-32 xs:w-40 sm:w-56 ml-4">
+            <p>{{ .Params.para3 }}</p>
+            <p>{{ .Params.para4 }}</p>
+          </div>
+        </div>
+          <div class="pt-6">
+
+            {{ .Content }}
+          </div>
+      {{ end }}
+    </div>

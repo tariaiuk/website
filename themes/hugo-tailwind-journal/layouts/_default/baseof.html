@@ -52,7 +52,7 @@
     <div class="w-full  lg:px-0 lg:mx-auto lg:w-2/3">
         <header class="mb-6 ">
             <!-- All the pages must have a heading block, defaults to a link for the home page and a title. -->
-            <div class="mb-6 py-2 bg-black flex items-center">
+            <div class=" py-2 bg-black flex items-center">
                 {{ block "heading" . }}
                 <!-- index.html has exact copy of this code -->
                     {{ with .Site.Params.mon }}
@@ -76,6 +76,24 @@
                 {{ end}}
             </nav>
             {{ end }}
+
+            <div class="bg-black py-2 flex justify-around">
+              <div class="">
+                <a href="/hugo2/">
+                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">About</p>
+                </a>
+              </div>
+              <div class="">
+                <a href="/hugo2/dojo/">
+                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">Dojo</p>
+                </a>
+              </div>
+              <div class="">
+                <a href="/hugo2/sensei/dojo-chou/">
+                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">Dojo Chou</p>
+                </a>
+              </div>
+            </div>
         </header>
         <div class="px-6">
           <!-- The content block. -->

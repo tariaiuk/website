@@ -31,7 +31,9 @@
               </div>
             </div>
             {{ .Content }}
-            below
+        {{ else if eq .Section "sensei" }}
+        <p>i am in section sensei</p>
+            {{ partial "dojo-chou" . }}
         {{ else }}
             <h3>this content is a normal single</h3>
             {{ .Content }}
