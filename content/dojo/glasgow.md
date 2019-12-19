@@ -6,10 +6,19 @@ draft: false
 dojoName: Glasgow Kensaki Dojo
 dojoLeader: Robert Boyd
 
-session: 1
-venue: Hubsports
-addr: 39 Wellhouse Crescent, Glasgow, G33 4HH
-time: Tuesday 19:00 - 21:00
+session1:
+  venue: Hubsports
+  addr1: 39 Wellhouse Crescent,
+  addr2: Glasgow,
+  addr3: G33 4HH
+  time1: Tuesday 19:00 - 21:00
+  time2: Saturday 09:00 -10:30
+session2:
+  venue: St Maria Goretti Primary School.
+  addr1: 67 Skerryvore Road
+  addr2: Glasgow,
+  addr3: G33 3LB
+  time1: Wednesday 19:00 - 21:00
 ---
 
 The dojo was originally formed in 1973 by Sam McKay sensei and as such is recognised as Scotland's oldest running Iaido dojo. It has seen many dojo leaders since its formation and is now managed by Robert Boyd, who took over the reigns in 2017.

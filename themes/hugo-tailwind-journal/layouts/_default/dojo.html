@@ -1,10 +1,10 @@
 {{ define "content" }}
-    <p>_default / dojo layout</p>
+    <!-- <p>_default / dojo layout</p> -->
     <p class="mb-4">
       {{ with .Site.GetPage "section" "dojo" }}
-        {{ .Params.mytext }}
+        {{ .Params.introText }}
       {{ end }}
     </p>
     {{ partial "dojo-list" . }}
-    
+
 {{ end }}

@@ -49,12 +49,13 @@
 </head>
 <!-- <body class="font-serif bg-gray-200 border-t-4 border-blue-500 antialiased"> -->
 <body class=" bg-gray-200 ">
-    <div class="w-full  lg:px-0 lg:mx-auto lg:w-2/3">
+    <div class="w-full  lg:px-0 lg:mx-auto lg:w-3/4">
         <header class="mb-6 ">
-            <!-- All the pages must have a heading block, defaults to a link for the home page and a title. -->
+            <!-- original comment: All the pages must have a heading block, defaults to a link for the home page and a title. -->
             <div class=" py-2 bg-black flex items-center">
                 {{ block "heading" . }}
-                <!-- index.html has exact copy of this code -->
+                <!-- perhap this code does not need to be in a block if never used elsewhere -->
+                <!-- there is a block in default/list.html -->
                     {{ with .Site.Params.mon }}
                       <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
                     {{ end }}
@@ -63,7 +64,6 @@
                           {{ .Site.Title }}
                         </h1>
                     </div>
-                <!-- end of duplicate -->
                 {{ end }}
             </div>
 
@@ -77,28 +77,32 @@
             </nav>
             {{ end }}
 
-            <div class="bg-black py-2 flex justify-around">
+            <!-- The menu bar -->
+            <div class="bg-black pb-4 flex justify-around">
               <div class="">
                 <a href="/hugo2/">
-                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">About</p>
+                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">About</p>
                 </a>
               </div>
-              <div class="">
+              <div class=" ">
                 <a href="/hugo2/dojo/">
-                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">Dojo</p>
+                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">Dojo</p>
                 </a>
               </div>
               <div class="">
                 <a href="/hugo2/sensei/dojo-chou/">
-                  <p class="m-0 px-4 py-2 bg-blue-200  text-center">Dojo Chou</p>
+                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">Dojo Chou</p>
                 </a>
               </div>
             </div>
         </header>
+
+
         <div class="px-6">
           <!-- The content block. -->
           {{ block "content" . }}{{ end }}
         </div>
+
 
         <footer>
             <p>

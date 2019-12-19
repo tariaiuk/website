@@ -1,10 +1,10 @@
-<div class="mb-4 px-4 flex flex-wrap">
+<div class="mb-4 px-4 flex flex-col sm:flex-row sm:flex-wrap justify-center">
     <!-- <h2 class="text-3xl font-bold mb-2"></h2> -->
 
       {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{ range $pages }}
         <a class="m-6" href="{{ .RelPermalink }}">
-          <p class="m-0 p-4 bg-blue-200 w-48 text-center">
+          <p class="m-0 p-4 bg-blue-200 border border-blue-400 rounded w-48 text-center">
               {{ .Title }}
           </p>
         </a>
