@@ -1,18 +1,23 @@
-{{ define "heading" }}
-<!-- duplication of the code from index.html-->
-    {{ with .Site.Params.mon }}
+<!-- {{ define "heading" }} -->
+<!-- duplication of the code from baseof.html-->
+    <!-- {{ with .Site.Params.mon }}
       <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
     {{ end }}
     <div class="flex-grow">
-        <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }}</h1>
-    </div>
-<!-- end of duplicate -->
-{{ end }}
+        <h1 class="text-center text-4xl text-white font-bold">{{ .Site.Title }} end of duplicate</h1>
+    </div> -->
+
+<!-- {{ end }} -->
 
 {{ define "content" }}
 <section class="mb-24">
+  {{ if eq .Section "sensei" }}
+  <p>this is the sensei section in list</p>
+    {{ partial "sensei-list.html" . }}
+  {{ else }}
     {{ range site.RegularPages.GroupByDate "2006" -}}
         {{ partial "posts.html" . }}
     {{ end }}
+  {{ end }}
 </section>
 {{ end }}

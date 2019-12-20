@@ -5,78 +5,14 @@
     <!-- <h3>block "content" in single.html</h3> -->
         {{ if eq .Section "dojo" }}
             <!-- <h3>dojo metadata go to partial</h3> -->
-            {{ partial "dojo-single.html" }}
+            {{ partial "dojo-single.html" . }}
             <!-- <h3>back from partial file</h3> -->
-            <div class="flex mb-0">
-              <p class="w-24 font-bold">NAME</p><p class=""> {{ .Params.dojoName }}</p>
-            </div>
-            <div class="flex mb-0 ">
-              <p class="w-24 font-bold">LEADER</p><p class=""> {{ .Params.dojoLeader }}</p>
-            </div>
-            <div class="flex flex-col sm:flex-row justify-center ">
-              <!-- if only 1 venue 640+ is too narrow -->
-              <div class="w-full xs:w-4/5 xs:mx-auto sm:max-w-xl md:max-w-xs p-4 border border-green-500 bg-green-200 mb-6 rounded shadow-lg">
-                <p class="mb-3 font-bold">Venue 1:</p>
-                <div class="flex mb-0 ">
-                  <p class="w-20 sm:w-16 md:w-24 mb-3">Name</p>
-                  <p class="mb-3"> {{ .Params.session1.venue }}</p>
-                </div>
-                <div class="flex mb-0 ">
-                  <p class="w-20 sm:w-16 md:w-24">Address</p>
-                    <div class="">
-                      <p class="mb-0"> {{ .Params.session1.addr1 }}</p>
-                      <p class="mb-0"> {{ .Params.session1.addr2 }}</p>
-                      <p class="mb-3"> {{ .Params.session1.addr3 }}</p>
-                    </div>
-                </div>
-                <div class="flex mb-0 ">
-                  <p class="w-20 sm:w-16 md:w-24 mb-3">Time</p>
-                  <div class="mb-0">
-                    <p class="mb-0"> {{ .Params.session1.time1 }}</p>
-                    {{ if isset .Params.session1 "time2" }}
-                      <p class="mb-3"> {{ .Params.session1.time2 }}</p>
-                    {{ end }}
-                  </div>
-                </div>
-              </div>
-
-              {{ if isset .Params "session2" }}
-              <div class="w-full xs:w-4/5 xs:mx-auto sm:max-w-x sm:ml-6 md:max-w-xs p-4 border border-green-500 bg-green-200 mb-6 rounded shadow-lg">
-                  <p class="mb-3 font-bold">Venue 2:</p>
-                  <div class="flex mb-0 ">
-                    <p class="w-20 sm:w-16 md:w-24 mb-3">Name</p>
-                    <p class="mb-3"> {{ .Params.session2.venue }}</p>
-                  </div>
-                  <div class="flex mb-0 ">
-                    <p class="w-20 sm:w-16 md:w-24">Address</p>
-                      <div class="">
-                        <p class="mb-0"> {{ .Params.session2.addr1 }}</p>
-                        <p class="mb-0"> {{ .Params.session2.addr2 }}</p>
-                        <p class="mb-3"> {{ .Params.session2.addr3 }}</p>
-                      </div>
-                  </div>
-                  <div class="flex mb-0 ">
-                    <p class="w-20 sm:w-16 md:w-24 mb-3">Time</p>
-                    <div class="mb-0">
-                      <p class="mb-0"> {{ .Params.session2.time1 }}</p>
-                      {{ if isset .Params.session2 "time2" }}
-                        <p class="mb-3"> {{ .Params.session2.time2 }}</p>
-                      {{ end }}
-                    </div>
-                  </div>
-                </div>
-              {{ end }}
-
-              <!-- <div class="w-full sm:w-1/3">
-              img
-              </div> -->
-            </div>
             {{ .Content }}
         {{ else if eq .Section "sensei" }}
         <!-- <p>i am in section sensei</p> -->
         <!-- there is only one page in section sensei.
         HOW do i transfer the current page reference to the partial file -->
-            {{ partial "dojo-chou" . }}
+            {{ partial "dojo-cho" . }}
         {{ else }}
             <!-- <h3>this content is a normal single</h3> -->
             <!-- {{ .Content }} -->

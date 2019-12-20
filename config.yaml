@@ -4,7 +4,7 @@ baseURL: https://davidstreet.org/hugo2/
 languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
 
-# theme: hugo-flex
+font: https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700
 theme: hugo-tailwind-journal
 pygmentsCodeFences: true
 pygmentsUseClasses: true

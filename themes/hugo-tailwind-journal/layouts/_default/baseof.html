@@ -43,7 +43,7 @@
     {{ end }}
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Arvo:400,700">
+    <link rel="stylesheet" href="{{ .Site.Params.font }}">
     <link rel="stylesheet" href="{{ "css/theme.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/chroma.dracula.css" | absURL }}">
 </head>
@@ -53,18 +53,18 @@
         <header class="mb-6 ">
             <!-- original comment: All the pages must have a heading block, defaults to a link for the home page and a title. -->
             <div class=" py-2 bg-black flex items-center">
-                {{ block "heading" . }}
+                <!-- {{ block "heading" . }} -->
                 <!-- perhap this code does not need to be in a block if never used elsewhere -->
                 <!-- there is a block in default/list.html -->
                     {{ with .Site.Params.mon }}
                       <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
                     {{ end }}
                     <div class="flex-grow">
-                        <h1 class="text-center text-2xl md:text-4xl text-white font-bold">
+                        <h1 class="text-center text-2xl sm:text-3xl md:text-4xl text-white font-bold">
                           {{ .Site.Title }}
                         </h1>
                     </div>
-                {{ end }}
+                <!-- {{ end }} -->
             </div>
 
             <!-- If the blog has translation, they shoul be displayed here. -->
@@ -90,11 +90,16 @@
                 </a>
               </div>
               <div class="">
-                <a href="/hugo2/sensei/dojo-chou/">
-                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">Dojo Chou</p>
+                <a href="/hugo2/sensei/dojo-cho/">
+                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">Dojo Cho</p>
                 </a>
               </div>
-            </div>
+              <!-- <div class="">
+                <a href="/hugo2/sensei/">
+                  <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">Sensei</p>
+                </a>
+              </div> -->
+          </div>
         </header>
 
 
@@ -105,7 +110,7 @@
 
 
         <footer>
-            <p>
+            <p class="pl-4">
                 &copy; {{ now.Format "2006"}}. Proudly made with 💕 with <a href="https://gohugo.io/" target="_blank">Hugo</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>.
             </p>
         </footer>

@@ -3,7 +3,7 @@
 
       {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{ range $pages }}
-        <a class="m-6" href="{{ .RelPermalink }}">
+        <a class="m-4" href="{{ .RelPermalink }}">
           <p class="m-0 p-4 bg-blue-200 border border-blue-400 rounded w-48 text-center">
               {{ .Title }}
           </p>

@@ -1,0 +1,45 @@
+<!-- <p>
+  {{ .Section  }} {{ .Title }}
+</p> -->
+
+{{ if eq .Params.title "Dojo-cho"  }}
+    <!-- <p>partial / dojo-cho layout</p> -->
+    <div class="mb-4">
+        <p>{{ .Params.para1 }}</p>
+        <div class=".clear-fix">
+          <div class="float-right w-56 ml-4">
+            <figure class="flex flex-col m-0">
+              <img src="{{ .Params.imghonda }}" alt="Honda sensei" class="">
+              <figcaption>With Honda sensei, 2014</figcaption>
+            </figure>
+          </div>
+          <p>{{ .Params.para2 }}</p>
+        </div>
+        <div class=".clear-fix">
+          <img src="{{ .Params.imgtrophies }}" alt="trophies" class="float-left w-64 mr-4">
+          <p>{{ .Params.para3 }}</p>
+        </div>
+        <div class=".clear-fix">
+          <div class="float-right w-40 sm:w-48 ml-4">
+            <figure class="flex flex-col m-0">
+              <img src="{{ .Params.imgtaikai }}" alt="Kyoto Taikai 2017" class="">
+              <figcaption>Kyoto Taikai 2017</figcaption>
+            </figure>
+          </div>
+          <p>{{ .Params.para4 }}</p>
+          <a href="https://en.wikipedia.org/wiki/Honda_clan">
+            <img src="{{ .Params.imgmon }}" alt="Honda clan" class="float-left w-20 sm:w-32 mr-4  rounded-full">
+          </a>
+          <p>{{ .Params.para5 }}</p>
+        </div>
+        <div class="">
+          <p>{{ .Params.para6 }}</p>
+        </div>
+
+
+
+    </div>
+{{ else if eq .Params.title "Andrew" }}
+  <p>in the else</p>
+  {{ .Content }}
+{{ end }}
