@@ -1,5 +1,5 @@
 ---
-title: Dojo-chou
+title: "Dojo-chou"
 date: 2019-12-17T11:48:51Z
 draft: false
 imghonda: /hugo2/img/HondaJHG2014.jpg

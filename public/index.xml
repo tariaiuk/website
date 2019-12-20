@@ -2,68 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tokyo Adachi Roshukai UK</title>
-    <link>http://davidstreet.org/hugo2/</link>
+    <link>https://davidstreet.org/hugo2/</link>
     <description>Recent content on Tokyo Adachi Roshukai UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 17 Dec 2019 11:48:51 +0000</lastBuildDate>
     
-	<atom:link href="http://davidstreet.org/hugo2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidstreet.org/hugo2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dojo-chou</title>
-      <link>http://davidstreet.org/hugo2/dojo-chou/</link>
+      <link>https://davidstreet.org/hugo2/sensei/dojo-chou/</link>
       <pubDate>Tue, 17 Dec 2019 11:48:51 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo-chou/</guid>
-      <description>text
-John Honisz-Greens Sensei first started training in Iaido as a teenager. His first Iaido teacher was Neil Kemp Sensei whom he met in 1986 in Edinburgh. That training continued until 1989 and stopped after Kemp Sensei relocated. During that time Honisz-Greens Sensei was also practicing Aikijutsu, and his passion for Aiki developed further when he met Gerd Kroell Sensei in 1990, and his subsequent membership of Tai Gyoku Ryu followed.</description>
+      <guid>https://davidstreet.org/hugo2/sensei/dojo-chou/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://davidstreet.org/hugo2/about/</link>
+      <link>https://davidstreet.org/hugo2/about/</link>
       <pubDate>Sun, 08 Dec 2019 19:48:51 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/about/</guid>
-      <description>The Tokyo Adachi Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu Iai (Yamanouchi-ha). Muso Jikiden Eishin Ryu (MJER) originates from Tosa Province (modern day Kochi), which was ruled by the Yamauchi clan throughout the Edo Period. The Tokyo Adachi Roshukai is led by Honda Masayoshi Jushin sensei who was awarded Iaijutsu Kongen no Maki by his teacher Onoue Masamitsu sensei. From Onoue sensei, our lineage goes through Kono Kanemitsu, Yamanouchi Toyotake, and Oe Masaji sensei.</description>
+      <guid>https://davidstreet.org/hugo2/about/</guid>
+      <description>Curriculum practiced by Tokyo Adachi Roshukai  Omori-Ryu - Seiza no bu [12 techniques] Tachiuchi no Kata [7 partner exercises] Zen Nihon Kendo Renmei Iaido [12 techniques] Batto Ryu [12 techniques] Keishi Ryu [6 techniques] Touhou [5 techniques] Eishin Ryu - Tattehiza no bu [10 techniques] Tsumeai no Kurai [10 partner exercises] Okuden Tachiwaza [13 techniques] Okuden Iwaza [8 techniques] Bangai no Bu [4 techniques] Tachiuchi no Kurai [10 partner exercises] Daisho Tachi Zume [8 partner exercises] Daisho Zume [7 partner exercises] Daiken Tori [10 partner exercises]  </description>
     </item>
     
     <item>
       <title>Edinburgh</title>
-      <link>http://davidstreet.org/hugo2/dojo/edinburgh/</link>
+      <link>https://davidstreet.org/hugo2/dojo/edinburgh/</link>
       <pubDate>Wed, 04 Dec 2019 19:49:15 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/edinburgh/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/edinburgh/</guid>
       <description>Located in the heart of Edinburgh this popular dojo is run by David Hickey and Matt Bielby.</description>
     </item>
     
     <item>
       <title>Glasgow</title>
-      <link>http://davidstreet.org/hugo2/dojo/glasgow/</link>
+      <link>https://davidstreet.org/hugo2/dojo/glasgow/</link>
       <pubDate>Tue, 03 Dec 2019 19:49:33 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/glasgow/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/glasgow/</guid>
       <description>The dojo was originally formed in 1973 by Sam McKay sensei and as such is recognised as Scotland&#39;s oldest running Iaido dojo. It has seen many dojo leaders since its formation and is now managed by Robert Boyd, who took over the reigns in 2017.
 Under Robert Boyd&#39;s leadership the dojo has grown both in numbers and strength and has become a pillar in the local community, not only receiving recognition from local councillors but also support in recognition of the grassroots work that the dojo does within the community.</description>
     </item>
     
     <item>
       <title>Borders</title>
-      <link>http://davidstreet.org/hugo2/dojo/borders/</link>
+      <link>https://davidstreet.org/hugo2/dojo/borders/</link>
       <pubDate>Mon, 02 Dec 2019 19:49:47 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/borders/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/borders/</guid>
       <description>David McLean runs the borders dojo located in Leitholm near Coldstream.</description>
     </item>
     
     <item>
       <title>Sussex</title>
-      <link>http://davidstreet.org/hugo2/dojo/sussex/</link>
+      <link>https://davidstreet.org/hugo2/dojo/sussex/</link>
       <pubDate>Sun, 01 Dec 2019 19:51:30 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/sussex/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/sussex/</guid>
       <description>Sussex has 2 dojo one in West Sussex and the other in East Sussex.</description>
     </item>
     

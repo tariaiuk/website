@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Find a dojo on Tokyo Adachi Roshukai UK</title>
-    <link>http://davidstreet.org/hugo2/dojo/</link>
+    <link>https://davidstreet.org/hugo2/dojo/</link>
     <description>Recent content in Find a dojo on Tokyo Adachi Roshukai UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 02 Dec 2019 19:49:47 +0000</lastBuildDate>
     
-	<atom:link href="http://davidstreet.org/hugo2/dojo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidstreet.org/hugo2/dojo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Edinburgh</title>
-      <link>http://davidstreet.org/hugo2/dojo/edinburgh/</link>
+      <link>https://davidstreet.org/hugo2/dojo/edinburgh/</link>
       <pubDate>Wed, 04 Dec 2019 19:49:15 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/edinburgh/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/edinburgh/</guid>
       <description>Located in the heart of Edinburgh this popular dojo is run by David Hickey and Matt Bielby.</description>
     </item>
     
     <item>
       <title>Glasgow</title>
-      <link>http://davidstreet.org/hugo2/dojo/glasgow/</link>
+      <link>https://davidstreet.org/hugo2/dojo/glasgow/</link>
       <pubDate>Tue, 03 Dec 2019 19:49:33 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/glasgow/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/glasgow/</guid>
       <description>The dojo was originally formed in 1973 by Sam McKay sensei and as such is recognised as Scotland&#39;s oldest running Iaido dojo. It has seen many dojo leaders since its formation and is now managed by Robert Boyd, who took over the reigns in 2017.
 Under Robert Boyd&#39;s leadership the dojo has grown both in numbers and strength and has become a pillar in the local community, not only receiving recognition from local councillors but also support in recognition of the grassroots work that the dojo does within the community.</description>
     </item>
     
     <item>
       <title>Borders</title>
-      <link>http://davidstreet.org/hugo2/dojo/borders/</link>
+      <link>https://davidstreet.org/hugo2/dojo/borders/</link>
       <pubDate>Mon, 02 Dec 2019 19:49:47 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/borders/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/borders/</guid>
       <description>David McLean runs the borders dojo located in Leitholm near Coldstream.</description>
     </item>
     
     <item>
       <title>Sussex</title>
-      <link>http://davidstreet.org/hugo2/dojo/sussex/</link>
+      <link>https://davidstreet.org/hugo2/dojo/sussex/</link>
       <pubDate>Sun, 01 Dec 2019 19:51:30 +0000</pubDate>
       
-      <guid>http://davidstreet.org/hugo2/dojo/sussex/</guid>
+      <guid>https://davidstreet.org/hugo2/dojo/sussex/</guid>
       <description>Sussex has 2 dojo one in West Sussex and the other in East Sussex.</description>
     </item>
     
