@@ -7,9 +7,9 @@ dojoName: Glasgow Kensaki Dojo
 dojoLeader: Robert Boyd
 
 imgLeader: "/hugo2/img/Robert-Boyd.jpg"
-imgNationals2019: "/hugo2/img/BKA-Nationals-2019.jpg"
-
-
+imgText:
+  url: "/hugo2/img/BKA-Nationals-2019.jpg"
+  alt: BKA Nationals 2019
 
 session1:
   venue: Hubsports

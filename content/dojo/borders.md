@@ -6,6 +6,11 @@ draft: false
 dojoName: Borders Dojo
 dojoLeader: David McLean
 
+imgLeader:
+imgText:
+  url:
+  alt:
+
 session1:
   venue: Leitholm Village Hall
   addr1: ask in the Plough,

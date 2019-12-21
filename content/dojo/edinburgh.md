@@ -6,6 +6,11 @@ draft: false
 dojoName: Edinburgh Dojo
 dojoLeader: David Hickey
 
+imgLeader:
+imgText:
+  url:
+  alt: 
+
 session1:
   venue: community hall
   addr1: 5 Crescent,

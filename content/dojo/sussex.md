@@ -6,6 +6,11 @@ draft: false
 dojoName: Sussex Dojo
 dojoLeader: Andrew Thrower
 
+imgLeader:
+imgText:
+  url:
+  alt:
+
 session1:
   venue: Sompting Village Hall
   addr1: West Street,
