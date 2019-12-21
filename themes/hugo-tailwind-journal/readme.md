@@ -1,4 +1,5 @@
 # History of this branch
+version 0.3 21/12/19
 
 ### Design
 
@@ -20,7 +21,7 @@ So dojo and sensei are list pages, about and the other level2 files are single p
  - Edinburgh
  - Glasgow
  - Borders
- - Sussex
+ - Sussex  - single entry or 2 pages east and west???
 - sensei
  - dojochou
  - space for other dojo leaders???
@@ -28,10 +29,10 @@ So dojo and sensei are list pages, about and the other level2 files are single p
 ### Other things
 menu is hard coded but could pick up from site config file <config.yaml>
 
-img file URLs are adjusted to fit with live version server setup
+img file URLs are adjusted to fit with live version server setup (not using baseURL)
 
-Hugo makes use of templates, partials and blocks. My {{referencing}} of the page/section/etc needs assistance.  
-the code for serving of the metadata, for the single page files, of each dojo is probably in the wrong place
+Hugo makes use of templates, partials and blocks. {{referencing}} of the page/section/etc has improved.  
+(the code for serving of the metadata, for the single page files, of each dojo is probably in the wrong place)
 
 Everything is changeable the font, colours, spacing, layout, design, etc
 
