@@ -9,13 +9,13 @@ dojoLeader: David Hickey
 imgLeader:
 imgText:
   url:
-  alt: 
+  alt:
 
 session1:
-  venue: community hall
-  addr1: 5 Crescent,
+  venue: Nelson Hall Community Centre
+  addr1: 5 Spittalfield Cres,
   addr2: Edinburgh,
-  addr3: E00 000
+  addr3: EH8 9QZ
   time1: Monday 19:00 - 21:00
   time2: Wednesday 19:00 - 21:00
 ---

@@ -8,7 +8,7 @@ dojoLeader: Robert Boyd
 
 imgLeader: "/hugo2/img/Robert-Boyd.jpg"
 imgText:
-  url: "/hugo2/img/BKA-Nationals-2019.jpg"
+  url: "/hugo2/img/kensaki-nats-2019.jpg"
   alt: BKA Nationals 2019
 
 session1:

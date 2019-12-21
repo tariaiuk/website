@@ -3,25 +3,27 @@
   <p class="mb-4 px-4">dojo name  {{ .Params.dojoName }}  working</p>
 </div> -->
 
+<div class="w-full md:w-2/3 md:mx-auto">
+  <div class=" flex justify-between  px-2 xs:px-8 md:px-0">
 
-<div class=" flex justify-between px-2 xs:px-8">
-
-  <div class="xs:pt-8">
-    <div class="flex mb-0">
-      <p class=" hidden xs:w-24 xs:block font-bold">NAME</p>
-      <p class="font-bold text-2xl text-center xs:text-left xs:text-base xs:font-normal"> {{ .Params.dojoName }}</p>
+    <div class="xs:pt-8">
+      <div class="flex mb-0">
+        <p class=" hidden xs:w-24 xs:block font-bold">NAME</p>
+        <p class="font-bold text-2xl text-center xs:text-left xs:text-base xs:font-normal"> {{ .Params.dojoName }}</p>
+      </div>
+      <div class="flex mb-0 justify-between xs:justify-start ">
+        <p class="w-24 mb-0 pt-4 xs:pt-0 ml-auto xs:ml-0 text-right xs:text-left font-bold">LEADER</p>
+        <p class="hidden xs:block"> {{ .Params.dojoLeader }}</p>
+      </div>
     </div>
-    <div class="flex mb-0 justify-between xs:justify-start ">
-      <p class="w-24 mb-0 pt-4 xs:pt-0 ml-auto xs:ml-0 text-right xs:text-left font-bold">LEADER</p>
-      <p class="hidden xs:block"> {{ .Params.dojoLeader }}</p>
-    </div>
-  </div>
 
-  <div class=" w-32 ml-4">
-    <figure class="flex flex-col m-0">
-      <img src="{{ .Params.imgLeader }}" alt="{{ .Params.dojoLeader }}" class="">
-      <figcaption>{{ .Params.dojoLeader }}</figcaption>
-    </figure>
+    <div class=" w-32 ml-4">
+      <figure class="flex flex-col m-0">
+        <img src="{{ .Params.imgLeader }}" alt="{{ .Params.dojoLeader }}" class="">
+        <figcaption>{{ .Params.dojoLeader }}</figcaption>
+      </figure>
+    </div>
+
   </div>
 </div>
 

@@ -5,8 +5,8 @@
           <div class="clear-fix">
             <div class="float-right w-32 xs:w-40 sm:w-56 ml-4">
               <figure class="flex flex-col m-0">
-                <img src="{{ .Params.imghonda1 }}" alt="Honda sensei" class="">
-                <figcaption>Honda sensei</figcaption>
+                <img src="{{ .Params.imghonda1.url }}" alt="{{ .Params.imghonda1.alt }}" class="">
+                <figcaption>{{ .Params.imghonda1.alt }}</figcaption>
               </figure>
             </div>
             <p>{{ .Params.para1 }}</p>
@@ -15,8 +15,8 @@
           <div class="clear-fix">
             <div class="float-left w-40 xs:w-56 md:w-64 mr-4">
               <figure class="flex flex-col m-0">
-                <img src="{{ .Params.imghonda2 }}" alt="Yamauchi Toyotake Hoken" class="">
-                <figcaption>Yamauchi Toyotake Hoken</figcaption>
+                <img src="{{ .Params.imghonda2.url }}" alt="{{ .Params.imghonda2.alt }}" class="">
+                <figcaption>{{ .Params.imghonda2.alt }}</figcaption>
               </figure>
             </div>
             <p class="m-0">{{ .Params.para2 }}</p>
@@ -25,8 +25,8 @@
           <div class="clear-fix">
             <div class="float-right w-32 xs:w-40 sm:w-56 ml-4">
               <figure class="flex flex-col m-0">
-                <img src="{{ .Params.imghonda3 }}" alt="Onoue Sensei" class="">
-                <figcaption>Onoue Sensei</figcaption>
+                <img src="{{ .Params.imghonda3.url }}" alt="{{ .Params.imghonda3.alt }}" class="">
+                <figcaption>{{ .Params.imghonda3.alt }}</figcaption>
               </figure>
             </div>
             <p>{{ .Params.para3 }}</p>
