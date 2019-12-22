@@ -50,21 +50,28 @@
 <!-- <body class="font-serif bg-gray-200 border-t-4 border-blue-500 antialiased"> -->
 <body class=" bg-gray-200 ">
     <div class="w-full  lg:px-0 lg:mx-auto lg:w-3/4">
-        <header class="mb-6 ">
+        <header class="mb-6 bg-black ">
             <!-- original comment: All the pages must have a heading block, defaults to a link for the home page and a title. -->
-            <div class=" py-2 bg-black flex items-center">
-                <!-- {{ block "heading" . }} -->
-                <!-- perhap this code does not need to be in a block if never used elsewhere -->
-                <!-- there is a block in default/list.html -->
+            {{ block "heading" . }}
+                <div class=" pt-2 flex items-center">
+                <!-- "/default single" has right mon changed for Glassgow dojo -->
                     {{ with .Site.Params.mon }}
-                      <img class="w-20 sm:w-32 ml-2 sm:ml-4 mr-6" src="{{ .src }}" alt="{{ .alt }}">
+                      <img class="w-20 sm:w-32 ml-2 sm:ml-4 " src="{{ .src }}" alt="{{ .alt }}">
                     {{ end }}
                     <div class="flex-grow">
-                        <h1 class="text-center text-2xl sm:text-3xl md:text-4xl text-white font-bold">
-                          {{ .Site.Title }}
+                        <h1 class="text-center text-3xl xs:text-5xl sm:text-6xl text-white">
+                          {{ .Site.Params.kanji }}
                         </h1>
                     </div>
-                <!-- {{ end }} -->
+                    {{ with .Site.Params.mon }}
+                      <img class="w-20 sm:w-32 mr-2 sm:ml-r4 " src="{{ .src }}" alt="{{ .alt }}">
+                    {{ end }}
+                </div>
+            {{ end }}
+            <div class="pb-4">
+                <h1 class="text-center text-2xl sm:text-3xl md:text-4xl text-white font-bold">
+                  {{ .Site.Title }}
+                </h1>
             </div>
 
             <!-- If the blog has translation, they shoul be displayed here. -->
@@ -78,7 +85,7 @@
             {{ end }}
 
             <!-- The menu bar -->
-            <div class="bg-black pb-4 flex justify-around">
+            <div class=" pb-4 flex justify-around">
               <div class="">
                 <a href="/hugo2/">
                   <p class="m-0 px-4 py-2 bg-blue-200 border rounded text-center shadow-inner">About</p>
