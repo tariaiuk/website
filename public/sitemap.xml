@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://davidstreet.org/hugo2/sensei/andrew/</loc>
-    <lastmod>2019-12-20T16:58:30+00:00</lastmod>
+    <loc>https://davidstreet.org/hugo2/about/</loc>
+    <lastmod>2019-12-21T17:48:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://davidstreet.org/hugo2/</loc>
+    <lastmod>2019-12-21T17:48:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidstreet.org/hugo2/sensei/andrew/</loc>
     <lastmod>2019-12-20T16:58:30+00:00</lastmod>
   </url>
   
@@ -18,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://davidstreet.org/hugo2/about/</loc>
+    <loc>https://davidstreet.org/hugo2/lineage/</loc>
     <lastmod>2019-12-08T19:48:51+00:00</lastmod>
   </url>
   

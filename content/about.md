@@ -1,49 +1,26 @@
 ---
 title: "About"
-date: 2019-12-08T19:48:51Z
+date: 2019-12-21T17:48:51Z
 draft: false
 
-imghonda1:
-  url: /hugo2/img/Honda Masayoshi sensei 11-19b.jpeg
-  alt: Honda Masayoshi
-imgOnoue:
-  url: /hugo2/img/Onoue-Sensei.JPEG
-  alt: Onoue Masamitsu
-imgYamauchi:
-  url: /hugo2/img/Yamauchi-Toyotake-Hoken.jpg
-  alt: Yamauchi Toyotake
+imggroup:
+  url: /hugo2/img/Glasgow-nov2019.JPG
+  alt: Tokyo Adachi Roshukai UK seminar in Glasgow, November 2019
+imgbka:
+  url: /hugo2/img/BKA_logo3.png
+  alt: British Kendo Association
+  link: http://www.britishkendoassociation.com/
 
-para1: The Tokyo Adachi Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu Iai (Yamanouchi-ha).  Muso Jikiden Eishin Ryu (MJER) originates from Tosa Province (modern day Kochi), which was ruled by the Yamauchi clan throughout the Edo Period.  The Tokyo Adachi Roshukai is led by Honda Masayoshi Jushin sensei who was awarded Iaijutsu Kongen no Maki by his teacher Onoue Masamitsu sensei. From Onoue sensei, our lineage goes through Kono Kanemitsu, Yamanouchi Toyotake, and Oe Masaji sensei.  Honda sensei was also a student of Iwata Norikazu sensei, the founder of the Roshukai.
-para2: Yamanouchi Toyotake sensei (1903 - 1946) held the title of viscount and was a direct student of 17th generation instructor Oe Masaji (1852 - 1927).  He was one of multiple students to receive the Iaijutsu Kongen no Maki, a scroll signifying complete transmission.  As the grandson of daimyo Yamauchi Yodo, Oe sensei's former lord, he was taught iai befitting a lord.  While the core remains the same, this manifests through small stylistic differences from other branches of MJER.
+para1: Welcome to the home page of the Tokyo Adachi Roshukai UK. We are a non-profit making martial arts club established to help promote the art of Iaido throughout the UK.
 
-para4: The Tokyo Adachi Roshukai practices an extensive curriculum of both solo iai forms and paired kata.  Honda sensei is also a member of the Zen Nihon Kendo Renmei (ZNKR) and holds the rank of Kyoshi 7dan.
+para2: Please navigate around our site to see what we do and where we are located. If you have any queries, please don't hesitate to send us an email or find us on Facebook.
+
+para3: Iaido, pronounced ee-eye-doe and often abbreviated to iai, is a traditional Japanese martial art that can be translated as 'the art of drawing the sword', or 'the way of mental presence and immediate reaction'. Iaido emphasises being aware and capable of quickly drawing the sword and responding to a sudden attack from multiple opponents.
+
+para4: Iaido is practiced through controlled precise movements and forms which are taught as individual techniques called kata. Although Iaido is generally non-contact consisting of solo kata against imaginary opponents and working in pairs with bokuto (wooden swords), there are some more advanced forms that include grappling techniques.
+
+para5: At Tokyo Adachi Roshukai UK, we practice the Yamanouchi-ha Iai of Muso Jikiden Eishin Ryu, but our syllabus also includes the standardised set of twelve iaido forms formulated by the All Japan Kendo Federation (Zen Nippon Kendo Renmei, ZNKR) that are taught within a number of Iaido/Kendo federations to teach and promote iaido around the world. Please see the 'About' tab for more information on the iai we study and our lineage.
+
+para6: All our dojo are registered and insured with the British Kendo Association (BKA), which is the official governing body for Iaido in the UK.
+
 ---
-
-<!-- ![[img src=attached-image.jpg alt=foobar]] -->
-
-<!-- ![Honda sensei](/hugo2/img/honda-1.png) -->
-
-
-
-<!-- <img src="/honda-1.png" alt="alt" /> -->
-
-
-
-
-### Curriculum practiced by Tokyo Adachi Roshukai
-
-* Omori-Ryu - Seiza no bu [12 techniques]</li>
-* Tachiuchi no Kata [7 partner exercises]
-* Zen Nihon Kendo Renmei Iaido [12 techniques]
-* Batto Ryu [12 techniques]
-* Keishi Ryu [6 techniques]
-* Touhou [5 techniques]
-* Eishin Ryu - Tattehiza no bu [10 techniques]
-* Tsumeai no Kurai  [10 partner exercises]
-* Okuden Tachiwaza  [13 techniques]
-* Okuden Iwaza [8 techniques]
-* Bangai no Bu  [4 techniques]
-* Tachiuchi no Kurai  [10 partner exercises]
-* Daisho Tachi Zume [8 partner exercises]
-* Daisho Zume  [7 partner exercises]
-* Daiken Tori  [10 partner exercises]

@@ -3,14 +3,17 @@ title: "Glasgow"
 date: 2019-12-03T19:49:33Z
 draft: false
 
-dojoName: Glasgow Kensaki Dojo
+dojoName: Roshukai Kensaki
 dojoMon:
   src: "/hugo2/img/kensaki-mon.jpg"
   alt:
 
 dojoLeader: Robert Boyd
-imgLeader: "/hugo2/img/Robert-Boyd.jpg"
 
+facebook: "https://www.facebook.com/RoshukaiKensaki/"
+email: "roshukai.kensaki@outlook.com"
+
+imgLeader: "/hugo2/img/Robert-Boyd.jpeg"
 imgText:
   url: "/hugo2/img/kensaki-nats-2019.jpg"
   alt: BKA Nationals 2019

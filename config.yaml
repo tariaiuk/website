@@ -52,14 +52,14 @@ params:
   #   - bar.js
 
 
-menu:
-  nav:
-  - name: About
-    url: about/
-    weight: 1
-  - name: Dojo
-    url: dojo/
-    weight: 2
+# menu:
+#   nav:
+#   - name: About
+#     url: about/
+#     weight: 1
+#   - name: Dojo
+#     url: dojo/
+#     weight: 2
   # - name: Tags
   #   url: tags/
   #   weight: 3

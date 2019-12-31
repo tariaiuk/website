@@ -28,7 +28,11 @@
 {{ define "content" }}
   <article class="mb-12">
     <!-- <h3>block "content" in single.html</h3> -->
-        {{ if eq .Section "dojo" }}
+        {{ if eq .Page.Params.title "About" }}
+            {{ partial "about.html" . }}
+        {{ else if eq .Page.Params.title "Lineage" }}
+            {{ partial "lineage.html" . }}
+        {{ else if eq .Section "dojo" }}
             <!-- <h3>dojo metadata go to partial</h3> -->
             {{ partial "dojo-single.html" . }}
             <!-- <h3>back from partial file</h3> -->

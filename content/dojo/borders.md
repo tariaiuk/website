@@ -3,8 +3,11 @@ title: "Borders"
 date: 2019-12-02T19:49:47Z
 draft: false
 
-dojoName: Borders Dojo
+dojoName: Roshukai Borders
 dojoLeader: David McLean
+
+facebook: "https://www.facebook.com/groups/458271904854761/"
+email: "roshukaiborders@gmail.com"
 
 imgLeader:
 imgText:
@@ -13,10 +16,12 @@ imgText:
 
 session1:
   venue: Leitholm Village Hall
-  addr1: ask in the Plough,
+  addr1: Main Street,
   addr2: Leitholm,
-  addr3: ABC
+  addr3: TD12 4JN
   time1: Monday 19:00 - 21:00
 ---
 
-David McLean runs the borders dojo located in Leitholm near Coldstream.
+David McLean has been involved in Iaido since the early 2001. He helped found the Edinburgh club under tuition from John Honisz-Green Sensei and took over Dojo Leader role whilst Honisz-Greens sensei was in Japan. In 2014 David moved to Leitholm in the Scottish Borders to run a small village Inn and continued to co-teach at the Edinburgh Club. In 2017, he decided to start a club in the Borders and subsequent leadership was transferred to the two most senior students in the Edinburgh Club.  
+
+The Tokyo Adachi Roshukai - Border is registered with the BKA and David is a recognised BKA Regional Coach.  
