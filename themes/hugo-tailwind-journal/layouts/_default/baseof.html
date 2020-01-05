@@ -23,7 +23,7 @@
     <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
-    <meta property="og:image" content="{{ .Site.Params.Avatar | absURL }}">
+    <!-- <meta property="og:image" content="{{ .Site.Params.Avatar | absURL }}"> -->
 
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
 
@@ -52,7 +52,7 @@
       type="image/png"
       href="{{ "favicon.ico" | absURL }}">
 </head>
-<!-- <body class="font-serif bg-gray-200 border-t-4 border-blue-500 antialiased"> -->
+
 <body class=" bg-gray-200 ">
     <div class="w-full  lg:px-0 lg:mx-auto lg:w-3/4">
         <header class="mb-6 bg-black ">
@@ -94,22 +94,22 @@
                 <div class=" pb-4 md:pt-4 flex justify-around">
                   <div class="">
                     <a href="/hugo2/about/">
-                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border rounded text-center shadow-inner">About</p>
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">About</p>
                     </a>
                   </div>
                   <div class="">
                     <a href="/hugo2/lineage/">
-                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border rounded text-center shadow-inner">Lineage</p>
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Lineage</p>
                     </a>
                   </div>
                   <div class="">
                     <a href="/hugo2/sensei/dojo-cho/">
-                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border rounded text-center shadow-inner">Dojo Cho</p>
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Dojo-Cho</p>
                     </a>
                   </div>
                   <div class=" ">
                     <a href="/hugo2/dojo/">
-                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border rounded text-center shadow-inner">Locations</p>
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Locations</p>
                     </a>
                   </div>
                 </div>

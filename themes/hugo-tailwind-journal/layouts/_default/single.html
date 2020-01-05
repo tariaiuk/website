@@ -1,6 +1,5 @@
 {{ define "heading" }}
     <div class=" pt-2 flex items-center">
-      <!-- "/default baseof" has default header  -->
       <!-- right mon changed for Glassgow dojo -->
         {{ with .Site.Params.mon }}
           <img class="w-20 sm:w-32 ml-2 sm:ml-4 " src="{{ .src }}" alt="{{ .alt }}">
@@ -26,27 +25,28 @@
 {{ end }}
 
 {{ define "content" }}
-  <article class="mb-12">
-    <!-- <h3>block "content" in single.html</h3> -->
+    <article class="mb-12 sm:px-2 md:px-4">
         {{ if eq .Page.Params.title "About" }}
             {{ partial "about.html" . }}
+            <!-- partial NOT using .Content -->
+
         {{ else if eq .Page.Params.title "Lineage" }}
             {{ partial "lineage.html" . }}
+            <!-- partial NOT using .Content -->
+
         {{ else if eq .Section "dojo" }}
-            <!-- <h3>dojo metadata go to partial</h3> -->
             {{ partial "dojo-single.html" . }}
-            <!-- <h3>back from partial file</h3> -->
+            <!-- .Content is used by borders and Eastsussex -->
             {{ .Content }}
+
         {{ else if eq .Section "sensei" }}
-        <!-- <p>i am in section sensei</p> -->
-        <!-- there is only one page in section sensei.
-        HOW do i transfer the current page reference to the partial file -->
             {{ partial "dojo-cho" . }}
+
         {{ else }}
             <!-- <h3>this content is a normal single</h3> -->
             <!-- {{ .Content }} -->
-            <!-- {{ template "_internal/disqus.html" . }} -->
+
         {{ end }}
 
-  </article>
+    </article>
 {{ end }}

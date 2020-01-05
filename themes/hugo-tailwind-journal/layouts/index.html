@@ -1,14 +1,9 @@
 
 {{ define "content" }}
-<section class="mb-24">
-    <!-- <h3>starting in index</h3> -->
-    <!-- <div class="bg-green-300">
-      <h1>About html partial is not used, all in index</h1>
-    </div> -->
+    <section class="mb-24 sm:px-2 md:px-4">
+        <!-- this is the front-page (domain root) -->
 
-    <div class="mb-4 xs:px-4 flex flex-wrap">
-       {{ partial "about" . }}
+        {{ partial "about" . }}
 
-    </div>
-</section>
+    </section>
 {{ end }}

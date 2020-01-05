@@ -32,7 +32,7 @@ session2:
   addr3: G33 3LB
   time1: Wednesday 19:00 - 21:00
 
-para1: The dojo was originally formed in 1973 by Sam McKay sensei and as such is recognised as Scotland's oldest running Iaido dojo. It has seen many dojo leaders since its formation and is now managed by Robert Boyd, who took over the reigns in 2017.
+para1: The dojo was originally formed in 1973 by Sam McKay sensei and as such is recognised as Scotland's oldest running Iaido dojo. It has seen many dojo leaders since its formation and is now managed by Robert Boyd, who took over the reins in 2017.
 
 para2: Under Robert Boyd's leadership the dojo has grown both in numbers and strength and has become a pillar in the local community, not only receiving recognition from local councillors but also support in recognition of the grassroots work that the dojo does within the community.
 

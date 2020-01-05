@@ -1,14 +1,14 @@
 {{ with .GetPage "about" }}
-<div class="">
+<div class="mb-4  ">
   <p>{{ .Params.para1 }}</p>
   <p>{{ .Params.para2 }}</p>
   <figure class="w-full mb-4 ">
     <img src="{{ .Params.imggroup.url }}" alt="{{ .Params.imggroup.alt }}" class="">
     <figcaption class="text-xs xs:text-sm xs:pl-1 sm:pl-2">{{ .Params.imggroup.alt }}</figcaption>
   </figure>
-  <p>{{ .Params.para3 }}</p>
+  <p><span class="font-bold">{{ .Params.inlinepara3 }}</span>{{ .Params.para3 }}</p>
   <p>{{ .Params.para4 }}</p>
-  <p>{{ .Params.para5 }}</p>
+  <p>{{ .Params.para5 }}<a href="{{ .Params.para5linkpage | absURL }}" class="text-blue-600 underline">{{ .Params.para5linktext }}</a>{{ .Params.para5moretext }}</p>
   <p>{{ .Params.para6 }}</p>
   <figure class=" mb-4 ">
     <a href="{{ .Params.imgbka.link }}" target="_blank" rel="noopener noreferrer">

@@ -1,5 +1,5 @@
 ---
-title: Dojo-cho
+title: Dojo-Cho
 date: 2019-12-17T11:48:51Z
 draft: false
 imgmon: /hugo2/img/Honda-mon-1200.png

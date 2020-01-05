@@ -3,6 +3,7 @@ baseURL: https://davidstreet.org/hugo2/
 # baseURL: http://davidstreet.org/
 languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
+author: "Tokyo Adachi Roshukai UK"
 
 font: https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700
 theme: hugo-tailwind-journal
@@ -11,6 +12,7 @@ pygmentsUseClasses: true
 
 
 params:
+  description:
   color: black           # Any color in CSS syntax
   width: 48rem          # Any length in CSS syntax
 
