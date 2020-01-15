@@ -1,9 +1,9 @@
 ---
 title: "Glasgow"
-date: 2019-12-03T19:49:33Z
+date: 2019-12-05T19:49:33Z
 draft: false
 
-dojoName: Roshukai Kensaki
+dojoName: Roshukai Glasgow Kensaki
 dojoMon:
   src: "/hugo2/img/kensaki-mon.jpg"
   alt:

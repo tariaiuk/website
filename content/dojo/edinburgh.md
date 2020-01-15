@@ -1,6 +1,6 @@
 ---
 title: "Edinburgh"
-date: 2019-12-04T19:49:15Z
+date: 2019-12-06T19:49:15Z
 draft: false
 
 dojoName: Roshukai Edinburgh
@@ -10,9 +10,15 @@ facebook: "https://www.facebook.com/groups/74135630207/"
 email: a@b.com
 
 imgLeader: /hugo2/img/David-Hickey.jpg
-imgText:
-  url:
-  alt:
+imgText:  
+  url: /hugo2/img/edinburgh-nats-2018.jpg
+  alt: BKA Nationals 2018
+imgGroup:
+  url: /hugo2/img/edinburgh-group.jpg
+  alt: Dojo group photo
+imgSeniors:
+  url: /hugo2/img/edinburgh-teachers.jpg
+  alt: Edinburgh Seniors
 
 session1:
   venue: Nelson Hall Community Centre

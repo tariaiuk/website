@@ -5,13 +5,17 @@
           <img class="w-20 sm:w-32 ml-2 sm:ml-4 " src="{{ .src }}" alt="{{ .alt }}">
         {{ end }}
         <div class="flex-grow">
-            <h1 class="text-center text-3xl xs:text-5xl sm:text-6xl text-white">
+            <h1 class="text-center text-2xl xs:text-3xl sm:text-4xl md:text-6xl text-white kanji">
               {{ .Site.Params.kanji }}
             </h1>
         </div>
 
         <!-- <div class=""> -->
           {{ if eq .Page.Params.title "Glasgow" }}
+              {{ with .Page.Params.dojoMon }}
+                <img class="rounded-full w-20 sm:w-32 mr-2 sm:ml-r4 " src="{{ .src }}" alt="{{ .alt }}">
+              {{ end }}
+          {{ else if eq .Page.Params.title "Dartford" }}
               {{ with .Page.Params.dojoMon }}
                 <img class="rounded-full w-20 sm:w-32 mr-2 sm:ml-r4 " src="{{ .src }}" alt="{{ .alt }}">
               {{ end }}

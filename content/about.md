@@ -4,7 +4,7 @@ date: 2019-12-21T17:48:51Z
 draft: false
 
 imggroup:
-  url: /hugo2/img/Glasgow-nov2019.JPG
+  url: /hugo2/img/Glasgow-nov2019.jpg
   alt: Tokyo Adachi Roshukai UK seminar in Glasgow, November 2019
 imgbka:
   url: /hugo2/img/BKA_logo3.png

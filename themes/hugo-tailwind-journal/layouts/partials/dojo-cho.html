@@ -1,9 +1,5 @@
-<!-- <p>
-  {{ .Section  }} {{ .Title }}
-</p> -->
 
 {{ if eq .Params.title "Dojo-Cho"  }}
-    <!-- <p>partial / dojo-cho layout</p> -->
     <div class="mb-4">
         <p>{{ .Params.para1 }}</p>
         <div class="">
@@ -20,7 +16,7 @@
           <p>{{ .Params.para3 }}</p>
         </div>
         <div class="">
-          <div class="float-right w-40 sm:w-48 xl:w-1/5 ml-4">
+          <div class="float-right w-40 sm:w-48 xl:w-1/4 ml-4">
             <figure class="flex flex-col m-0">
               <img src="{{ .Params.imgtaikai }}" alt="Kyoto Taikai 2017" class="">
               <figcaption class="text-sm pl-2">Kyoto Taikai 2017</figcaption>
@@ -28,7 +24,7 @@
           </div>
           <p>{{ .Params.para4 }}</p>
           <a href="https://en.wikipedia.org/wiki/Honda_clan">
-            <img src="{{ .Params.imgmon }}" alt="Honda clan" title="Honda Clan" class="float-left w-20 sm:w-32 mr-4  rounded-full">
+            <img src="{{ .Params.imgmon }}" alt="Honda clan" title="Honda Clan" class="float-left w-20 sm:w-32 lg:w-40 mr-4  rounded-full">
           </a>
           <p>{{ .Params.para5 }}</p>
         </div>

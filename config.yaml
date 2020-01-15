@@ -5,7 +5,8 @@ languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
 author: "Tokyo Adachi Roshukai UK"
 
-font: https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700
+font: "https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700"
+# jpfont: "https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap"
 theme: hugo-tailwind-journal
 pygmentsCodeFences: true
 pygmentsUseClasses: true
@@ -26,7 +27,7 @@ params:
       width: ""
       alt: "Honda mon"
 
-  kanji: 蘆洲会
+  kanji: 東京足立蘆洲会
 
   footer: Except where otherwise noted, content on this site is licensed under a
     a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">

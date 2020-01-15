@@ -1,6 +1,6 @@
 ---
 title: "West Sussex"
-date: 2019-12-01T19:51:30Z
+date: 2019-12-02T19:51:30Z
 draft: false
 
 dojoName: Roshukai Sussex
@@ -11,8 +11,8 @@ email: "sussexiaido@outlook.com"
 
 imgLeader: "/hugo2/img/Andrew-Thrower.jpg"
 imgText:
-  url:
-  alt:
+  url: "/hugo2/img/Sussex-jan2020.jpg"
+  alt: Seminar in Sussex Jan 2020
 
 session1:
   venue: Sompting Village Hall

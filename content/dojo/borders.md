@@ -1,6 +1,6 @@
 ---
 title: "Borders"
-date: 2019-12-02T19:49:47Z
+date: 2019-12-04T19:49:47Z
 draft: false
 
 dojoName: Roshukai Borders
