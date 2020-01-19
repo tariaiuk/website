@@ -3,7 +3,7 @@ title: "East Sussex"
 date: 2019-12-01T10:51:30Z
 draft: false
 
-dojoName: Roshukai Sussex
+dojoName: Roshukai Sussex Dojo
 dojoLeader: Nicholas Bland
 
 facebook: "https://www.facebook.com/RoshukaiSussex/"

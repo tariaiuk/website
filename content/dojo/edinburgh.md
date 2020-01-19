@@ -3,11 +3,11 @@ title: "Edinburgh"
 date: 2019-12-06T19:49:15Z
 draft: false
 
-dojoName: Roshukai Edinburgh
+dojoName: Roshukai Edinburgh Dojo
 dojoLeader: David Hickey
 
-facebook: "https://www.facebook.com/groups/74135630207/"
-email: a@b.com
+facebook: "https://www.facebook.com/RoshukaiEdinburgh/"
+email: hickey.davidjames@gmail.com
 
 imgLeader: /hugo2/img/David-Hickey.jpg
 imgText:  

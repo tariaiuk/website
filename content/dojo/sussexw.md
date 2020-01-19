@@ -3,7 +3,7 @@ title: "West Sussex"
 date: 2019-12-02T19:51:30Z
 draft: false
 
-dojoName: Roshukai Sussex
+dojoName: Roshukai Sussex Dojo
 dojoLeader: Andrew Thrower
 
 facebook: "https://www.facebook.com/RoshukaiSussex/"

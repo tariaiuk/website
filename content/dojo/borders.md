@@ -3,10 +3,10 @@ title: "Borders"
 date: 2019-12-04T19:49:47Z
 draft: false
 
-dojoName: Roshukai Borders
+dojoName: Roshukai Borders Dojo
 dojoLeader: David McLean
 
-facebook: "https://www.facebook.com/groups/458271904854761/"
+facebook: "https://www.facebook.com/RoshukaiBorders/"
 email: "roshukaiborders@gmail.com"
 
 imgLeader: /hugo2/img/David-McLean.jpg

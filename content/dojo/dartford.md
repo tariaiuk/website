@@ -15,8 +15,17 @@ email: "anna-stone@outlook.com"
 
 imgLeader: "/hugo2/img/Anna-Stone.jpg"
 imgText:
-  url: "/hugo2/img/kensaki-nats-2019.jpg"
-  alt: BKA Nationals 2019
+  url: "/hugo2/img/AS-summer-2014.jpg"
+  alt: BKA AGM July 2014
+imgSensei1:
+  url: "/hugo2/img/AS-Stevenage-2008.jpg"
+  alt: Stevenage 2008
+imgSensei2:
+  url: "/hugo2/img/AS-nats-2013.jpg"
+  alt: BKA Nationals 2013
+imgSensei3:
+  url: "/hugo2/img/AS-Kyoto-taikai.jpg"
+  alt: Kyoto taikai
 
 session1:
   venue: Temple Hill School
@@ -33,10 +42,10 @@ session2:
 
 para1: Taigakai dojo has been running in Dartford since 2005. We are a small and friendly dojo and we welcome beginners at any time. We are members of the British Kendo Association, our national organisation, and we regularly attend local, regional, and national seminars. Our members have won medals in national and European competitions.
 
-para2: some more
+para2:  Anna Stone has been studying Iaido for over 35 years. She has represented the UK in the European Iaido competition as a competitor and as a referee.
 
-para3: some more
+para3: The dojo practices Muso Jikiden Eishin Ryu - Yamanouchi-ha, and is also a member of the British Kendo Association and practices All Japan Kendo Federation (ZNKR) Iaido.
 
-para4: The dojo practices Muso Jikiden Eishin Ryu - Yamanouchi-ha, and is also a member of the British Kendo Association and practices All Japan Kendo Federation (ZNKR) Iaido.
+para4:
 
 ---
