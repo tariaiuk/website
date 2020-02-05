@@ -104,17 +104,28 @@
 </div>
 
 <div class="w-full clearfix">
-  <p class="mb-3"> {{ .Params.para1 }}</p>
-
-  <div class="clear-fix">
-    <div class="float-left  mr-4">
-      <figure class="flex flex-col m-0">
-        <img src="{{ .Params.imgText.url }}" alt="{{ .Params.imgText.alt }}" class="w-40 xs:w-56 md:w-64">
-        <figcaption class="text-sm pl-2">{{ .Params.imgText.alt }}</figcaption>
-      </figure>
+  {{ if isset .Params "para1" }}
+    <p class="mb-3"> {{ .Params.para1 }}</p>
+    <div class="clear-fix">
+      <div class="float-left  mr-4">
+        <figure class="flex flex-col m-0">
+          <img src="{{ .Params.imgText.url }}" alt="{{ .Params.imgText.alt }}" class="w-40 xs:w-56 md:w-64">
+          <figcaption class="text-sm pl-2">{{ .Params.imgText.alt }}</figcaption>
+        </figure>
+      </div>
     </div>
-  </div>
-  <p class="mb-3"> {{ .Params.para2 }}</p>
+    <p class="mb-3"> {{ .Params.para2 }}</p>
+  {{ else }}
+    <div class="clear-fix">
+      <div class="float-right  ml-4">
+        <figure class="flex flex-col m-0">
+          <img src="{{ .Params.imgText.url }}" alt="{{ .Params.imgText.alt }}" class="w-40 xs:w-56 md:w-64">
+          <figcaption class="text-sm pl-2">{{ .Params.imgText.alt }}</figcaption>
+        </figure>
+      </div>
+    </div>
+    <p class="mb-3"> {{ .Params.para2 }}</p>
+  {{ end }}
 
   <p class="mb-3"> {{ .Params.para3 }}</p>
   <p class="mb-3"> {{ .Params.para4 }}</p>
@@ -123,8 +134,8 @@
 
 <div class="flex flex-wrap justify-around">
   {{ if isset .Params.imgGroup "url" }}
-  <div class="w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
-    <figure class="flex flex-col m-0">
+  <div class="self-end w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
+    <figure class="flex flex-col m-0 ">
       <img src="{{ .Params.imgGroup.url }}" alt="{{ .Params.imgGroup.alt }}" class="">
       <figcaption class="text-sm pl-2">{{ .Params.imgGroup.alt }}</figcaption>
     </figure>
@@ -132,7 +143,7 @@
   {{ end }}
 
   {{ if isset .Params.imgSeniors "url" }}
-    <div class="w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
+    <div class="self-end w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
       <figure class="flex flex-col m-0">
         <img src="{{ .Params.imgSeniors.url }}" alt="{{ .Params.imgSeniors.alt }}" class="">
         <figcaption class="text-sm pl-2">{{ .Params.imgSeniors.alt }}</figcaption>
@@ -141,7 +152,7 @@
   {{ end }}
 
   {{ if isset .Params.imgSensei1 "url" }}
-    <div class="w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
+    <div class="self-end w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
       <figure class="flex flex-col m-0">
         <img src="{{ .Params.imgSensei1.url }}" alt="{{ .Params.imgSensei1.alt }}" class="">
         <figcaption class="text-sm pl-2">{{ .Params.imgSensei1.alt }}</figcaption>
@@ -150,7 +161,7 @@
   {{ end }}
 
   {{ if isset .Params.imgSensei2 "url" }}
-    <div class="w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
+    <div class="self-end w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
       <figure class="flex flex-col m-0">
         <img src="{{ .Params.imgSensei2.url }}" alt="{{ .Params.imgSensei2.alt }}" class="">
         <figcaption class="text-sm pl-2">{{ .Params.imgSensei2.alt }}</figcaption>
@@ -159,7 +170,7 @@
   {{ end }}
 
   {{ if isset .Params.imgSensei3 "url" }}
-    <div class="w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
+    <div class="self-end w-40 xs:w-56 md:w-64 lg:w-1/3 mx-2">
       <figure class="flex flex-col m-0">
         <img src="{{ .Params.imgSensei3.url }}" alt="{{ .Params.imgSensei3.alt }}" class="">
         <figcaption class="text-sm pl-2">{{ .Params.imgSensei3.alt }}</figcaption>
