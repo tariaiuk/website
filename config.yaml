@@ -1,5 +1,6 @@
 # baseURL: localhost:8080
 baseURL: https://davidstreet.org/hugo2/
+publishDir: docs
 # baseURL: http://davidstreet.org/
 languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
