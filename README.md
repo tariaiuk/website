@@ -1,6 +1,15 @@
 version 0.3 21/12/19
 Latest v0.37 18/01/20
 
+### Getting hugo build action to work
+
+1. Add the ./.github/workflow/build.yaml page (see peaceiris/actions-hugo@v2.2.0 peaceiris/actions-gh-pages@v3)
+2. Generate an SSH keypair to use for writing commits
+3. Add the public key to the repository's Deploy keys (settings->Deploy keys) with write permission
+4. Add the private key to repository's Secrets  (settings->Secrets) as ACTIONS_DEPLOY_KEY
+
+NB: copy ssh keys with clip < ~/.ssh/<key>
+
 ### Design
 
 to have black header with mon  
