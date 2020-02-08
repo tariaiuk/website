@@ -1,0 +1,13 @@
+<div class="mb-4 px-4 flex   flex-wrap justify-center">
+    <!-- <h2 class="text-3xl font-bold mb-2"></h2> -->
+
+      <!-- {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+        {{ range $pages }} -->
+        <a class="m-4 sm:m-5" href="{{ .RelPermalink }}">
+          <p class="m-0 p-2 md:p-4 bg-blue-200 hover:bg-blue-300 border-2 border-blue-400 rounded shadow-inner w-48 xs:w-40  md:w-48 text-center">
+              {{ .Title }}
+          </p>
+        </a>
+        <!-- {{ end }} -->
+
+</div>
