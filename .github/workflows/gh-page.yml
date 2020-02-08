@@ -9,7 +9,7 @@ jobs:
   build-deploy:
     runs-on: ubuntu-18.04
     steps:
-      uses: actions/checkout@v2
+    - uses: actions/checkout@master
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
@@ -17,7 +17,7 @@ jobs:
         hugo-version: '0.58.3'
 
     - name: Build
-      run: hugo --gc --minify --cleanDestinationDir
+      run: hugo
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
