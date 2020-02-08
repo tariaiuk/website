@@ -4,10 +4,10 @@ date: 2019-12-21T17:48:51Z
 draft: false
 
 imggroup:
-  url: /rsk/img/Glasgow-nov2019.jpg
+  url: img/Glasgow-nov2019.jpg
   alt: Tokyo Adachi Roshukai UK seminar in Glasgow, November 2019
 imgbka:
-  url: /rsk/img/BKA_logo3.png
+  url: img/BKA_logo3.png
   alt: British Kendo Association
   link: http://www.britishkendoassociation.com/
 

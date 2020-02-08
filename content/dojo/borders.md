@@ -9,7 +9,7 @@ dojoLeader: David McLean
 facebook: "https://www.facebook.com/RoshukaiBorders/"
 email: "roshukaiborders@gmail.com"
 
-imgLeader: /rsk/img/David-McLean.jpg
+imgLeader: img/David-McLean.jpg
 imgText:
   url:
   alt:
