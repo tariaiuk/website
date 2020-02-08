@@ -11,7 +11,7 @@ imgbka:
   alt: British Kendo Association
   link: http://www.britishkendoassociation.com/
 
-para1: TEST Welcome to the homepage of the Tokyo Adachi Roshukai UK. We are a non-profit making martial arts club established to help promote and practice the art of Iaido throughout the UK.
+para1: Welcome to the homepage of the Tokyo Adachi Roshukai UK. We are a non-profit making martial arts club established to help promote and practice the art of Iaido throughout the UK.
 
 para2: Please navigate around our site to see what we do and where we are located. If you have any queries, please don't hesitate to send us an email or find us on Facebook.
 
