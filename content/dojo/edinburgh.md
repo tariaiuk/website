@@ -9,15 +9,15 @@ dojoLeader: David Hickey
 facebook: "https://www.facebook.com/RoshukaiEdinburgh/"
 email: hickey.davidjames@gmail.com
 
-imgLeader: img/David-Hickey.jpg
+imgLeader: /rsk/img/David-Hickey.jpg
 imgText:  
-  url: img/edinburgh-nats-2018.jpg
+  url: /rsk/img/edinburgh-nats-2018.jpg
   alt: BKA Nationals 2018
 imgGroup:
-  url: img/edinburgh-group.jpg
+  url: /rsk/img/edinburgh-group.jpg
   alt: Dojo group photo
 imgSeniors:
-  url: img/edinburgh-teachers.jpg
+  url: /rsk/img/edinburgh-teachers.jpg
   alt: Edinburgh Seniors
 
 session1:
