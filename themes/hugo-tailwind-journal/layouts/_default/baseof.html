@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="{{ .Site.Params.LanguageCode }}">
+
+<head>
+    <meta charset="utf-8">
+    {{ hugo.Generator }}
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify }}{{ end }}">
+    <meta name="twitter:site" content="{{ .Site.BaseURL }}">
+    <meta name="twitter:creator" content="{{ .Params.Author }}">
+    <meta name="twitter:image" content="{{ .Site.Params.Avatar | absURL }}">
+
+    <!-- Open-Graph Data -->
+    <meta property="og:locale" content="{{ .Site.Params.LanguageCode }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <!-- <meta property="og:image" content="{{ .Site.Params.Avatar | absURL }}"> -->
+
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+
+    <meta name="author" content="{{ .Site.Params.Author }}">
+    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify }}{{ end }}">
+
+    <!-- RSS -->
+    {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" href="{{ .RelPermalink | absURL }}" type="application/rss+xml" title="{{ $.Site.Title }}">
+    {{ end }}
+
+    <!-- Translations -->
+    {{ if .IsTranslated }}
+    {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Site.Title }}">
+    {{ end }}
+    {{ end }}
+
+    <!-- Stylesheets -->
+    <!-- calling google font not working from site config -->
+    <!-- <link rel="stylesheet" href="{{ .Site.Params.font }}"> -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap">
+    <!-- Stylesheet is using tailwindcss -->
+    <link rel="stylesheet" href="{{ "css/theme.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/chroma.dracula.css" | absURL }}">
+    <!-- favicon -->
+    <link rel="icon"
+      type="image/png"
+      href="{{ "favicon.ico" | absURL }}">
+</head>
+
+<body class=" bg-gray-200 ">
+    <div class="w-full  lg:px-0 lg:mx-auto lg:w-3/4">
+        <header class="mb-6 bg-black ">
+            <!-- original comment: All the pages must have a heading block, defaults to a link for the home page and a title. -->
+            {{ block "heading" . }}
+                <div class=" pt-2 flex items-center">
+                <!-- "/default single" has right mon changed for Glassgow dojo -->
+                    {{ with .Site.Params.mon }}
+                      <img class="w-20 sm:w-32 ml-2 sm:ml-4 " src="{{ .src }}" alt="{{ .alt }}">
+                    {{ end }}
+                    <div class="flex-grow">
+                        <h1 class="text-center text-2xl xs:text-3xl sm:text-4xl md:text-6xl text-white kanji">
+                          {{ .Site.Params.kanji }}
+                        </h1>
+                    </div>
+                    {{ with .Site.Params.mon }}
+                      <img class="w-20 sm:w-32 mr-2 sm:ml-r4 " src="{{ .src }}" alt="{{ .alt }}">
+                    {{ end }}
+                </div>
+            {{ end }}
+            <div class="pb-4">
+                <h1 class="text-center text-2xl sm:text-3xl md:text-4xl text-white font-bold">
+                  {{ .Site.Title }}
+                </h1>
+            </div>
+
+            <!-- If the blog has translation, they shoul be displayed here. -->
+            <!-- {{ if .IsTranslated }}
+            <nav>
+                {{ range $i, $lang := .Translations }}
+                {{ if $i }}/{{ end }}
+                <a href="{{ .Permalink }}">{{ $lang.Language.LanguageName }}</a>
+                {{ end}}
+            </nav>
+            {{ end }} -->
+
+            <!-- The menu bar -->
+            {{ block "nav" . }}
+                <div class=" pb-4 md:pt-4 flex justify-around">
+                  <div class="">
+                    <a href="/rsk/about/">
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 hover:bg-blue-300 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">About</p>
+                    </a>
+                  </div>
+                  <div class="">
+                    <a href="/rsk/lineage/">
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 hover:bg-blue-300 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Lineage</p>
+                    </a>
+                  </div>
+                  <div class=" ">
+                    <a href="/rsk/dojo/">
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 hover:bg-blue-300 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Locations</p>
+                    </a>
+                  </div>
+                  <div class="">
+                    <a href="/rsk/sensei/dojo-cho/">
+                      <p class="m-0 px-2 py-1 xs:px-4 xs:py-2 text-sm sm:text-base bg-blue-200 hover:bg-blue-300 border-2 border-blue-100 rounded md:rounded-lg text-center shadow-inner">Dojo-Cho</p>
+                    </a>
+                  </div>
+                </div>
+            {{ end }}
+        </header>
+
+
+        <div class="px-6">
+          <!-- The content block. -->
+          {{ block "content" . }}{{ end }}
+        </div>
+
+
+        <footer>
+            <p class="pl-4">
+                &copy; {{ now.Format "2006"}}. Proudly made with 💕 with <a href="https://gohugo.io/" target="_blank">Hugo</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>.
+            </p>
+        </footer>
+    </div>
+
+    <!-- {{ template "_internal/google_analytics.html" . }} -->
+</body>
+</html>
