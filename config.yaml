@@ -1,7 +1,6 @@
 # baseURL: localhost:8080
-baseURL: https://davidstreet.org/hugo2/
+baseURL: https://tarskuk.github.io/ver2/
 publishDir: docs
-# baseURL: http://davidstreet.org/
 languageCode: en-gb
 title: "Tokyo Adachi Roshukai UK"
 author: "Tokyo Adachi Roshukai UK"
@@ -22,7 +21,7 @@ params:
   mainSections: dojo
 
   mon:
-      src: /hugo2/img/Honda-mon-1200.png
+      src: /img/Honda-mon-1200.png
       # src: honda-1.png
       shape: ""
       width: ""
