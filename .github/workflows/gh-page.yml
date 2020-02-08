@@ -26,4 +26,3 @@ jobs:
         publish_branch: master
         publish_dir: ./docs
         keep_files: true
-        allow_empty_commit: true
