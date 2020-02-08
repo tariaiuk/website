@@ -25,5 +25,5 @@ jobs:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_branch: master
         publish_dir: ./docs
-        keep-files: true
+        keep_files: true
         allow_empty_commit: true
