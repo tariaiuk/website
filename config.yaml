@@ -21,7 +21,7 @@ params:
   mainSections: dojo
 
   mon:
-      src: /hugo2/img/Honda-mon-1200.png
+      src: /rsk/img/Honda-mon-1200.png
       # src: honda-1.png
       shape: ""
       width: ""
