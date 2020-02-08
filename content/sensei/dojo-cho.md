@@ -2,10 +2,10 @@
 title: Dojo-Cho
 date: 2019-12-17T11:48:51Z
 draft: false
-imgmon: /rsk/img/Honda-mon-1200.png
-imghonda: /rsk/img/HondaJHG2014.jpg
-imgtrophies: /rsk/img/trophies.jpg
-imgtaikai: /rsk/img/JHG-Kyoto-Taikai-2017.jpg
+imgmon: /img/Honda-mon-1200.png
+imghonda: /img/HondaJHG2014.jpg
+imgtrophies: /img/trophies.jpg
+imgtaikai: /img/JHG-Kyoto-Taikai-2017.jpg
 
 para1: Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp Sensei whom he met in 1986, in Edinburgh, when he was a teenager. That training continued until 1989 and stopped after Kemp Sensei relocated. During that time Honisz-Greens Sensei was also practicing Aikijutsu, and his passion for Aiki developed further when he met Gerd Kroell Sensei in 1990, and his subsequent membership of Tai Gyoku Ryu followed. Honisz-Greens Sensei studied for several years under Kroell Sensei, gaining the rank Joden Kyohan and building and developing a great friendship before heading to Japan in 1997. It was when he went to Japan that he restarted Iaido training at the Kobe Shiyakusho Iaido Dojo.
 
@@ -20,9 +20,9 @@ para6: Honisz-Greens Sensei now lives in the Scottish Borders having returned to
 
 
 
-<!-- ![foobar](/rsk/img/With-Honda-sensei-July-2014-Ayase.jpg) -->
-<!-- ![Honda sensei](/rsk/img/10168142_10203729426226655_5851307795174138344_n.jpg) -->
+<!-- ![foobar](/img/With-Honda-sensei-July-2014-Ayase.jpg) -->
+<!-- ![Honda sensei](/img/10168142_10203729426226655_5851307795174138344_n.jpg) -->
 
 
 
-<!-- ![Kyoto taikai](/rsk/img/JHG-Kyoto-Taikai-2017.jpg) -->
+<!-- ![Kyoto taikai](/img/JHG-Kyoto-Taikai-2017.jpg) -->
