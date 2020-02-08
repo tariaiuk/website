@@ -9,9 +9,9 @@ dojoLeader: Andrew Thrower
 facebook: "https://www.facebook.com/RoshukaiSussex/"
 email: "sussexiaido@outlook.com"
 
-imgLeader: "/hugo2/img/Andrew-Thrower.jpg"
+imgLeader: "/rsk/img/Andrew-Thrower.jpg"
 imgText:
-  url: "/hugo2/img/Sussex-jan2020.jpg"
+  url: "/rsk/img/Sussex-jan2020.jpg"
   alt: Seminar in Sussex Jan 2020
 
 session1:

@@ -5,7 +5,7 @@ draft: false
 
 dojoName: Roshukai Dartford Taigakai
 dojoMon:
-  src: "/hugo2/img/taigakai-mon.jpg"
+  src: "/rsk/img/taigakai-mon.jpg"
   alt:
 
 dojoLeader: Anna Stone
@@ -13,15 +13,15 @@ dojoLeader: Anna Stone
 facebook: "https://www.facebook.com/Taigakai.iadio/"
 email: "anna-stone@outlook.com"
 
-imgLeader: "/hugo2/img/Anna-Stone.jpg"
+imgLeader: "/rsk/img/Anna-Stone.jpg"
 imgText:
-  url: "/hugo2/img/AS-summer-2014.jpg"
+  url: "/rsk/img/AS-summer-2014.jpg"
   alt: BKA AGM July 2014
 imgSensei1:
-  url: "/hugo2/img/AS-Stevenage-2008.jpg"
+  url: "/rsk/img/AS-Stevenage-2008.jpg"
   alt: Stevenage 2008
 imgSensei2:
-  url: "/hugo2/img/AS-Kyoto-taikai.jpg"
+  url: "/rsk/img/AS-Kyoto-taikai.jpg"
   alt: Kyoto taikai
 
 session1:
