@@ -10,7 +10,7 @@ dojoMon:
 
 dojoLeader: Anna Stone
 
-facebook: "https://www.facebook.com/Taigakai.iadio/"
+facebook: "https://www.facebook.com/Taigakai.iaido/"
 email: "anna-stone@outlook.com"
 
 imgLeader: "/img/Anna-Stone.jpg"
