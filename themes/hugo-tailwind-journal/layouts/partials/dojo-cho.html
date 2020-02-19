@@ -32,7 +32,17 @@
           <p>{{ .Params.para6 }}</p>
         </div>
 
+        <div class="">
+          <h4 class="my-4 text-xl">Published Articles</h4>
 
+          <div class="ml-4 flex flex-wrap">
+            <p class="m-0">{{ .Params.article1.name }}</p>
+            <a href="{{ .Params.article1.url }}" class="m-0 ml-auto px-4 text-center text-sm py-2 bg-gray-400 hover:bg-blue-300 border-2 border-blue-300 rounded shadow-inner">
+              Download <span class="m-0 p-1 bg-red-400 font-bold">{{ .Params.article1.format }}</span>
+            </a>
+          </div>
+
+        </div>
     </div>
 {{ else if eq .Params.title "Andrew" }}
 
