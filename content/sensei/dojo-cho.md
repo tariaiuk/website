@@ -14,15 +14,9 @@ para3: Honisz-Greens Sensei has studied hard in Japan to develop his Iai, and de
 para4: Honisz-Greens Sensei passed his 6th Dan examination at first attempt in June 2012 in Kofu city, Yamanashi prefecture - Japan.  He was awarded his Renshi Shogo from the Zen Nihon Kendo Renmei in 2013. He is a British Kendo Association accredited Club Coach Level 2 and been awarded National Coach status.
 para5: Tokyo Adachi Roshukai UK has been granted permission to use the Honda family mon (Honda-shi) in recognition of the affiliation it has to its roots in Japan and to Honda Masayoshi Sensei.
 para6: Honisz-Greens Sensei now lives in the Scottish Borders having returned to the UK in 2015 and Scotland in 2016. He is the Dojo-cho (Group Leader) of Tokyo Adachi Roshukai UK and supports the training within the Edinburgh, Glasgow, and Scottish Borders Dojo and with frequent trips the Sussex Dojo as well.
+
+article1:
+  name: Working Towards a Coherent and Cohesive Teaching Approach
+  format: pdf
+  url: /docs/Working-Towards-a-Coherent-and-Cohesive-Teaching-Approach.pdf
 ---
-
-
-
-
-
-<!-- ![foobar](/img/With-Honda-sensei-July-2014-Ayase.jpg) -->
-<!-- ![Honda sensei](/img/10168142_10203729426226655_5851307795174138344_n.jpg) -->
-
-
-
-<!-- ![Kyoto taikai](/img/JHG-Kyoto-Taikai-2017.jpg) -->
