@@ -14,8 +14,10 @@ jobs:
       with:
         node-version: '10.x'
 
-    - name: Rebuild theme
+    - name: Install npm
       run: npm install cross-env
+
+    - name: Rebuild theme
       run: npm run build
 
     - name: Setup Hugo
