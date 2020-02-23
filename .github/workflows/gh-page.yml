@@ -3,13 +3,20 @@ name: github pages
 on:
   push:
     branches:
-    - master
+    - feature/build-theme
 
 jobs:
   build-deploy:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+
+    - name: Rebuild theme
+      - run: npm install cross-env
+      - run: npm run build
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
@@ -19,10 +26,10 @@ jobs:
     - name: Build
       run: hugo
 
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_branch: master
-        publish_dir: ./
-        keep_files: true
+    # - name: Deploy
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   with:
+    #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+    #     publish_branch: master
+    #     publish_dir: ./
+    #     keep_files: true

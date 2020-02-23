@@ -10,6 +10,12 @@ Latest v0.37 18/01/20
 
 NB: copy ssh keys with clip < ~/.ssh/<key>
 
+### Updating the theme
+
+1. Install npm
+2. Install npm cross-env `npm install cross-env`
+3. Open theme directory and run `npm run build`
+
 ### Design
 
 to have black header with mon  
@@ -23,6 +29,7 @@ Frontpage is "about iaido"
 Using tailwind css to help with sizing objects in screen layout. Reason, because I like using it. pros: Flexbox and slim css file produced
 
 As it has static site content therefore using Hugo framework as site generator. Jo's suggestion
+
 ### Directory structure
 Hugo works on list pages and single pages  
 So dojo and sensei are list pages, about and the other level2 files are single pages. - - see below
