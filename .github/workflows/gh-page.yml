@@ -15,8 +15,8 @@ jobs:
         node-version: '10.x'
 
     - name: Rebuild theme
-      - run: npm install cross-env
-      - run: npm run build
+      run: npm install cross-env
+      run: npm run build
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
