@@ -11,6 +11,9 @@ module.exports = {
       flex: {
         'l-24': '0 0 6rem'
       },
+      width: {
+        '3/10': '30%',
+      },
       // fontFamily: {
       //   serif: ['Arvo'],
       //   mono: ['Source Code Pro']
