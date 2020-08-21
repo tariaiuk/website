@@ -21,12 +21,12 @@ imgSeniors:
   alt: Edinburgh Seniors
 
 session1:
-  venue: Nelson Hall Community Centre
-  addr1: 5 Spittalfield Cres,
+  venue: Walpole Hall, St Mary's Cathedral
+  addr1: Palmerston Pl,
   addr2: Edinburgh,
-  addr3: EH8 9QZ
+  addr3: EH12 5AW
   time1: Monday 19:00 - 21:00
-  time2: Wednesday 19:00 - 21:00
+  time2: Thursday 19:00 - 21:00
 
 
 
