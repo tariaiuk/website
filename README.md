@@ -1,6 +1,14 @@
 version 0.3 21/12/19
 Latest v0.37 18/01/20
 
+
+### Running Hugo
+
+from command line: hugo -D
+
+This is requred to rebuild the files within the /docs folder which are used for serving the site.
+This is not automatically run by github actions on merge, so needs to be run manually.
+
 ### Getting hugo build action to work
 
 1. Add the ./.github/workflow/build.yaml page (see peaceiris/actions-hugo@v2.2.0 peaceiris/actions-gh-pages@v3)
