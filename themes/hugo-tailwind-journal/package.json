@@ -12,6 +12,6 @@
     "concurrently": "^4.1.0",
     "cross-env": "^5.2.1",
     "cssnano": "^5.1.14",
-    "postcss-cli": "^6.1.2"
+    "postcss-cli": "^10.1.0"
   }
 }
