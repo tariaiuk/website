@@ -5,10 +5,6 @@
     <link>http://www.tokyoadachiroshukai.co.uk/tags/</link>
     <description>Recent content in Tags on Tokyo Adachi Roshukai UK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="http://www.tokyoadachiroshukai.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="http://www.tokyoadachiroshukai.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
