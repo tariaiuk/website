@@ -139,6 +139,10 @@ img {
     height: auto
 }
 
+.max-w-xl {
+    max-width: 36rem; /* This is an example value, adjust as needed */
+}
+
 .bg-white {
     background-color: #fff
 }

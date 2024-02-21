@@ -12,7 +12,7 @@
           </p>
           {{ with .Resources.GetMatch "*.{jpg,png}" }}
             <div class="flex-1">
-              <img src="{{ .Permalink }}" alt="{{ .Title }}" class="mx-auto block max-w-full h-auto border-4 border-gray-300">
+              <img src="{{ .Permalink }}" alt="{{ .Title }}" class="mx-auto block max-w-xl h-auto border-4 border-gray-300">
             </div>
           {{ end }}
         </div>

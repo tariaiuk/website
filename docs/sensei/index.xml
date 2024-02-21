@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Sensei on Tokyo Adachi Roshukai UK</title>
-    <link>http://localhost:1313/sensei/</link>
+    <link>http://www.tokyoadachiroshukai.co.uk/sensei/</link>
     <description>Recent content in The Sensei on Tokyo Adachi Roshukai UK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 20 Dec 2019 16:58:30 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sensei/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.tokyoadachiroshukai.co.uk/sensei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrew</title>
-      <link>http://localhost:1313/sensei/andrew/</link>
+      <link>http://www.tokyoadachiroshukai.co.uk/sensei/andrew/</link>
       <pubDate>Fri, 20 Dec 2019 16:58:30 +0000</pubDate>
-      <guid>http://localhost:1313/sensei/andrew/</guid>
+      <guid>http://www.tokyoadachiroshukai.co.uk/sensei/andrew/</guid>
       <description>about me:</description>
     </item>
     <item>
       <title>Dojo-Cho</title>
-      <link>http://localhost:1313/sensei/dojo-cho/</link>
+      <link>http://www.tokyoadachiroshukai.co.uk/sensei/dojo-cho/</link>
       <pubDate>Tue, 17 Dec 2019 11:48:51 +0000</pubDate>
-      <guid>http://localhost:1313/sensei/dojo-cho/</guid>
+      <guid>http://www.tokyoadachiroshukai.co.uk/sensei/dojo-cho/</guid>
       <description></description>
     </item>
   </channel>
