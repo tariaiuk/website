@@ -1,0 +1,575 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 5px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+a:active {
+    color: brown;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-bottom: 2px solid brown;
+    border-top: 2px solid brown;
+}
+
+table th {
+    border-bottom: 1px solid brown;
+}
+
+table th, table td {
+    padding: 0.75em;
+}
+
+.noto-serif-jp-regular {
+    font-family: "Noto Serif JP", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* header section */
+.header-area {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-title-div {
+    font-size: 1.1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin: 0;
+}
+
+.header-title-kanji {
+    font-size: 3.5em;
+    font-weight: 100;
+    font-family: "Noto Serif JP", serif
+}
+
+.header-title-english {
+    font-size: 1.8em;
+}
+
+.header-mon {
+    width: 9rem;
+    height: auto;
+}
+
+.menu-area {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
+
+.menu-button {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 0.5rem 1rem;
+    margin: 1px;
+    border-bottom: 4px solid #ebebeb;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: white;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    color: #202020;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.menu-button:hover {
+    color: brown;
+    text-decoration: none;
+    border-color: brown;
+}
+
+.content-area {
+    background-color: white;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1), 
+                -3px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* main section */
+.main-area {
+    margin: 1rem;
+    background-color: white;
+    line-height: 1.6; 
+}
+
+.main-area img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+/* Base picture embed style */
+.image-container {
+    padding: 0.75em;
+    border-bottom: 2px solid brown;
+    border-top: 2px solid brown;
+}
+
+.image-container img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 30em;
+}
+
+.image-container p {
+    text-align: center;
+    color: #555555;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+/* Specific picture embed styles */
+.single-image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.grid-image-container {
+    display: grid;
+    gap: 0.5em;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: start;
+}
+
+.image-with-caption-item {
+    display: grid; 
+    grid-template-rows: 1fr auto;
+}
+
+.image-with-caption-item img {
+    width: 100%;
+    object-fit: cover; 
+}
+
+.image-with-caption-item p {
+    margin: 0.5em;
+    text-align: center;
+}
+
+/* Round button-links with image */
+.centered-image-button {
+    padding: 0;
+    width: 50%;
+    margin: auto;
+}
+
+.centered-image-button img {
+    border-radius: 50%;
+}
+
+.image-with-caption-button {
+    -webkit-tap-highlight-color: transparent;
+}
+
+.image-with-caption-button img {
+    box-sizing: border-box;
+    padding: 1px;
+    transition: background-color 0.2s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.image-with-caption-button p {
+    margin: 0;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+.image-with-caption-button a {
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.image-with-caption-button a:hover img {
+    background-color: brown;
+}
+
+.image-with-caption-button a:hover {
+    color: brown; 
+}
+
+/* footer section */
+#scroll-to-top {
+    display: none;
+    position: fixed; 
+    bottom: 30px; 
+    right: 30px;
+    z-index: 99; 
+    border: none; 
+    outline: none; 
+    cursor: pointer; 
+    padding: 1px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.7);
+    background-image: url('../images/butterfly-folded-wings.png'); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    width: 60px; 
+    height: 60px; 
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#scroll-to-top:hover {
+    background-image: url('../images/butterfly-full-size.png'); /* Hover image */
+}
+
+#scroll-to-top:active {
+    background-image: url('../images/butterfly-full-size.png'); /* Active image */
+}
+
+#scroll-to-top.scrolling {
+    background-image: url('../images/butterfly-flight.gif'); /* Scrolling image */
+}
+
+.footer-area {
+    margin-bottom: 0;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-area p {
+    padding-top: 2em;
+    color: #555555;
+    font-size: 14px;
+}
+
+.footer-img {
+    width: auto;
+    height: 5em;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* dojos summary section */
+.grid-dojos-map {
+    border-top: 2px solid brown;
+    display: grid;
+    grid-template-columns: 1fr; 
+    align-items: top;
+    justify-content: center;
+    padding-top: 1em;
+}
+
+.grid-dojos-map-div {
+    padding: 0.25em;
+    justify-content: center;
+    border-bottom: 1px solid brown;
+    border-right: 0;
+}
+
+.grid-dojos-map-div img {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin: auto;
+}
+
+.grid-dojos {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(auto-fill, 1fr);
+    margin: 0.5em;
+}
+
+/* dojo section */
+.grid-dojo-card {
+    display: grid;
+    gap: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-top: 2px solid brown;
+    margin-bottom: 2em;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.grid-dojo-card-cell {
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.grid-dojo-card-cell::before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+
+.address-cell {
+    padding: 0.5em;
+    display: flex;
+    display: grid;
+    margin: auto;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.address-cell h3 {
+    margin: 0;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    font-size: 1em;
+}
+
+.address-subcell {
+    margin-top: 0.25em;
+    border-left: 1px solid brown;
+}
+
+.address-cell p {
+    margin: 0;
+    margin-left: 0.75em;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+    margin: 0;
+}
+
+.button {
+    text-align: center;
+    margin-left: 0.5em; 
+}
+
+.button img {
+    width: auto;
+    height: 40px;
+    transition: filter 0.3s ease; 
+}
+
+.button:hover img {
+    filter: saturate(1000%) brightness(150%) sepia(50%);
+}
+
+.grid-sensei {
+    border-top: 2px solid brown;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: top;
+    justify-content: center;
+    padding-top: 1.5em;
+    grid-gap: 1.0em;
+}
+
+.cell-sensei-bio {
+    border-bottom: 0;
+    border-left: 1px solid brown;
+    padding-left: 1em;
+}
+
+.sensei-img {
+    background-color: #303030;
+}
+
+.teacher-img {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0.25em;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.grid-senpai {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(auto-fill, 1fr);
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.senpai-item {
+    padding: 0.5em
+}
+
+.senpai-item img {
+    height: auto;
+    max-width: 90%;
+}
+
+.senpai-item p {
+    font-weight: 600;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+/* mobile scaling */
+@media (min-width: 900px) {
+    .main-area {
+        margin: 3rem;
+    }
+    .content-area {
+        width: 900px; 
+    }
+    .centered-image-button {
+        width: 35%;
+    }
+    .address-cell {
+        padding: 2em;
+    }
+    .button img {
+        height: 50px;
+    }
+    .grid-dojos-map {
+        grid-template-columns: 2fr 3fr;
+    }
+    .grid-dojos-map-div {
+        border-bottom: 0;
+        border-right: 1px solid brown;
+    }
+    .footer-area {
+        margin-bottom: 2em;
+    }
+}
+
+@media (max-width: 600px) {
+    .header-mon {
+        width: 7rem;
+    }
+    .header-title-kanji {
+        font-size: 2.5em;
+    }
+    .header-title-english {
+        font-size: 1.6em;
+    }
+    .image-container {
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .grid-dojo-card {
+        grid-template-columns: 1fr; 
+    }
+    .address-cell h3 {
+        font-size: 1.2em;
+    }
+    .grid-sensei {
+        grid-template-columns: 1fr; 
+    }
+    .grid-senpai {
+        grid-template-columns: 1fr; 
+    }
+    .cell-sensei-bio {
+        border-bottom: 1px solid brown;
+        padding-bottom: 1em;
+        margin-bottom: 2em;
+        border-left: 0;
+    }
+    .footer-img {
+        height: 4em;
+    }
+    .centered-image-button {
+        width: 40%;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-title-kanji {
+        font-size: 2.2em;
+    }
+    .header-title-english {
+        font-size: 1.4em;
+    }
+    .grid-image-container {
+        grid-template-columns: 1fr; 
+    }
+    .footer-img {
+        height: 3em;
+    }
+    .address-cell h3 {
+        font-size: 1em;
+    }
+    .centered-image-button {
+        width: 70%;
+    }
+}
+
+@media (max-width: 380px) {
+    .header-mon {
+        width: 5rem;
+    }
+    .header-title-kanji {
+        font-size: 2em;
+    }
+    .header-title-english {
+        font-size: 1.2em;
+    }
+    .header-area {
+        justify-content: start;
+    }
+    .menu-button {
+        font-size: 15px;
+    }
+}
