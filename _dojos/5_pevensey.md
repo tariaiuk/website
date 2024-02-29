@@ -3,7 +3,7 @@ layout: dojo
 title: "Pevensey"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "pevensey_avatar_s.png"
-entrance_picture: pev-dojo.jpg
+entrance_picture: pevensey-entrance.jpg
 practice_picture: default_practice.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77787.38718522633!2d0.271295313683996!3d50.827147422226254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47df72cc464a4035%3A0x87a3f18d2e23afa1!2s129%20Coast%20Rd%2C%20Pevensey%20Bay%2C%20Pevensey%20BN24%206NS!5e0!3m2!1sen!2suk!4v1708809671484!5m2!1sen!2suk
 address: "Ethelwood Community Centre <br>129 Coast Rd <br>Pevensey Bay <br>Pevensey, BN24 6NS"

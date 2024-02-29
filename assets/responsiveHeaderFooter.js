@@ -15,11 +15,13 @@ $(document).ready(function() {
         if (win.width() <= 600) { 
             $('#bridge-image').attr('src', '../assets/images/bridge_sq.jpg');
             $('#dojo-image').attr('src', '../assets/images/dojo_s_sq.png');
+            $('#teachers-welcome').attr('src', '../assets/images/teachers-welcome-sq.jpg');
             $('#dojo-cho').attr('src', '../assets/images/jhg_v48_edited_sq.jpg');
             $('#river-of-time').attr('src', '../assets/images/river-of-time-s-sq.png');
         } else {
             $('#bridge-image').attr('src', '../assets/images/bridge.jpg');
             $('#dojo-image').attr('src', '../assets/images/dojo_s.png');
+            $('#teachers-welcome').attr('src', '../assets/images/teachers-welcome.jpg');
             $('#dojo-cho').attr('src', '../assets/images/jhg_v48_edited.jpg');
             $('#river-of-time').attr('src', '../assets/images/river-of-time-s.png');
         }

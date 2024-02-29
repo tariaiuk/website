@@ -32,7 +32,7 @@ Beneath this text lies a curated map of our dojo locations. To discover tailored
 Our Dojos are open to all members, offering flexibility to practise at any location. We come together as a group several times a year for seminars, both in-house and those organised by the British Kendo Association, to enhance our skills and foster community spirit. Our senior members regularly travel to Japan, deepening their understanding and mastery through training in the birthplace of Iaido.
 
 <div class="image-container single-image-container">
-    <img src="../assets/images/teachers-welcome.jpg" alt="Kyoto Budo Centre 2022">
+    <img id="teachers-welcome" src="../assets/images/teachers-welcome.jpg" alt="Kyoto Budo Centre 2022">
     <p>Kyoto Budo Centre 2022</p>
 </div>
 
