@@ -1,0 +1,57 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: " en" }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokyo Adachi Roshukai UK</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="/assets/responsiveHeaderFooter.js"></script>
+</head>
+
+<body>
+    <div class="content-area">
+        <header>
+            <div class="header-area">
+                <img class="header-mon" src="/assets/images/Honda-mon-s.png" alt="Honda mon">
+                <div class="header-title-div">
+                    <h1 class="header-title-kanji">
+                        東京足立蘆洲会
+                    </h1>
+                    <h1 class="header-title-english">
+                        Tokyo Adachi Roshukai UK
+                    </h1>
+                </div>
+                <img class="header-mon" src="/assets/images/Honda-mon-s.png" alt="Honda mon">
+            </div>
+            <div class="menu-area">
+                <a href="/" class="menu-button">About</a>
+                <a href="/dojos/" class="menu-button">Dojos</a>
+                <a href="/lineage/" class="menu-button">Lineage</a>
+            </div>
+        </header>
+
+        <main class="main-area">
+            {{ content }}
+        </main>
+
+        <footer class="footer-area">
+            <img class="footer-img" src="/assets/images/dragonfly_footer_s.png" alt="Dragonfly">
+            <p class="footer-area-text">© 2024 Tokyo Adachi Roshukai UK</p>
+            <img class="footer-img" src="/assets/images/fly_footer_s.png" alt="fly">
+        </footer>
+    </div>
+    <button id="scroll-to-top" title="Scroll to Top"></button>
+</body>
+
+</html>
