@@ -33,7 +33,7 @@ Our Dojos are open to all members, offering flexibility to practise at any locat
 
 <div class="image-container single-image-container">
     <img id="teachers-welcome" src="../assets/images/teachers-welcome.jpg" alt="Kyoto Budo Centre 2022">
-    <p>Kyoto Budo Centre 2022</p>
+    <p>Kyoto Butokuden (京都武徳殿) 2022</p>
 </div>
 
 We warmly welcome new members to our friendly group. Whether you’re a beginner or experienced, you’ll find a supportive environment to learn and grow in the art of Iaido with us.
