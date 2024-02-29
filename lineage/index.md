@@ -37,8 +37,8 @@ Yamauchi Sensei had learned Yagyu Shinkage Ryu (**柳生新陰流** - "Yagyu New
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
-        <img src="../assets/images/Yamauchi-Toyotake-Hoken-sq.jpg" alt="Yamauchi Toyotake Hoken Sensei">
-        <p>Yamauchi Toyotake Hoken Sensei</p>
+        <img src="../assets/images/Kono-Kanemitsu-Sensei-vertical.png" alt="Kono Kanemitsu Sensei">
+        <p>Kono Kanemitsu Sensei</p>
     </div>
     <div class="image-with-caption-item">
         <img src="../assets/images/Onoue-Sensei-sq.jpeg" alt="Onoue Sensei">
@@ -72,6 +72,16 @@ The Tokyo Adachi Roshukai UK is honored to use the Honda family crest (Honda-shi
 
 # Syllabus
 ### Shoden
+<div class="image-container grid-image-container">
+    <div class="image-with-caption-item">
+        <img src="../assets/images/Yamauchi-Toyotake-Hoken-sq.jpg" alt="Yamauchi Toyotake Hoken Sensei 2">
+        <p>Yamauchi Toyotake Hoken Sensei</p>
+    </div>
+    <div class="image-with-caption-item">
+        <img src="../assets/images/Onoe-Masamitsu-Sensei-yaegaki-sq.png" alt="Onoue Sensei 2">
+        <p>Onoue Masamitsu Sensei</p>
+    </div>
+</div>
 In the spirit of Iaido, below is a glimpse into some of the Shoden (**初伝**) - or foundational entry level kata that shape our TAR syllabus. These forms serve as an introduction to the deeper, silent teachings that underpin our lineage’s rich history. These Shoden forms alone are enough to keep even the most avid practitioner busy for a lifetime, if not two lifetimes. Once a clear understanding and skill is developed, the student is then permitted to learn and practice deeper level Shoden forms and also introduced into the next higher forms.
 
 
@@ -103,6 +113,7 @@ Kumitachi (**組太刀**) refers to pre-arranged sparring forms or sequences pra
 | 5   | **鍔留め** | Tsuba-dome         | *Tsuba Stop*                              |
 | 6   | **受け流し** | Uke-nagaeshi     | *Receiving and Reversing*                 |
 | 7   | **万法** | Mappo                | *Complete Method*  |
+
 
 ### Zen Nippon Kendo Renmei
 The All Japan Kendo Federation (ZNKR) Iaido forms, as presented in this table, encompass a standardized set of techniques designed to cultivate precision, awareness, and harmony in the practice of Iaido.
