@@ -4,7 +4,7 @@ title: "Glasgow"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "glasgow_avatar_s.png"
 
-entrance_picture: glasgow-entrance.png
+entrance_picture: glasgow-entrance-s.png
 practice_picture: default_practice.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.2072819244663!2d-4.054520318975526!3d55.893609516344505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48886bdb9ee52901%3A0xb14e3acd063eefc3!2sGlenboig%20Life%20Centre!5e1!3m2!1sen!2suk!4v1708820285428!5m2!1sen!2suk
 address: "Glenboig Life Centre<br>110 Main St, Glenboig<br>Coatbridge ML5 2RD"
