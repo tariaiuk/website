@@ -114,8 +114,8 @@ Kumitachi (**組太刀**) refers to pre-arranged sparring forms or sequences pra
 | 6   | **受け流し** | Uke-nagaeshi     | *Receiving and Reversing*                 |
 | 7   | **万法** | Mappo                | *Complete Method*  |
 
-
 ### Zen Nippon Kendo Renmei
+
 The All Japan Kendo Federation (ZNKR) Iaido forms, as presented in this table, encompass a standardized set of techniques designed to cultivate precision, awareness, and harmony in the practice of Iaido.
 
 | No. |     |           Name |                   | School                                      |

@@ -175,6 +175,12 @@ table th, table td {
     flex-wrap: wrap;
 }
 
+.divider-image-container {
+    padding: 2em;
+    width: 90%;
+    margin: auto;
+}
+
 .grid-image-container {
     display: grid;
     gap: 0.5em;
@@ -533,6 +539,9 @@ table th, table td {
     .centered-image-button {
         width: 40%;
     }
+    .divider-image-container {
+        width: 35%;
+    }
 }
 
 @media (max-width: 480px) {
@@ -552,7 +561,10 @@ table th, table td {
         font-size: 1em;
     }
     .centered-image-button {
-        width: 70%;
+        width: 100%;
+    }
+    .divider-image-container {
+        width: 50%;
     }
 }
 
