@@ -51,7 +51,7 @@ Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
         <img src="../assets/images/giants.jpg" alt="Celebrating with teachers">
-        <p>Celebrating with teachers</p>
+        <p>Celebrating with Otsuka Hanshi and Akimoto Hanshi</p>
     </div>
     <div class="image-with-caption-item">
         <img src="../assets/images/HondaJHG2014_sq.jpg" alt="John Honisz-Greens with Honda Sensei">

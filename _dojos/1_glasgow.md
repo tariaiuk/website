@@ -41,8 +41,8 @@ The Dojo was originally formed in 1973 by Sam McKay Sensei and as such is recogn
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
-        <img src="../assets/images/dojos/kensaki-nats-2019.jpg" alt="BKA Nationals 2019">
-        <p>BKA Nationals 2019</p>
+        <img src="../assets/images/dojos/john-and-robert-senseis.jpg" alt="Honisz-Greens Sensei with Boyd sensei - Edinburgh 2023 Koryu Koshukai">
+        <p>Honisz-Greens Sensei with Boyd Sensei<br> Edinburgh 2023 Koryu Koshukai</p>
     </div>
     <div class="image-with-caption-item">
         <img src="../assets/images/dojos/Glasgow-summer19.jpg" alt="Glasgow summer 2019">
