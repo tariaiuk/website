@@ -17,6 +17,12 @@ Beneath this text lies a curated map of our dojo locations. To discover tailored
 <div class="grid-dojos-map">
     <div class="grid-dojos-map-div">
         <img src="../assets/images/dojo_map.png" alt="Dojo map">
+        <div class="buttons-area">
+            <a href="hickey.davidjames@gmail.com" class="button"><img src="../assets/images/email_s.png" alt="Email"></a>
+            <a href="https://www.facebook.com/groups/2858020104430167" class="button"><img src="../assets/images/facebook_s.png" alt="Facebook"></a>
+            <a href="https://www.instagram.com/roshukaiedinburgh/" class="button"><img src="../assets/images/instagram_s.png" alt="Instagram"></a>
+            <a href="" class="button"><img src="../assets/images/x_s.png" alt="X"></a>
+        </div>
     </div>
     <div class="grid-dojos">
     {% for dojo in site.dojos %}
