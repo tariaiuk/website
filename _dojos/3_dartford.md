@@ -1,7 +1,7 @@
 ---
 layout: dojo
 title: "Swanley"
-dojo-mon: taigakai-mon-2-s.png
+dojo-mon: Honda-mon-s.png
 dojo-avatar: "dartford_avatar_s.png"
 entrance_picture: swanley-entrance.jpg
 practice_picture: dartford_practice.png
