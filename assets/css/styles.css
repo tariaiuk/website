@@ -400,6 +400,13 @@ table th, table td {
     margin: 0;
 }
 
+.buttons-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
 .button {
     text-align: center;
     margin-left: 0.5em; 
