@@ -100,6 +100,9 @@ In the spirit of Iaido, below is a glimpse into some of the Shoden (**初伝**) 
 | 11  | **陰陽進退** | Inyo-shintai | *Yin and Yang<br>Advance and Retreat* |
 | 12  | **抜き打ち** | Nuki-uchi  | *Sudden Draw*    |
 
+<div class="divider-image-container">
+    <img src="../assets/images/sword-line.jpg" alt="divider image">
+</div>
 
 ### Kumitachi
 Kumitachi (**組太刀**) refers to pre-arranged sparring forms or sequences practised with bokken **木剣** (wooden swords) in Japanese martial arts, particularly in disciplines such as Iaido, Kenjutsu, and Kendo. These forms are designed to teach practitioners the principles of timing, distance, and technique in a combat situation, simulating real sword fights to enhance understanding and application of martial arts concepts.
@@ -113,6 +116,10 @@ Kumitachi (**組太刀**) refers to pre-arranged sparring forms or sequences pra
 | 5   | **鍔留め** | Tsuba-dome         | *Tsuba Stop*                              |
 | 6   | **受け流し** | Uke-nagaeshi     | *Receiving and Reversing*                 |
 | 7   | **万法** | Mappo                | *Complete Method*  |
+
+<div class="divider-image-container">
+    <img src="../assets/images/sword-line.jpg" alt="divider image">
+</div>
 
 ### Zen Nippon Kendo Renmei
 
