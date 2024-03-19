@@ -18,12 +18,16 @@ $(document).ready(function() {
             $('#teachers-welcome').attr('src', '../assets/images/teachers-welcome-sq.jpg');
             $('#dojo-cho').attr('src', '../assets/images/jhg_v48_edited_sq.jpg');
             $('#river-of-time').attr('src', '../assets/images/river-of-time-s-sq.png');
+            $('#divider-1').attr('src', '../assets/images/sword-sq.png');
+            $('#divider-2').attr('src', '../assets/images/sword-sq.png');
         } else {
             $('#bridge-image').attr('src', '../assets/images/bridge.jpg');
             $('#dojo-image').attr('src', '../assets/images/dojo_s.png');
             $('#teachers-welcome').attr('src', '../assets/images/teachers-welcome.jpg');
             $('#dojo-cho').attr('src', '../assets/images/jhg_v48_edited.jpg');
             $('#river-of-time').attr('src', '../assets/images/river-of-time-s.png');
+            $('#divider-1').attr('src', '../assets/images/sword-line.jpg');
+            $('#divider-2').attr('src', '../assets/images/sword-line.jpg');
         }
     }
 

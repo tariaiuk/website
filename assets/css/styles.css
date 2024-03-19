@@ -176,9 +176,9 @@ table th, table td {
 }
 
 .divider-image-container {
-    padding: 2em;
+    padding: 0;
     width: 90%;
-    margin: auto;
+    margin: 1em auto;
 }
 
 .grid-image-container {
@@ -546,8 +546,9 @@ table th, table td {
     .centered-image-button {
         width: 40%;
     }
+
     .divider-image-container {
-        width: 35%;
+        width: 60%;
     }
 }
 
@@ -569,9 +570,6 @@ table th, table td {
     }
     .centered-image-button {
         width: 100%;
-    }
-    .divider-image-container {
-        width: 50%;
     }
 }
 
