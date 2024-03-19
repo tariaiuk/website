@@ -101,7 +101,7 @@ In the spirit of Iaido, below is a glimpse into some of the Shoden (**初伝**) 
 | 12  | **抜き打ち** | Nuki-uchi  | *Sudden Draw*    |
 
 <div class="divider-image-container">
-    <img src="../assets/images/sword-line.jpg" alt="divider image">
+    <img id="divider-1" src="../assets/images/sword-line.jpg" alt="divider image">
 </div>
 
 ### Kumitachi
@@ -118,7 +118,7 @@ Kumitachi (**組太刀**) refers to pre-arranged sparring forms or sequences pra
 | 7   | **万法** | Mappo                | *Complete Method*  |
 
 <div class="divider-image-container">
-    <img src="../assets/images/sword-line.jpg" alt="divider image">
+    <img id="divider-2" src="../assets/images/sword-line.jpg" alt="divider image">
 </div>
 
 ### Zen Nippon Kendo Renmei
