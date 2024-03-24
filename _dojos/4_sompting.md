@@ -3,7 +3,7 @@ layout: dojo
 title: "Sompting"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "sompting_avatar_s.png"
-entrance_picture: sompting-entrance.jpg
+entrance_picture: sompting-entrance-s.jpg
 practice_picture: default_practice.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37782.92308905761!2d-0.37852350173600535!3d50.83152528659606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487598177f839093%3A0x5df16f1bbd148a02!2sWest%20St%2C%20Sompting%2C%20Lancing%20BN15%200BE!5e0!3m2!1sen!2suk!4v1708813429167!5m2!1sen!2suk
 address: "Sompting Village Hall <br>West Street<br>Sompting, Lancing<br>BN15 0BE"

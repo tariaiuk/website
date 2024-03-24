@@ -9,7 +9,7 @@ practice_picture: edi_practice.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1117.0065566849175!2d-3.2193384692072904!3d55.949144630589984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c7a4d66f67d5%3A0xdbe440d1015fb014!2sWalpole%20Hall!5e0!3m2!1sen!2suk!4v1708710421950!5m2!1sen!2suk
 address: "Walpole Hall <br>St. Mary's Cathedral <br>Palmerston Pl <br>Edinburgh, EH12 5AW"
 time: "Mon 19:00 - 21:00<br>Thu 19:00 - 21:00"
-email: "hickey.davidjames@gmail.com"
+email: "contact@tokyoadachiroshukai.co.uk"
 facebook: "https://www.facebook.com/RoshukaiEdinburgh/"
 
 sensei_picture: edi_sensei.jpg

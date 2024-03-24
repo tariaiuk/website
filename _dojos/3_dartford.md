@@ -3,7 +3,7 @@ layout: dojo
 title: "Swanley"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "dartford_avatar_s.png"
-entrance_picture: swanley-entrance.jpg
+entrance_picture: swanley_2.jpg
 practice_picture: dartford_practice.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10936.801712088054!2d0.1643275561590659!3d51.39873760089607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ad90ee5fa88f%3A0x267e5c8303b8839!2sWhite%20Oak%20Leisure%20Centre!5e0!3m2!1sen!2suk!4v1709593934933!5m2!1sen!2suk
 address: "White Oak Centre<br> Hilda May Ave<br> Swanley, BR8 7BT"
