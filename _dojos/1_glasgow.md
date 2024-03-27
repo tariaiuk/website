@@ -6,7 +6,7 @@ dojo-avatar: "glasgow_avatar_s.png"
 
 entrance_picture: glasgow-entrance-s.png
 practice_picture: default_practice.png
-map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.2072819244663!2d-4.054520318975526!3d55.893609516344505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48886bdb9ee52901%3A0xb14e3acd063eefc3!2sGlenboig%20Life%20Centre!5e1!3m2!1sen!2suk!4v1708820285428!5m2!1sen!2suk
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.617533310425!2d-4.051091024630845!3d55.89274991396332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48886992a030e179%3A0x9a48280fc7b52fe5!2sTokyo%20Adachi%20Roshukai%20Glasgow!5e0!3m2!1sen!2suk!4v1711564128533!5m2!1sen!2suk
 address: "Glenboig Life Centre<br>110 Main St, Glenboig<br>Coatbridge ML5 2RD"
 time: "Tue 18:45 - 21:15<br>Thu 18:45 - 21:15"
 email: "roshukai.kensaki@outlook.com"
@@ -22,11 +22,11 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
 ---
 <div class="grid-senpai">
   <div class="senpai-item">
-    <img class="teacher-img" src="../assets/images/dojos/avatar_default_m_s.png" alt="John Cockburn Senpai">
+    <img class="teacher-img" src="../assets/images/dojos/cockburn-senpai.jpg" alt="John Cockburn Senpai">
     <p>John Cockburn<br>Senpai, 3rd Dan</p>
   </div>
   <div class="senpai-item">
-    <img class="teacher-img" src="../assets/images/dojos/avatar_default_m_s.png" alt="Kenny Stewart Senpai">
+    <img class="teacher-img" src="../assets/images/dojos/stewart-senpai.jpg" alt="Kenny Stewart Senpai">
     <p>Kenny Stewart<br>Senpai, 3rd Dan</p>
   </div>
 </div>
