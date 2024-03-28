@@ -5,7 +5,7 @@ dojo-mon: Honda-mon-s.png
 dojo-avatar: "glasgow_avatar_s.png"
 
 entrance_picture: glasgow-entrance-s.png
-practice_picture: default_practice.png
+practice_picture: glasgow_practice.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.617533310425!2d-4.051091024630845!3d55.89274991396332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48886992a030e179%3A0x9a48280fc7b52fe5!2sTokyo%20Adachi%20Roshukai%20Glasgow!5e0!3m2!1sen!2suk!4v1711564128533!5m2!1sen!2suk
 address: "Glenboig Life Centre<br>110 Main St, Glenboig<br>Coatbridge ML5 2RD"
 time: "Tue 18:45 - 21:15<br>Thu 18:45 - 21:15"

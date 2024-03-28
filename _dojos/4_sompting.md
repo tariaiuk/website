@@ -4,7 +4,7 @@ title: "Sompting"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "sompting_avatar_s.png"
 entrance_picture: sompting-entrance-s.jpg
-practice_picture: default_practice.png
+practice_picture: sompting-practice-s.png
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.8355081990744!2d-0.3520531022337186!3d50.834210698616566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4875995a02968b4f%3A0xabf05ed30319b9e0!2sTokyo%20Adachi%20Roshukai%20Sompting!5e0!3m2!1sen!2suk!4v1711564380608!5m2!1sen!2suk
 
 address: "Sompting Village Hall <br>West Street<br>Sompting, Lancing<br>BN15 0BE"
@@ -20,7 +20,7 @@ Andrew has had the privilege of being selected to represent Great Britain at the
 ---
 <div class="grid-senpai">
   <div class="senpai-item">
-    <img class="teacher-img" src="../assets/images/dojos/avatar_default_f_s.png" alt="Alison Law">
+    <img class="teacher-img" src="../assets/images/dojos/alison-senpai.jpg" alt="Alison Law">
     <p>Alison Law<br>Senpai, 3rd Dan</p>
   </div>
 </div>
