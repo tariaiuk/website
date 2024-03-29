@@ -26,7 +26,7 @@ Smith Sensei achieved his yondan on his first attempt in April 2022. Holding a B
     <p>David Hickey<br>Sensei, 5th Dan</p>
   </div>
   <div class="senpai-item">
-    <img class="teacher-img" src="../assets/images/dojos/avatar_default_f_s.png" alt="Shra Senpatrick Senpai">
+    <img class="teacher-img" src="../assets/images/dojos/shra-senpai.jpg" alt="Shra Senpatrick Senpai">
     <p>Shra Senpatrick<br>Senpai, 4th Dan</p>
   </div>
   <div class="senpai-item">
