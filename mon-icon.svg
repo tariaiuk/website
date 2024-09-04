@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg871"
+   width="803"
+   height="803"
+   viewBox="0 0 803 803"
+   sodipodi:docname="mon-icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <style>
+    path {
+      fill: black;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      path {
+        fill: white;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      path {
+        fill: black;
+      }
+    }
+  </style>
+  <metadata
+     id="metadata877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs875">
+    <filter
+       inkscape:label="Black Light"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Light areas turn to black"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1467">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="result2"
+         id="feColorMatrix1459" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         in="result2"
+         k3="2"
+         result="result4"
+         id="feComposite1461" />
+      <feBlend
+         in="result4"
+         mode="multiply"
+         result="result3"
+         in2="result2"
+         id="feBlend1463" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result3"
+         id="feComposite1465" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1955"
+     inkscape:window-height="1189"
+     id="namedview873"
+     showgrid="false"
+     inkscape:zoom="1.2552927"
+     inkscape:cx="401.5"
+     inkscape:cy="210.30952"
+     inkscape:window-x="640"
+     inkscape:window-y="84"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mon">
+    <path
+       id="path1444"
+       d="m 411.01018,512.5042 c 0.85974,-78.60532 -1.99627,-157.28468 2.35589,-235.82629 55.52468,29.73962 142.30481,10.61482 161.32274,-54.85243 C 585.04205,163.22649 540.20116,110.59797 494.03334,80.97552 452.94655,66.748548 411.39101,19.951543 367.04619,50.552488 332.53511,75.444256 289.32092,87.679868 263.0753,123.06512 c -32.05156,35.10912 -50.73656,98.57433 -10.63022,134.81386 34.68263,33.03416 89.65805,41.49937 133.3257,22.55816 1.24768,74.17874 1.43044,148.37574 0.50846,222.55936 -7.47561,-48.62425 -49.70018,-97.70957 -102.53925,-91.08821 -43.04309,-7.99264 9.8423,-50.80289 -7.20543,-79.61465 -4.43657,-49.07932 -49.63366,-102.37717 -102.92642,-86.84201 -60.9794,13.33573 -106.297422,66.0567 -126.160267,123.19254 -34.837901,34.34579 -13.83419,83.03788 8.766516,116.9338 27.097934,55.60225 81.730221,109.99703 148.243441,103.10088 54.6717,-10.61373 80.42032,-74.17709 70.55305,-124.7371 -7.03134,-51.10362 55.1152,-25.53976 68.7007,1.74516 42.65332,61.65169 33.27598,150.53402 -17.85939,204.6409 -29.30635,32.54455 -68.50024,58.6557 -111.606,67.59196 -51.88126,4.70042 -84.20756,-42.39922 -116.7983,-74.48578 C -25.447103,525.2374 -33.026504,299.31924 84.082813,155.17846 184.47131,25.037035 368.47306,-34.853584 524.9625,19.262998 678.65963,68.64289 796.42382,216.83641 801.70289,379.40015 c 6.68263,119.83973 -42.85324,241.5341 -132.86468,321.11733 -28.92303,40.73449 -88.12756,46.40301 -128.64351,20.26837 -69.11645,-35.78047 -94.60966,-120.24497 -91.31476,-193.33703 1.96768,-38.46789 24.96564,-81.73525 65.29711,-89.63534 40.41578,5.52266 -5.53758,53.2522 14.51677,80.43845 9.12654,45.39896 53.93921,85.97222 102.06702,73.00804 50.885,-11.78678 92.25583,-52.72464 112.36694,-99.79416 31.46653,-38.39301 42.72085,-87.28332 8.56279,-127.73987 -22.35373,-55.45522 -68.68686,-106.60737 -129.99266,-116.34831 -57.27708,-8.10446 -98.83465,51.7982 -96.6159,104.11 -5.86634,26.90361 31.6634,63.72562 -13.04081,59.62367 -53.16124,14.21376 -90.30463,68.37186 -85.4286,123.08584 -2.65008,69.96588 2.66166,140.69263 -2.95382,210.18677 -24.38627,0.45649 -7.07436,-58.47144 -12.31316,-80.37559 -0.15354,-50.5012 -0.61419,-101.00248 -0.33544,-151.50412 z" />
+  </g>
+</svg>
