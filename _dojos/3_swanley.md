@@ -4,7 +4,7 @@ title: "Swanley"
 dojo-mon: Honda-mon-s.png
 dojo-avatar: "dartford_avatar_s.png"
 entrance_picture: swanley_2.jpg
-practice_picture: dartford_practice.png
+practice_picture: swanley_practice.jpg
 map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9956.474219002419!2d0.1705243!3d51.4008763!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ad17a408e4cb%3A0x288856f89cfedbcc!2sTokyo%20Adachi%20Roshukai%20Swanley!5e0!3m2!1sen!2suk!4v1711567917136!5m2!1sen!2suk
 address: "White Oak Centre<br> Hilda May Ave<br> Swanley, BR8 7BT"
 time: "Tue 19:30 - 21:00"
