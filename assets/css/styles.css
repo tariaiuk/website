@@ -248,6 +248,19 @@ table th, table td {
     color: brown; 
 }
 
+.image-with-caption-button.fellow a {
+    font-size: small;
+}
+
+.image-with-caption-button.fellow a:hover img {
+    background-color: #247ba0;
+}
+
+.image-with-caption-button.fellow a:hover {
+    color: #247ba0;
+}
+
+
 /* footer section */
 #scroll-to-top {
     display: none;
@@ -307,8 +320,25 @@ table th, table td {
 }
 
 /* dojos summary section */
+.grid-section {
+    display: grid;
+    gap: 1em;
+    margin: 0.5em;
+}
+
+/* Home Dojos Grid */
+.grid-dojos {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(auto-fill, 1fr);
+}
+
+/* Fellow Dojos Grid */
+.grid-fellow-dojos {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(auto-fill, 1fr);
+}
+
 .grid-dojos-map {
-    border-top: 2px solid brown;
     display: grid;
     grid-template-columns: 1fr; 
     align-items: top;
@@ -322,7 +352,6 @@ table th, table td {
     border-bottom: 1px solid brown;
     border-right: 0;
 }
-
 .grid-dojos-map-div img {
     width: 100%;
     height: auto;
@@ -330,12 +359,13 @@ table th, table td {
     margin: auto;
 }
 
-.grid-dojos {
-    display: grid;
-    gap: 1em;
-    grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(auto-fill, 1fr);
-    margin: 0.5em;
+/* Common header style */
+.grid-dojos-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em 0.5em;
+    border-bottom: 1px solid black;
 }
 
 /* dojo section */
@@ -348,6 +378,10 @@ table th, table td {
     margin-bottom: 2em;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
+}
+
+.grid-dojo-card.fellow {
+    border-top: 2px solid #247ba0;
 }
 
 .grid-dojo-card-cell {
@@ -385,6 +419,10 @@ table th, table td {
 .address-subcell {
     margin-top: 0.25em;
     border-left: 1px solid brown;
+}
+
+.address-subcell.fellow {
+    border-left: 1px solid #247ba0;
 }
 
 .address-cell p {
@@ -497,11 +535,11 @@ table th, table td {
         height: 50px;
     }
     .grid-dojos-map {
-        grid-template-columns: 5fr 4fr;
+        grid-template-columns: 2fr 3fr;
     }
     .grid-dojos-map-div {
         border-bottom: 0;
-        border-right: 1px solid brown;
+        border-right: 1px solid black;
     }
     .footer-area {
         margin-bottom: 2em;

@@ -5,3 +5,5 @@ font: "https://fonts.googleapis.com/css?family=Source+Code+Pro|Roboto:400,700"
 collections:
   dojos:
     output: true
+  honourable_mentions:
+    output: true
