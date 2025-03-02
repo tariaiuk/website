@@ -109,16 +109,27 @@
             
             {% if page.sensei_picture %}
             <h1>Our Teachers</h1>
+            
+            {% if page.fellow %}
+            <div class="grid-sensei fellow">
+            {% else %}
             <div class="grid-sensei">
+            {% endif %}
                 <div>
                     <img class="teacher-img sensei-img" src="../assets/images/dojos/{{ page.sensei_picture }}" alt="Sensei picture">
                 </div>
+                {% if page.fellow %}
+                <div class="cell-sensei-bio fellow">
+                {% else %}
                 <div class="cell-sensei-bio">
+                {% endif %}
                     <h3>{{ page.sensei_name }}</h3>
                     <p>{{ page.sensei_bio }}</p>
                 </div>
             </div>
+            {% endif %}
         
+            {% if page.content %}
             {{ content }}
             {% endif %}
         </main>

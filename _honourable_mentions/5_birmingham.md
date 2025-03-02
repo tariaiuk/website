@@ -11,4 +11,12 @@ map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.8299818404375!2
 address: "113 Vibart Road,<br> Birmingham"
 phone: +44 7976 426463
 home-url: https://www.masamunedojo.co.uk/
+
+sensei_picture: fay_goodman.png
+sensei_name: Fay Goodman Sensei, 7th Dan Kyoshi
+sensei_bio: "Sensei Fay Goodman is the Chief Instructor at Masamune Dojo and has been dedicated to the study of martial arts since the age of 13. With extensive training in a range of disciplines—including Shodin Tao, Karate, and Aikido—she has earned high qualifications across these arts. In Iaido, she holds the distinguished rank of 7th Dan (Kyoshi), and in Jodo, she is recognised at 6th Dan (Renshi). As the founder of Shinto Ryu—a comprehensive system that integrates the principles of Karate, Aikido, and Jujitsu—as well as Shefuay, a personal safety system especially designed for women, girls, and the vulnerable, Sensei Goodman has devoted herself to the pursuit of excellence in martial arts. <br><br>
+
+A respected author in the field, she has penned influential works such as Self Defence for All and The Ultimate Book of Martial Arts, which have inspired countless practitioners worldwide. Recognised as one of the highest graded female martial artists in Internationally, she champions the values of integrity, discipline, and respect, as embodied in the 7 pleats of the hakama. <br><br>
+
+Sensei Goodman sincerely believes that true martial arts training is not only about physical skill but also about nurturing the mind and spirit. With humility and unwavering dedication, she strives to guide each student on a journey toward personal harmony and excellence."
 ---

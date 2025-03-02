@@ -470,10 +470,18 @@ table th, table td {
     grid-gap: 1.0em;
 }
 
+.grid-sensei.fellow {
+    border-top: 2px solid #247ba0;
+}
+
 .cell-sensei-bio {
     border-bottom: 0;
     border-left: 1px solid brown;
     padding-left: 1em;
+}
+
+.cell-sensei-bio.fellow {
+    border-left: 1px solid #247ba0;
 }
 
 .sensei-img {
@@ -576,6 +584,10 @@ table th, table td {
         border-bottom: 1px solid brown;
         padding-bottom: 1em;
         margin-bottom: 2em;
+        border-left: 0;
+    }
+    .cell-sensei-bio.fellow {
+        border-bottom: 1px solid #247ba0;
         border-left: 0;
     }
     .footer-img {

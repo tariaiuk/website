@@ -13,4 +13,10 @@ Knightswood Secondary School,<br> Knightswood Road,<br> Glasgow"
 time: "Fri 19:00 - 21:00"
 email: billy.smart@btinternet.com
 phone: "0141 954 8535"
+
+sensei_picture: billy_smart.jpg
+sensei_name: Billy Smart Sensei, 5th Dan
+sensei_bio: "Shonenjiku dojo leader is Billy Smart sensei. Billy sensei has been licenced through the British Kendo Association since 1988 to practice the Martial Art of Iaido. He currently holds the grades of 5th Dan Iaido and 5th Dan Jodo, although he no longer teaches Jodo. <br><br>
+
+He established Shonenjiku Glasgow in 1991 to progress the practice of Iaido in Scotland, and has provided squad members in both Iaido and Jodo British National Squads. Billy maintains the aim is to provide a safe and enjoyable environment where all can learn Iaido to grow our individual abilities."
 ---

@@ -11,4 +11,12 @@ map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3936.7452021813406!2
 address: "St James the Great Hall,<br> Darlington"
 time: "Sat 14:00"
 phone: "0745 421 6079"
+
+sensei_picture: Tim_Hamilton.jpg
+sensei_name: Tim Hamilton Sensei
+sensei_bio: "Tim Hamilton started martial arts at age 14, and was introduced to Kendo in 1976 by John Sparkes. His first steps into Iaido happened in 1978 when he bought a Gunto (WW2 Japanese sword) to support his Kendo club, as members also started to be introduced to sword forms that Tim later found out was not Kendo-kata, but actually Muso Jikiden Eishin Ryu Iaido.<br><br>
+
+Through John Sparkes Tim was introduced to Roald Knutsen Sensei and travelled to Lewes to further devolop his Kendo. He then joined the British Kendo Association in the 1980's and through his Kendo practice also met Haruna Matsuo Sensei. It was in 1995 when Tim first met Iwata Sensei, and he realised that he had found the Iaido teacher he was looking for.<br><br> 
+
+Through Iwata Sensei Tim also met many great Iaido teachers, such as Honda Masayoshi Jushin Sensei, Nishimoto Chihiro Sensei, and Ishida Sumio Sensei. Tim has visited and trained in Kochi several times and also visited the dojo where Oe Masaji taught."
 ---
