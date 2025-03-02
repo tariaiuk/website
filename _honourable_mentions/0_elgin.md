@@ -11,7 +11,7 @@ map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29224.260098122817!2
 address: "Elgin"
 email: neilkemp@btinternet.com
 
-sensei_picture: Neil-Kemp.jpg
+sensei_picture: neil_kemp.jpg
 sensei_name: Neil Kemp Sensei
 sensei_bio: "Neil Kemp sensei started Iaido in the mid 1980's learnign All Japan Kendo Federation Iaido under the initial tutelage of Don Harvey sensei. He opened an Edinburgh Iaido dojo in 1986, where he gathered a group of students, one of which was John Honisz-Greens.<br><br>
 
