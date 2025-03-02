@@ -4,12 +4,12 @@ $(document).ready(function() {
         if (win.width() <= 768) { 
             $('.header-title-kanji').text('蘆洲会');
             $('.header-title-english').text('Roshukai');
-            $('.footer-area-text').text('© 2024 TAR UK');
+            $('.footer-area-text').text('© 2025 TAR UK');
             $('td:nth-child(5), th:nth-child(5)').hide();
         } else {
             $('.header-title-kanji').text('東京足立蘆洲会');
             $('.header-title-english').text('Tokyo Adachi Roshukai UK');
-            $('.footer-area-text').text('© 2024 Tokyo Adachi Roshukai UK');
+            $('.footer-area-text').text('© 2025 Tokyo Adachi Roshukai UK');
             $('td:nth-child(5), th:nth-child(5)').show();
         }
         if (win.width() <= 600) { 

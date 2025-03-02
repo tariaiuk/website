@@ -43,7 +43,12 @@
 
         <main class="main-area">
             <h1>{{ page.title }}</h1>
+            
+            {% if page.fellow %}
+            <div class="grid-dojo-card fellow">
+            {% else %}
             <div class="grid-dojo-card">
+            {% endif %}
                 <div class="grid-dojo-card-cell">
                     <img src="../assets/images/dojos/{{ page.entrance_picture }}" alt="Dojo picture">
                 </div>
@@ -53,18 +58,46 @@
                 <div class="grid-dojo-card-cell">
                     <div class="address-cell">
                         <h3>Address: </h3>
+                        {% if page.fellow %}
+                        <div class="address-subcell fellow">
+                        {% else %}
                         <div class="address-subcell">
+                        {% endif %}
                             <p>{{ page.address }}</p>
                         </div>
+                
+                        {% if page.time %}
                         <h3>Time: </h3>
+                            {% if page.fellow %}
+                        <div class="address-subcell fellow">
+                            {% else %}
                         <div class="address-subcell">
+                            {% endif %}
                             <p>{{ page.time }}</p>
                         </div>
+                        {% endif %}
+
                         <h3>Contact: </h3>
+                        {% if page.fellow %}
+                        <div class="address-subcell fellow">
+                        {% else %}
                         <div class="address-subcell">
+                        {% endif %}
+                            
+                            {% if page.phone %}
+                            <p>{{ page.phone }}</p>
+                            {% endif %}
+                            
                             <div class="buttons">
+                                {% if page.email %}
                                 <a href="mailto:{{ page.email }}" class="button"><img src="../assets/images/email_s.png" alt="Email"></a>
+                                {% endif %}
+                                {% if page.facebook %}
                                 <a href="{{ page.facebook }}" class="button"><img src="../assets/images/facebook_s.png" alt="Facebook"></a>
+                                {% endif %}
+                                {% if page.home-url %}
+                                <a href="{{ page.home-url }}" class="button"><img src="../assets/images/www_s.png" alt="www"></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -73,23 +106,37 @@
                     <img src="../assets/images/dojos/{{ page.practice_picture }}" alt="Practice picture">
                 </div>
             </div>
+            
+            {% if page.sensei_picture %}
             <h1>Our Teachers</h1>
+            
+            {% if page.fellow %}
+            <div class="grid-sensei fellow">
+            {% else %}
             <div class="grid-sensei">
+            {% endif %}
                 <div>
                     <img class="teacher-img sensei-img" src="../assets/images/dojos/{{ page.sensei_picture }}" alt="Sensei picture">
                 </div>
+                {% if page.fellow %}
+                <div class="cell-sensei-bio fellow">
+                {% else %}
                 <div class="cell-sensei-bio">
+                {% endif %}
                     <h3>{{ page.sensei_name }}</h3>
                     <p>{{ page.sensei_bio }}</p>
                 </div>
             </div>
+            {% endif %}
         
+            {% if page.content %}
             {{ content }}
+            {% endif %}
         </main>
 
         <footer class="footer-area">
             <img class="footer-img" src="/assets/images/dragonfly_footer_s.png" alt="Dragonfly">
-            <p class="footer-area-text">© 2024 Tokyo Adachi Roshukai UK</p>
+            <p class="footer-area-text">© 2025 Tokyo Adachi Roshukai UK</p>
             <img class="footer-img" src="/assets/images/fly_footer_s.png" alt="fly">
         </footer>
     </div>

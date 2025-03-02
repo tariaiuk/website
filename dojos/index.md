@@ -11,27 +11,41 @@ A Dojo (**道場**) is a dedicated space for the practice and teaching of martia
 
 Each Dojo is led by a Sensei (**先生**), who, as the chief instructor, imparts technical expertise alongside philosophical insights, shaping students into adept practitioners. Senpai (**先輩**), experienced students, offer guidance and support to kohai (**後輩**), juniors, embodying the Dojo's culture of mutual respect and continuous improvement. The hierarchy within the Dojo is to teach its members humility as well as trust. We expect our practitioners to adhere to this principle.
 
-# Our Dojos
-Beneath this text lies a curated map of our dojo locations. To discover tailored contact details, addresses, practice schedules, and more, kindly choose the dojo that aligns with your interest.
+# Dojo Locations
+Beneath this text lies a curated map of dojo locations. To discover contact details, addresses, practice schedules, and more, kindly choose the dojo that aligns with your interest.
 
 <div class="grid-dojos-map">
     <div class="grid-dojos-map-div">
         <img src="../assets/images/dojo_map.png" alt="Dojo map">
         <div class="buttons-area">
-            <a href="contact@tokyoadachiroshukai.co.uk" class="button"><img src="../assets/images/email_s.png" alt="Email"></a>
-            <a href="https://www.facebook.com/groups/2858020104430167" class="button"><img src="../assets/images/facebook_s.png" alt="Facebook"></a>
+            <a href="shraddha.sen@gmail.com" class="button"><img src="../assets/images/email_s.png" alt="Email"></a>
+            <a href="https://www.facebook.com/RoshukaiEdinburgh" class="button"><img src="../assets/images/facebook_s.png" alt="Facebook"></a>
             <a href="https://www.instagram.com/roshukaiedinburgh/" class="button"><img src="../assets/images/instagram_s.png" alt="Instagram"></a>
         </div>
     </div>
-    <div class="grid-dojos">
-    {% for dojo in site.dojos %}
-        <div class="image-with-caption-button">
-            <a href="{{ dojo.url }}">
-                <img src="../assets/images/dojos/{{ dojo.dojo-avatar }}" alt="{{ dojo.title }}">
-                <p>{{ dojo.title }}</p>
-            </a>
+    <div>
+        <h3 class="grid-dojos-header">Our Dojos</h3>
+        <div class="grid-dojos grid-section">
+            {% for dojo in site.dojos %}
+                <div class="image-with-caption-button">
+                    <a href="{{ dojo.url }}">
+                        <img src="../assets/images/dojos/{{ dojo.dojo-avatar }}" alt="{{ dojo.title }}">
+                        <p>{{ dojo.title }}</p>
+                    </a>
+                </div>
+            {% endfor %}
         </div>
-    {% endfor %}
+        <h3 class="grid-dojos-header">Honourable Mentions</h3>
+        <div class="grid-fellow-dojos grid-section">
+            {% for dojo in site.honourable_mentions %}
+                <div class="image-with-caption-button fellow">
+                    <a href="{{ dojo.url }}">
+                        <img src="../assets/images/dojos/{{ dojo.dojo-avatar }}" alt="{{ dojo.location }}">
+                        <p>{{ dojo.location }}</p>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </div>
 Our Dojos are open to all members, offering flexibility to practise at any location. We come together as a group several times a year for seminars, both in-house and those organised by the British Kendo Association, to enhance our skills and foster community spirit. Our senior members regularly travel to Japan, deepening their understanding and mastery through training in the birthplace of Iaido.

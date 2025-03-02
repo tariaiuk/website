@@ -63,7 +63,7 @@ Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official comme
 
 <div class="centered-image-button image-with-caption-button">
     <a href="https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%A4%9A%E6%B0%8F">
-        <img src="../assets/images/Honda-mon-1200-wh.png" alt="The emblem of the Honda family">
+        <img src="../assets/images/Honda-mon-1200.png" alt="The emblem of the Honda family">
         <p>Honda family</p>
     </a>
 </div>
