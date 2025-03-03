@@ -13,7 +13,7 @@ address: "8th Ealing Scout Hall,<br> Popes Lane,<br> South Ealing,<br> London"
 time: "Tue 21:00 - 23:00<br>Thu 21:00 - 23:00<br>Sun 11:30 - 13:30"
 email: info@seishinkandojo.org
 
-sensei_picture: manfield_sensei.png
+sensei_picture: chris_manfield_sensei.jpg
 sensei_name: Mr Chris Mansfield Sensei, 7th Dan Kyoshi
 sensei_bio: "Mr Chris Mansfield began training in Iaido in September 1978 at the London Nautical School of Science, Waterloo, London under Len Bean Sensei (2nd Dan) who at that time was the most senior graded person practising in the UK.
 In April 1980 he went to Japan for a short holiday and trained at dojo in Kawasaki near Tokyo. This was his first real introduction to Japanese martial arts.
