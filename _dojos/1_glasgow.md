@@ -29,6 +29,10 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
     <img class="teacher-img" src="../assets/images/dojos/stewart-senpai.jpg" alt="Kenny Stewart Senpai">
     <p>Kenny Stewart<br>Senpai, 3rd Dan</p>
   </div>
+  <div class="senpai-item">
+    <img class="teacher-img" src="../assets/images/dojos/bateman_senpai.jpg" alt="Bateman McBride Senpai">
+    <p>Bateman McBride<br>Senpai, 1st Dan</p>
+  </div>
 </div>
 
 # Our Dojo
@@ -39,15 +43,9 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
 
 The Dojo was originally formed in 1973 by Sam McKay Sensei and as such is recognised as Scotland's oldest running Iaido Dojo. It has seen many Dojo leaders since its formation and is now managed by Robert Boyd, who took over the reins in 2017.
 
-<div class="image-container grid-image-container">
-    <div class="image-with-caption-item">
-        <img src="../assets/images/dojos/john-and-robert-senseis.jpg" alt="Honisz-Greens Sensei with Boyd sensei - Edinburgh 2023 Koryu Koshukai">
-        <p>Honisz-Greens Sensei with Boyd Sensei<br> Edinburgh 2023 Koryu Koshukai</p>
-    </div>
-    <div class="image-with-caption-item">
-        <img src="../assets/images/dojos/Glasgow-summer19.jpg" alt="Glasgow summer 2019">
-        <p>Open air practiice 2019</p>
-    </div>
+<div class="image-container single-image-container">
+    <img src="../assets/images/dojos/glasgow-dojo-group.jpg" alt="Glasgow group pic 2">
 </div>
+
 
 The Dojo has members coming from all walks of life and nationalities. Members have enjoyed great success in recent years at the UK National Championship and subsequently some members have gone on to represent their Dojo and country at the European Iaido Championship.
