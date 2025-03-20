@@ -30,6 +30,10 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
     <p>Kenny Stewart<br>Senpai, 3rd Dan</p>
   </div>
   <div class="senpai-item">
+    <img class="teacher-img" src="../assets/images/dojos/mark_senpai.jpg" alt="Mark Rankin Senpai">
+    <p>Mark Rankin<br>Senpai, 3rd Dan</p>
+  </div>
+  <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/bateman_senpai.jpg" alt="Bateman McBride Senpai">
     <p>Bateman McBride<br>Senpai, 1st Dan</p>
   </div>
