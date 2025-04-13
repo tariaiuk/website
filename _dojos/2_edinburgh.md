@@ -27,11 +27,11 @@ Smith Sensei achieved his yondan on his first attempt in April 2022. Holding a B
   </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/shra-senpai.jpg" alt="Shra Senpatrick Senpai">
-    <p>Shra Senpatrick<br>Sensei, 4th Dan</p>
+    <p>Shra Senpatrick<br>Senpai, 4th Dan</p>
   </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/Ben-Senpai.jpg" alt="Ben Crabbe Senpai">
-    <p>Ben Crabbe<br>Sensei, 4th Dan</p>
+    <p>Ben Crabbe<br>Senpai, 4th Dan</p>
   </div>
 </div>
 
