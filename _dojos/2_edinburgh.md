@@ -12,19 +12,14 @@ time: "Mon 19:00 - 21:00<br>Thu 19:00 - 21:00"
 email: "shraddha.sen@gmail.com"
 facebook: "https://www.facebook.com/RoshukaiEdinburgh/"
 
-sensei_picture: edi_sensei.jpg
-sensei_name: David Smith Sensei, 4th Dan
-sensei_bio: "David Smith Sensei embarked on his Iaido journey upon joining the Edinburgh Dojo in 2013. Initially driven by a childhood fascination with samurai movies, he soon discovered the depth and intricacy of this martial art, far beyond mere swordplay.<br><br>
-
-Mentored by John Honisz-Greens Sensei and his senior students, Smith Sensei dedicated himself to rigorous training, participating in sessions and seminars both in the UK and internationally. His most enlightening experience to date was a two-week visit to Japan in November 2022, where he trained under the guidance of Honda Sensei at our patron Dojo.<br><br>
-
-Smith Sensei achieved his yondan on his first attempt in April 2022. Holding a BKA Level 1 coaching certification, he subsequently assumed leadership of the Edinburgh Dojo."
+sensei_picture: hickey-sensei-2.jpg
+sensei_name: David Hickey Sensei, 5th Dan
+sensei_bio: "David Hickey Sensei began studying Iaido in 2006 under the tutelage of John Honisz-Greens Sensei. He attained the rank of fifth dan in 2018 at first attempt.<br><br>
+Hickey Sensei is an active  teacher in the TAR dojos and is also the Events Officer for the British Kendo Association - Iaido-bu.<br>
+He is a British Kendo Association accredited Club Coach Level 1 and been awarded Regional Coach status.<br><br>
+He is now studying hard to prepare to challenge for his 6th dan."
 ---
 <div class="grid-senpai">
-  <div class="senpai-item">
-    <img class="teacher-img" src="../assets/images/dojos/hickey-sensei.jpg" alt="David Hickey Sensei">
-    <p>David Hickey<br>Sensei, 5th Dan</p>
-  </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/shra-senpai.jpg" alt="Shra Senpatrick Senpai">
     <p>Shra Senpatrick<br>Senpai, 4th Dan</p>
@@ -41,8 +36,6 @@ Smith Sensei achieved his yondan on his first attempt in April 2022. Holding a B
 </div>
 
 There has been an Iaido presence in Edinburgh since around 1986. The Edinburgh Dojo was officially formed in late 2001 by David McLean Sensei, with oversight and support from John Honisz-Greens, who was still living in Japan at that time. Following Honisz-Greens Sensei's prolonged stay in Japan, McLean Sensei helped develop the club over the following 15 years, before moving full time to the Scottish Borders and opening up his own Dojo in the Borders. In 2022 the relationship between Honisz-Greens Sensei and David McLean Sensei was ended. 
-
-Then the Dojo was led by David Hickey Sensei, who began studying Iaido in 2006 and attained the rank of fifth dan in 2018 at first attempt. Hickey Sensei is an active member of the club, but leadership of Tokio Adachi Roshukai Edinburgh is now in the hands of David Smith Sensei, who will attempt his fifth dan in 2026. 
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
