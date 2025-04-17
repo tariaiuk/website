@@ -37,8 +37,6 @@ He is now studying hard to prepare to challenge for his 6th dan."
 
 There has been an Iaido presence in Edinburgh since around 1986. The Edinburgh Dojo was officially formed in late 2001 by David McLean Sensei, with oversight and support from John Honisz-Greens, who was still living in Japan at that time. Following Honisz-Greens Sensei's prolonged stay in Japan, McLean Sensei helped develop the club over the following 15 years, before moving full time to the Scottish Borders and opening up his own Dojo in the Borders. In 2022 the relationship between Honisz-Greens Sensei and David McLean Sensei was ended. 
 
-Then the Dojo was led by David Hickey Sensei, who began studying Iaido in 2006 and attained the rank of fifth dan in 2018 at first attempt. Hickey Sensei is an active member of the club, but leadership of Tokio Adachi Roshukai Edinburgh is now in the hands of David Smith Sensei, who will attempt his fifth dan in 2026. 
-
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
         <img src="../assets/images/dojos/edinburgh-nats-2018.jpg" alt="BKA Nationals 2018">
