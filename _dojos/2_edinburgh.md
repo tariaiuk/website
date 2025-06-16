@@ -13,11 +13,11 @@ email: "shraddha.sen@gmail.com"
 facebook: "https://www.facebook.com/RoshukaiEdinburgh/"
 
 sensei_picture: hickey-sensei-2.jpg
-sensei_name: David Hickey Sensei, 5th Dan
-sensei_bio: "David Hickey Sensei began studying Iaido in 2006 under the tutelage of John Honisz-Greens Sensei. He attained the rank of fifth dan in 2018 at first attempt.<br><br>
-Hickey Sensei is an active  teacher in the TAR dojos and is also the Events Officer for the British Kendo Association - Iaido-bu.<br>
-He is a British Kendo Association accredited Club Coach Level 1 and been awarded Regional Coach status.<br><br>
-He is now studying hard to prepare to challenge for his 6th dan."
+sensei_name: David Hickey Sensei, 6th Dan
+sensei_bio: "David Hickey Sensei began studying Iaido in 2006 under the tutelage of John Honisz-Greens Sensei. He attained the rank of 6th Dan on his first attempt in Bruges in 2025.<br><br>
+Hickey Sensei actively teaches at the TAR dojos and is a British Kendo Association accredited Club Coach (Level 1), having also been awarded Regional Coach status.<br>
+He served as Iaido Bucho in 2018 and, as of 2025, is the Events Officer for the British Kendo Association Iaido-bu. 
+He is currently practices diligently in preparation for his 7th Dan examination."
 ---
 <div class="grid-senpai">
   <div class="senpai-item">
