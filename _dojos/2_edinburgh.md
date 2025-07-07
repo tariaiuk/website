@@ -17,7 +17,7 @@ sensei_name: David Hickey Sensei, 6th Dan
 sensei_bio: "David Hickey Sensei began studying Iaido in 2006 under the tutelage of John Honisz-Greens Sensei. He attained the rank of 6th Dan on his first attempt at the European High Grade Seminar in Bruges 2025.<br><br>
 Hickey Sensei actively teaches at the TAR dojos and is a British Kendo Association accredited Club Coach (Level 1), having also been awarded Regional Coach status.<br>
 He served as Iaido Bucho in 2018 and, as of 2025, is the Events Officer for the British Kendo Association Iaido-bu. 
-He is currently practices diligently in preparation for his 7th Dan examination."
+He currently practices diligently in preparation for his 7th Dan examination."
 ---
 <div class="grid-senpai">
   <div class="senpai-item">

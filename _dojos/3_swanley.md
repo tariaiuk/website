@@ -9,7 +9,7 @@ map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9956.474219002419!2d0.
 address: "White Oak Centre<br> Hilda May Ave<br> Swanley, BR8 7BT"
 time: "Tue 19:30 - 21:00"
 email: "swanley.iaido@gmail.com "
-facebook: "https://www.facebook.com/groups/2858020104430167"
+facebook: "https://www.facebook.com/RoshukaiEdinburgh"
 
 sensei_picture: dar-sensei.jpg
 sensei_name: Anna Stone Sensei, 6th Dan Renshi
