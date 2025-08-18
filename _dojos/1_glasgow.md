@@ -35,7 +35,7 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
   </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/bateman_senpai.jpg" alt="Bateman McBride Senpai">
-    <p>Bateman McBride<br>Senpai, 1st Dan</p>
+    <p>Bateman McBride<br>Senpai, 2nd Dan</p>
   </div>
 </div>
 
