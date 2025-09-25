@@ -23,7 +23,7 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
 <div class="grid-senpai">
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/cockburn-senpai.jpg" alt="John Cockburn Senpai">
-    <p>John Cockburn<br>Senpai, 4th Dan</p>
+    <p>John Cockburn<br>Sensei, 4th Dan</p>
   </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/stewart-senpai.jpg" alt="Kenny Stewart Senpai">
