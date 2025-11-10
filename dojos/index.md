@@ -62,7 +62,7 @@ Dojo-Cho (**道場長**) is the esteemed leader and principal instructor of a ma
     </div>
     <div class="image-with-caption-item">
         <img src="../assets/images/jhg_nanadan.jpg" alt="John Honisz-Greens after Taikai">
-        <p>2025: Nana Dan grading, Prague</p>
+        <p>2025: Nanadan shinsa, Prague</p>
     </div>
 </div>
 
@@ -81,12 +81,10 @@ Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp
 
 Upon completing his initial university studies and with a job offer from a prestigious bank, Honisz-Greens Sensei negotiated to take a year out in 1997 to develop his Aikijutsu in Japan, He was employed by Hyogo Prefectural Government and based in Amagasaki City, between Osaka and Kobe. What followed was a career change and a prolonged stay of almost two decades in Japan. During this period Honisz-Greens Sensei was fortunate to meet many great teachers. One such teacher was Honda Masayoshi Jushin Sensei, the headteacher of Tokyo Adachi Roshukai.
 
-Honisz-Greens Sensei passed all his Iaido grades
-
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
         <img src="../assets/images/jhg_v14_optimized.jpg" alt="John Honisz-Greens Sensei Early practice">
-        <p>1987: In Kemp Sensei's dojo, Edinburgh</p>
+        <p>1988: In Kemp Sensei's dojo, Edinburgh</p>
     </div>
     <div class="image-with-caption-item">
         <img src="../assets/images/trophies.jpg" alt="John Honisz-Greens after Taikai">
