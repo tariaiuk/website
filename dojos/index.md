@@ -55,9 +55,15 @@ We warmly welcome new members to our friendly group. Whether you’re a beginner
 # Dojo-Cho
 Dojo-Cho (**道場長**) is the esteemed leader and principal instructor of a martial arts Dojo, tasked with guiding the dojo's direction, teaching, and upholding its values and traditions. This role is pivotal in maintaining the integrity of the martial arts discipline, fostering a positive learning environment, and ensuring the transmission of knowledge to future generations. As the heart of the Dojo, the Dojo-Cho embodies the spirit and philosophy of the martial art, serving as a mentor and inspiration to all members.
 
-<div class="image-container single-image-container">
-    <img id="dojo-cho" src="../assets/images/jhg_v48_edited.jpg" alt="John Honisz-Greens Sensei">
-    <p>John Honisz-Greens Sensei Kyoto Taikai 2017</p>
+<div class="image-container grid-image-container">
+    <div class="image-with-caption-item">
+        <img id="dojo-cho" src="../assets/images/jhg_v48_edited_sq.jpg" alt="John Honisz-Greens Sensei">
+        <p>John Honisz-Greens Sensei Kyoto Taikai 2017</p>
+    </div>
+    <div class="image-with-caption-item">
+        <img src="../assets/images/jhg_nanadan.jpg" alt="John Honisz-Greens after Taikai">
+        <p>2025: Nana Dan grading, Prague</p>
+    </div>
 </div>
 
 Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp Sensei whom he met in 1986, in Edinburgh, when he was a teenager. That training continued until 1989 and stopped after Kemp Sensei relocated. During that time Honisz-Greens Sensei was also practicing Aikijutsu, and his passion for Aiki developed further when he met Gerd Kroell Sensei in 1990, and his subsequent membership of Tai Gyoku Ryu followed. Honisz-Greens Sensei studied for several years under Kroell Sensei, gaining the rank Joden Kyohan and building and developing a great friendship before heading to Japan in 1997. It was when he went to Japan that he restarted Iaido training at the Kobe Shiyakusho Iaido Dojo under the tutelage of Oshita Masakazu Sensei.
@@ -75,7 +81,7 @@ Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp
 
 Upon completing his initial university studies and with a job offer from a prestigious bank, Honisz-Greens Sensei negotiated to take a year out in 1997 to develop his Aikijutsu in Japan, He was employed by Hyogo Prefectural Government and based in Amagasaki City, between Osaka and Kobe. What followed was a career change and a prolonged stay of almost two decades in Japan. During this period Honisz-Greens Sensei was fortunate to meet many great teachers. One such teacher was Honda Masayoshi Jushin Sensei, the headteacher of Tokyo Adachi Roshukai.
 
-Honisz-Greens Sensei has studied hard in Japan to develop his Iai, and despite his typically non-Japanese physiology has had some notable successes. As well as competing for both the Hyogo and Gifu prefectural teams whilst training in each prefecture, he won several individual and team taikai, and been placed in many others.
+Honisz-Greens Sensei passed all his Iaido grades
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
@@ -88,4 +94,8 @@ Honisz-Greens Sensei has studied hard in Japan to develop his Iai, and despite h
     </div>
 </div>
 
-Honisz-Greens Sensei passed his 6th Dan examination at first attempt in June 2012 in Kofu City, Yamanashi Prefecture - Japan. He was awarded his Renshi Shogo from the Zen Nihon Kendo Renmei in 2013. He is a British Kendo Association accredited Club Coach Level 2 and been awarded National Coach status and been a shinpan (judge) at the European Iaido Championships numerous times.
+Honisz-Greens Sensei passed all his Iaido grades in Japan and passed his 6th Dan examination at first attempt in Kofu City, Yamanashi Prefecture - Japan. He was also awarded his Renshi Shogo from the Zen Nihon Kendo Renmei. 
+
+He passed 7th Dan in Prague in 2025.
+
+He is a British Kendo Association accredited Club Coach Level 2 and been awarded National Coach status and been a shinpan (judge) at the European Iaido Championships numerous times.
