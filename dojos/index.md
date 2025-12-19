@@ -52,6 +52,39 @@ Our Dojos are open to all members, offering flexibility to practise at any locat
 
 We warmly welcome new members to our friendly group. Whether you’re a beginner or experienced, you’ll find a supportive environment to learn and grow in the art of Iaido with us.
 
+### Reality check points for aspiring members
+
+Iaido is a martial arts that require life-long dedication and commitment as at no point in your practice you will reach the end of what can be learned. It is a never receding journey of possibilities with no final lesson or destination.
+
+Importantly, it is a matter of respect to the Sensei and your dojo colleagues, who will invest -
+and gift their time and effort in teaching you, to dedicate yourself fully to the practice.
+
+You are not "required" to show for every single practice day, as life sometimes gets in the way and we all have our personal and professional obligations to fulfil. 
+
+However, regular attendance, as a minimum, is required. If you don't practice regularly, you will not progress. Non-diligence  disregards the gifts given to you.
+
+Iaido is not a hobby that can be left and picked up when convenient and there is more at play than just you and your sword, you are part of something bigger. That seem strange to a beginner as only after time does one really begin to understand this point. 
+
+While we practice the use of Japanese sword, this is not a "Samurai" training.
+
+It is as much a practice and science of the sword as it is study of Budo principles and culture, fighting spirit, understanding the opponent, and hardest of all, understanding yourself and bettering yourself.
+
+Sometimes the progress is slow and frustrating and it requires discipline, determination and willingness to change to overcome the stagnation. Iaido is an organic relationship as it is alive - it is you. But, persevarence always, without fail, bears results.
+
+Some of us practice only Iaido solo forms, some like us also practice kumitachi (paired forms), which is an ideal combination as they complement each other. Others, for various reasons, practice only one or the other arts, which is also fine.
+
+Iaido is suitable for both women and men. Age is not a barrier.
+
+While it will probably take few life-times to learn everything there is to learn, this is not the ultimate goal. It is about your own personal development, about you bettering yourself.
+
+In that light, any progress that you make is individual. If you make progress, no matter how small or big it is, it is valuable and will be at your own speed and in your own time. There is no pressure or rush to get to the next level.
+
+Iaido does not require great physical strength or endurance to practice. But you will need to be reasonably agile and injury free.
+
+**Important**: If you have any medical (present of past) conditions that may be exacerbated by physical exertion, please let the sensei and dojo know in advance. In rare cases, we may advise you to resolve them before taking up training. Good examples are tennis elbow, frozen shoulder, back or neck pain, tendons problems, problems with knees and similar.
+
+Iaido will like any other important relationship challenge you. But the rewards, although often hard won, are extremely meaningful and valuable.
+
 # Dojo-Cho
 Dojo-Cho (**道場長**) is the esteemed leader and principal instructor of a martial arts Dojo, tasked with guiding the dojo's direction, teaching, and upholding its values and traditions. This role is pivotal in maintaining the integrity of the martial arts discipline, fostering a positive learning environment, and ensuring the transmission of knowledge to future generations. As the heart of the Dojo, the Dojo-Cho embodies the spirit and philosophy of the martial art, serving as a mentor and inspiration to all members.
 
