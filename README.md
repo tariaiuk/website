@@ -1,4 +1,4 @@
-# Tokyo Adachi Roshukai UK
+# Roshukai
 
 This is a static website built with Jekyll, a simple, blog-aware, static site generator. The website is automatically deployed to GitHub Pages.
 
@@ -95,7 +95,7 @@ Pictures are embedded into `.md` templates (or `html` _layouts templates) using 
 ```
 <div class="image-container single-image-container">
     <img src="/assets/images/2023_memorial_seminar.jpg" alt="2023 Susseex seminar">
-    <p>2023: Tokyo Adachi Roshukai seminar in Sussex</p>
+    <p>2023: Roshukai seminar in Sussex</p>
 </div>
 ```
 3. **grid-image-container**: focuses on the display of two images (three or more are impractical due to the mobile/desktop scaling and relation to the text). Works together with `image-with-caption-item`, has screen-width adaptation (becomes vertical for small screens). For the best effects use square images.
@@ -149,7 +149,7 @@ Create a drawing of a Japanese woman warrior without the use of  weapons on the 
 Originals are kept for all cases possible, but for the website `-s.png` are used -- manually resized with the knowledge of max possible size of a given image. This is to improve page loading time.
 
 There are several more specific artworks for which `gimp` original files (`.xcf`) are stored:
-* `gb_map.xcf` features the charcoal-style background map of the UK, with TAR pins added as layers on the top. To add dojo, duplicate the pin layer and put it to the approximate correct location on top of the picture. Export to `dojo_map.png`
+* `gb_map.xcf` features the charcoal-style background map of the UK, with Roshukai pins added as layers on the top. To add dojo, duplicate the pin layer and put it to the approximate correct location on top of the picture. Export to `dojo_map.png`
 * `butterfly-full-size.xcf` features the animation of the back-to-top button's butterfly, layers are named in order with durations per frame setting the timing of the flight. Please note that browsers vary on minimal frame length, and we shouldn't go below `50ms`. Export to `buttefly-flight.gif`
 
 

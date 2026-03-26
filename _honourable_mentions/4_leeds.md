@@ -26,4 +26,4 @@ Shiroi Bara is a member of the UK Shibu for Hyoho Niten Ichi Ryu – a tradition
 
 The training within Shiroi Bara is centered on the use of the two handed Japanese sword (katana) through the practice of pre-arranged solo patterns and partner sets and includes both Iaido and Kenjutsu.
 
-Martin Simpson Sensei is Dojo-Cho of Shiroi Bara Dojo and maintains good links with TAR UK.
+Martin Simpson Sensei is Dojo-Cho of Shiroi Bara Dojo and maintains good links with Roshukai.
