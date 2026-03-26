@@ -6,7 +6,7 @@ layout: page
 <div class="image-container single-image-container">
     <img id="bridge-image" src="/assets/images/bridge.jpg" alt="Welcome!">
 </div>
-Welcome to the homepage of the Tokyo Adachi Roshukai UK!
+Welcome to the homepage of the Roshukai!
 
 We are a non-profit making martial arts club established to help promote and practise the swordsmanship art of Iaido throughout the UK. For those interested in beginning their practice or for any other inquiries, please refer to our [Dojos](/dojos/index.html#our-dojos) tab for contact information and further details.
 
@@ -14,12 +14,12 @@ We are a non-profit making martial arts club established to help promote and pra
 
 <div class="image-container single-image-container">
     <img src="/assets/images/2023_memorial_seminar.jpg" alt="2023 Susseex seminar">
-    <p>2023: Tokyo Adachi Roshukai seminar in Sussex</p>
+    <p>2023: Roshukai seminar in Sussex</p>
 </div>
 
 Iaido is practised through controlled precise movements and forms which are taught as individual techniques called kata. Although Iaido is generally practised as non-contact consisting of solo kata against imaginary opponents, there are also forms that require pair-work with bokuto (wooden swords), and  there are more advanced forms that involve grappling techniques.
 
-At Tokyo Adachi Roshukai UK, we practise the Yamauchi-ha Iai of Muso Jikiden Eishin Ryu (**無雙直傳英信流**). However, our syllabus also includes the standardised set of twelve Iaido forms formulated by the All Japan Kendo Federation Zen Nippon Kendo Renmei (**全剣連 居合道**) that are taught within a number of Iaido/Kendo federations to teach and promote Iaido around the world. 
+At Roshukai, we practise the Yamauchi-ha Iai of Muso Jikiden Eishin Ryu (**無雙直傳英信流**). However, our syllabus also includes the standardised set of twelve Iaido forms formulated by the All Japan Kendo Federation Zen Nippon Kendo Renmei (**全剣連 居合道**) that are taught within a number of Iaido/Kendo federations to teach and promote Iaido around the world. 
 
 Please see the [Lineage](/lineage/index.html) page for more information on the Iai we study.
 

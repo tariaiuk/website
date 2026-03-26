@@ -20,7 +20,7 @@ Iaijutsu (**居合術**) is the art in which one draws the sword and strikes the
 * **無外流** - Mugai Ryu ("Nothing Beyond School" or "No Nothingness School")
 * **無双神伝流** - Muso Shinden Ryu ("Unparalleled Divine Transmission School")
 
-The Tokyo Adachi Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu (MJER) Iaijutsu of the Yamauchi Branch. 
+The Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu (MJER) Iaijutsu of the Yamauchi Branch in the UK. 
 
 # Our Lineage
 
@@ -50,7 +50,7 @@ The 19th generation master Kono Kanemitsu Sensei was a student of Yamauchi Sense
 
 The 20th generation master, Onoue Masamitsu Sensei, inherited the Meibukan Dojo.
 
-The Tokyo Adachi Roshukai was formed and led by 21st generation master Honda Masayoshi Jushin Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai.
+The Roshukai was formed and led by 21st generation master Honda Masayoshi Jushin Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai.
 
 <div class="image-container single-image-container">
     <img src="../assets/images/Honda-Masayoshi-sensei-sq.jpeg" alt="Honda Masayoshi Jushin Sensei">
@@ -68,7 +68,7 @@ Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official comme
     </a>
 </div>
 
-The Tokyo Adachi Roshukai UK is honored to use the Honda family crest (Honda-shi), acknowledging our deep connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
+The Roshukai UK is honored to use the Honda family crest (Honda-shi), acknowledging our deep connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
 
 # Syllabus
 ### Shoden
@@ -82,7 +82,7 @@ The Tokyo Adachi Roshukai UK is honored to use the Honda family crest (Honda-shi
         <p>Onoue Masamitsu Sensei</p>
     </div>
 </div>
-In the spirit of Iaido, below is a glimpse into some of the Shoden (**初伝**) - or foundational entry level kata that shape our TAR syllabus. These forms serve as an introduction to the deeper, silent teachings that underpin our lineage’s rich history. These Shoden forms alone are enough to keep even the most avid practitioner busy for a lifetime, if not two lifetimes. Once a clear understanding and skill is developed, the student is then permitted to learn and practice deeper level Shoden forms and also introduced into the next higher forms.
+In the spirit of Iaido, below is a glimpse into some of the Shoden (**初伝**) - or foundational entry level kata that shape our Roshukai syllabus. These forms serve as an introduction to the deeper, silent teachings that underpin our lineage’s rich history. These Shoden forms alone are enough to keep even the most avid practitioner busy for a lifetime, if not two lifetimes. Once a clear understanding and skill is developed, the student is then permitted to learn and practice deeper level Shoden forms and also introduced into the next higher forms.
 
 
 | No. |       |     Name          |                |
@@ -140,4 +140,4 @@ The All Japan Kendo Federation (ZNKR) Iaido forms, as presented in this table, e
 | 11  | **総切り** | Sou-giri | *Total Cut* | Muso Jikiden Eishin Ryu |
 | 12  | **抜き打ち** | Nuki-uchi | *Drawing Cut*  | Mugai Ryu |
 
-ZNKR Iaido forms are used as a worldwide yardstick for grading and competition purposes for associations and individual groups/Dojo aligned to the International Kendo Federation (FIK). These forms are also studied and developed throughout the TAR student's lifetime of study.
+ZNKR Iaido forms are used as a worldwide yardstick for grading and competition purposes for associations and individual groups/Dojo aligned to the International Kendo Federation (FIK). These forms are also studied and developed throughout the Roshukai student's lifetime of study.
