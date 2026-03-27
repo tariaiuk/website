@@ -92,7 +92,7 @@ Dojo-Cho (**道場長**) is the esteemed leader and principal instructor of a ma
     </div>
 </div>
 
-Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp Sensei whom he met in 1986, in Edinburgh, when he was a teenager. That training continued until 1989 and stopped after Kemp Sensei relocated. During that time Honisz-Greens Sensei was also practicing Aikijutsu, and his passion for Aiki developed further when he met Gerd Kroell Sensei in 1990, and his subsequent membership of Tai Gyoku Ryu followed. Honisz-Greens Sensei studied for several years under Kroell Sensei, gaining the rank Joden Kyohan and building and developing a great friendship before heading to Japan in 1997. It was when he went to Japan that he restarted Iaido training at the Kobe Shiyakusho Iaido Dojo under the tutelage of Oshita Masakazu Sensei.
+Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp Sensei whom he met in 1986, in Edinburgh, when he was a teenager. That training continued several years and stopped after Kemp Sensei relocated. During that time Honisz-Greens Sensei was also practicing Aikijutsu, and his passion for Aiki developed further when he met Gerd Kroell Sensei in 1990. Honisz-Greens Sensei studied for several years under Kroell Sensei, building and developing a truly great friendship before heading to Japan in 1997. It was when he went to Japan that he started Iaido training in earnest at the Kobe Shiyakusho Iaido Dojo under the tutelage of Oshita Masakazu Sensei. 
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
@@ -105,7 +105,9 @@ Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp
     </div>
 </div>
 
-Upon completing his initial university studies and with a job offer from a prestigious bank, Honisz-Greens Sensei negotiated to take a year out in 1997 to develop his Aikijutsu in Japan, He was employed by Hyogo Prefectural Government and based in Amagasaki City, between Osaka and Kobe. What followed was a career change and a prolonged stay of almost two decades in Japan. During this period Honisz-Greens Sensei was fortunate to meet many great teachers. One such teacher was Honda Masayoshi Jushin Sensei, the headteacher of Tokyo Adachi Roshukai.
+Upon completing his initial university studies and with a job offer from a prestigious bank, Honisz-Greens Sensei negotiated to take a year out in 1997 to develop his Aikijutsu in Japan, He was employed by Hyogo Prefectural Government and based in Amagasaki City, between Osaka and Kobe. What followed was a career change and a prolonged stay of almost two decades living and working in various areas of Japan. During this period Honisz-Greens Sensei was fortunate to meet and train with many great senior teachers. 
+
+During those years and due to working in various areas of Japan, Honisz-Greens sensei also had the good fortune to undertake prolonged training under esteemed sensei Haruna Matsuo, Otsuka Taro, Koyama Ryusan, Hasegawa Yoshihisa, Ishido Shizufumi, and several more. One such other great teacher was Honda Masayoshi Jushin Sensei, the headteacher of Adachi Roshukai in Tokyo, and whose teaching inspires and informs our own koryu practice today.
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
@@ -118,8 +120,10 @@ Upon completing his initial university studies and with a job offer from a prest
     </div>
 </div>
 
-Honisz-Greens Sensei passed all his Iaido grades in Japan and passed his 6th Dan examination at first attempt in Kofu City, Yamanashi Prefecture - Japan. He was also awarded his Renshi Shogo from the Zen Nihon Kendo Renmei. 
+Honisz-Greens Sensei passed all his Iaido grades in Japan and passed his Iaido 6th Dan examination at first attempt in Kofu City, Yamanashi Prefecture - Japan. He was also awarded his Renshi Shogo from the Zen Nihon Kendo Renmei.
 
-He passed 7th Dan in Prague in 2025.
+He passed Iaido 7th Dan in Prague in 2025.
 
+He also holds mokuroku - joden kyohan in a koryu art.
+ 
 He is a British Kendo Association accredited Club Coach Level 2 and been awarded National Coach status and been a shinpan (judge) at the European Iaido Championships numerous times.

@@ -6,9 +6,9 @@ layout: page
 <div class="image-container single-image-container">
     <img id="bridge-image" src="/assets/images/bridge.jpg" alt="Welcome!">
 </div>
-Welcome to the homepage of the Roshukai!
+Welcome to the homepage of Edinburgh, Glasgow, and Swanley Roshukai.
 
-We are a non-profit making martial arts club established to help promote and practise the swordsmanship art of Iaido throughout the UK. For those interested in beginning their practice or for any other inquiries, please refer to our [Dojos](/dojos/index.html#our-dojos) tab for contact information and further details.
+We are a non-profit making martial arts club established to help promote and practise the Japanese art of Iaido. For those interested in beginning their practice or for any other inquiries, please refer to our [Dojos](/dojos/index.html#our-dojos) tab for contact information and further details.
 
 *Iaido* (**居合道**), pronounced ee-eye-doe and often abbreviated to Iai, is a traditional Japanese martial art that is often translated as 'the art of drawing the sword', or 'the way of mental presence and immediate reaction'. At its most basic interpretation, Iaido emphasises being aware and capable of quickly drawing the sword and responding to a sudden attack from multiple opponents; however, like most traditional Japanese art forms there are multiple layers of detail and study involved that go beyond the obvious forms being practised.
 
@@ -19,7 +19,7 @@ We are a non-profit making martial arts club established to help promote and pra
 
 Iaido is practised through controlled precise movements and forms which are taught as individual techniques called kata. Although Iaido is generally practised as non-contact consisting of solo kata against imaginary opponents, there are also forms that require pair-work with bokuto (wooden swords), and  there are more advanced forms that involve grappling techniques.
 
-At Roshukai, we practise the Yamauchi-ha Iai of Muso Jikiden Eishin Ryu (**無雙直傳英信流**). However, our syllabus also includes the standardised set of twelve Iaido forms formulated by the All Japan Kendo Federation Zen Nippon Kendo Renmei (**全剣連 居合道**) that are taught within a number of Iaido/Kendo federations to teach and promote Iaido around the world. 
+At our dojo, we practise the Muso Jikiden Eishin Ryu (**無雙直傳英信流**) lineage of Yamauchi-ha. Our senior instructors have a history in both Harusuke-ha and Yamauchi-ha; however, our focus in on the latter. Our syllabus also includes the standardised set of twelve Iaido forms formulated by the All Japan Kendo Federation (Zen Nippon Kendo Renmei **全剣連 居合道**) that are practiced around the world.
 
 Please see the [Lineage](/lineage/index.html) page for more information on the Iai we study.
 

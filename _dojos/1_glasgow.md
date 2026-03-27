@@ -45,11 +45,9 @@ Under Robert Sensei's leadership, the Glasgow Dojo is a welcoming and inclusive 
     <img src="../assets/images/dojos/Glasgow-group.jpg" alt="Glasgow group pic">
 </div>
 
-The Dojo was originally formed in 1973 by Sam McKay Sensei and as such is recognised as Scotland's oldest running Iaido Dojo. It has seen many Dojo leaders since its formation and is now managed by Robert Boyd, who took over the reins in 2017.
+The Dojo has members coming from all walks of life and nationalities. Members have enjoyed great success in recent years at the UK National Championship and subsequently some members have gone on to represent their Dojo and country at the European Iaido Championship.
 
 <div class="image-container single-image-container">
     <img src="../assets/images/dojos/glasgow-dojo-group.jpg" alt="Glasgow group pic 2">
 </div>
 
-
-The Dojo has members coming from all walks of life and nationalities. Members have enjoyed great success in recent years at the UK National Championship and subsequently some members have gone on to represent their Dojo and country at the European Iaido Championship.

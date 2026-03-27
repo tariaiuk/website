@@ -50,7 +50,7 @@ The 19th generation master Kono Kanemitsu Sensei was a student of Yamauchi Sense
 
 The 20th generation master, Onoue Masamitsu Sensei, inherited the Meibukan Dojo.
 
-The Roshukai was formed and led by 21st generation master Honda Masayoshi Jushin Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai.
+The 21st generation master Honda Masayoshi Jushin Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai group in Japan, which now has spread across the globe in various forms.
 
 <div class="image-container single-image-container">
     <img src="../assets/images/Honda-Masayoshi-sensei-sq.jpeg" alt="Honda Masayoshi Jushin Sensei">
@@ -68,7 +68,7 @@ Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official comme
     </a>
 </div>
 
-The Roshukai UK is honored to use the Honda family crest (Honda-shi), acknowledging our deep connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
+Our dojo is honoured to use the Honda family crest (Honda-shi), acknowledging our connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
 
 # Syllabus
 ### Shoden
