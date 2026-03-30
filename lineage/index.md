@@ -20,7 +20,9 @@ Iaijutsu (**居合術**) is the art in which one draws the sword and strikes the
 * **無外流** - Mugai Ryu ("Nothing Beyond School" or "No Nothingness School")
 * **無双神伝流** - Muso Shinden Ryu ("Unparalleled Divine Transmission School")
 
-The Roshukai is a group dedicated to the study of Muso Jikiden Eishin Ryu (MJER) Iaijutsu of the Yamauchi Branch in the UK. 
+There are many groups all over the world that carry the name Roshukai. Each slightly different and as the name grows so does the diversity.
+
+Our specific group is dedicated to the study of Muso Jikiden Eishin Ryu (MJER) Iaijutsu of the Yamauchi-ha. 
 
 # Our Lineage
 
