@@ -52,14 +52,14 @@ The 19th generation master Kono Kanemitsu Sensei was a student of Yamauchi Sense
 
 The 20th generation master, Onoue Masamitsu Sensei, inherited the Meibukan Dojo.
 
-The 21st generation master Honda Masayoshi Jushin Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai group in Japan, which now has spread across the globe in various forms.
+The 21st generation master Honda Masayoshi Sensei (1936 – 2022) who was awarded Iaijutsu Kongen no Maki from his teacher Onoue Masamitsu Sensei also held the rank of Kyoshi 7dan from the ZNKR. Honda Sensei was also a student of Iwata Norikazu Sensei, the founder of the Roshukai group in Japan, which now has spread across the globe in various forms.
 
 <div class="image-container single-image-container">
-    <img src="../assets/images/Honda-Masayoshi-sensei-sq.jpeg" alt="Honda Masayoshi Jushin Sensei">
-    <p>Honda Masayoshi Jushin Sensei</p>
+    <img src="../assets/images/Honda-Masayoshi-sensei-sq.jpeg" alt="Honda Masayoshi Sensei">
+    <p>Honda Masayoshi Sensei</p>
 </div>
 
-Honda Masayoshi Jushin Sensei devoted himself to the practice of Iai for over 50 years and formed and led the Adachi Roshukai branch for over three decades. His strength of character and passion for Iai was an inspiration for many students both in Japan and around the world. 
+Honda Masayoshi Sensei devoted himself to the practice of Iai for over 50 years and formed and led the Adachi Roshukai branch for over three decades. His strength of character and passion for Iai was an inspiration for many students both in Japan and around the world. 
 
 Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official commendation) from the ZNKR in 2023 for his contribution to the federation and development of Iai.
 
@@ -70,7 +70,7 @@ Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official comme
     </a>
 </div>
 
-Our dojo is honoured to use the Honda family crest (Honda-shi), acknowledging our connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
+Our dojo is honoured to use the Honda family crest (Honda-shi), acknowledging our connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Sensei and our Dojo-cho.
 
 # Syllabus
 ### Shoden
