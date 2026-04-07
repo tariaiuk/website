@@ -18,5 +18,5 @@ sensei_bio: "Tim Hamilton Sensei started martial arts at age 14, and was introdu
 
 Through John Sparkes Tim was introduced to Roald Knutsen Sensei and travelled to Lewes to further devolop his Kendo. He then joined the British Kendo Association in the 1980's and through his Kendo practice also met Haruna Matsuo Sensei. It was in 1995 when Tim first met Iwata Sensei, and he realised that he had found the Iaido teacher he was looking for.<br><br> 
 
-Through Iwata Sensei Tim also met many great Iaido teachers, such as Honda Masayoshi Jushin Sensei, Nishimoto Chihiro Sensei, and Ishida Sumio Sensei. Tim has visited and trained in Kochi several times and also visited the dojo where Oe Masaji taught."
+Through Iwata Sensei Tim also met many great Iaido teachers, such as Honda Masayoshi Sensei, Nishimoto Chihiro Sensei, and Ishida Sumio Sensei. Tim has visited and trained in Kochi several times and also visited the dojo where Oe Masaji taught."
 ---
