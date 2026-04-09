@@ -107,7 +107,7 @@ Our Dojo-cho is John Honisz-Greens Sensei. His first Iaido teacher was Neil Kemp
 
 Upon completing his initial university studies and with a job offer from a prestigious bank, Honisz-Greens Sensei negotiated to take a year out in 1997 to develop his Aikijutsu in Japan, He was employed by Hyogo Prefectural Government and based in Amagasaki City, between Osaka and Kobe. What followed was a career change and a prolonged stay of almost two decades living and working in various areas of Japan. During this period Honisz-Greens Sensei was fortunate to meet and train with many great senior teachers. 
 
-During those years and due to working in various areas of Japan, Honisz-Greens sensei also had the good fortune to undertake prolonged training under esteemed sensei Haruna Matsuo, Otsuka Taro, Koyama Ryusan, Hasegawa Yoshihisa, Ishido Shizufumi, and several more. One such other great teacher was Honda Masayoshi Sensei, the headteacher of Adachi Roshukai in Tokyo, and whose teaching inspires and informs our own koryu practice today.
+During those years and due to working in various areas of Japan, Honisz-Greens sensei also had the good fortune to undertake prolonged training under esteemed sensei Haruna Matsuo, Otsuka Taro, Koyama Ryusan, Hasegawa Yoshihisa, Ishido Shizufumi, and several more. One such other great teacher was Honda Masayoshi Jushin Sensei, the headteacher of Adachi Roshukai in Tokyo, and whose teaching inspires and informs our own koryu practice today.
 
 <div class="image-container grid-image-container">
     <div class="image-with-caption-item">
