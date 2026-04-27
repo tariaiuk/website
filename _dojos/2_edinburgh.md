@@ -28,6 +28,10 @@ He currently practices diligently in preparation for his 7th Dan examination."
     <img class="teacher-img" src="../assets/images/dojos/Ben-Senpai.jpg" alt="Ben Crabbe Senpai">
     <p>Ben Crabbe<br>Senpai, 4th Dan</p>
   </div>
+  <div class="senpai-item">
+    <img class="teacher-img" src="../assets/images/dojos/gavin_senpai_s.jpg" alt="Gavin Fulton Senpai">
+    <p>Gavin Fulton<br>Senpai, 3rd Dan</p>
+  </div>
 </div>
 
 # Our Dojo
