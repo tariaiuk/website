@@ -15,5 +15,5 @@ phone: "01284 763042"
 
 sensei_picture: gavin_rogers.jpeg
 sensei_name: Gavin Rogers Sensei
-sensei_bio: "Itto-Kan Dojo dojo leader is Gavin Rogers sensei. The group is the official Great British Training group link of Tennen Rishin-Ryu - giving them a direct lineage to Katō Sensei in Japan. Gavin sensei also practice All Japan Kendo Federation Iaido and currently holds 4th Dan Iaido."
+sensei_bio: "Itto-Kan Dojo dojo leader is Gavin Rogers sensei. The group is the official Great British Training group link of Tennen Rishin-Ryu - giving them a direct lineage to Katō Sensei in Japan. Gavin sensei also practice All Japan Kendo Federation Iaido and currently holds 5th Dan Iaido."
 ---
