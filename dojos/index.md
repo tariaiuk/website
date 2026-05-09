@@ -124,6 +124,6 @@ Honisz-Greens Sensei passed all his Iaido grades in Japan and passed his Iaido 6
 
 He passed Iaido 7th Dan in Prague in 2025.
 
-He also holds mokuroku - joden kyohan in a koryu art.
+He also holds Mokuroku - Jodan Kyohan in a koryu art.
  
 He is a British Kendo Association accredited National Coach and been a shinpan (judge) at the European Iaido Championships numerous times.
