@@ -126,4 +126,4 @@ He passed Iaido 7th Dan in Prague in 2025.
 
 He also holds mokuroku - joden kyohan in a koryu art.
  
-He is a British Kendo Association accredited Club Coach Level 2 and been awarded National Coach status and been a shinpan (judge) at the European Iaido Championships numerous times.
+He is a British Kendo Association accredited National Coach and been a shinpan (judge) at the European Iaido Championships numerous times.
