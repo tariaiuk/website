@@ -73,21 +73,19 @@ Honda Sensei was posthumously awarded a Kensho-jo (**顕彰状**, official comme
 Our Dojo is honoured to use the Honda family crest (Honda-shi), acknowledging our connection to our Japanese origins, also signifying the trust and friendship established between Honda Masayoshi Jushin Sensei and our Dojo-cho.
 
 ## Our Dojo name / origin
-The (Nihon) Roshukai group was founded by Iwata Norikazu Sensei (1913–2011). 
+The (Nihon) Roshukai group was founded by Iwata Norikazu Sensei (1913–2011) to preserve the traditional teachings of Muso Jikiden Eishin Ryu Iaido as passed down from Oe Masaji through Iwata Sensei’s various teachers.
 
-He created the vehicle in an attempt to preserve the traditional Muso Jikiden Eishin Ryu Iaido teachings of Oe Masaji as learnt from his various teachers. Following his passing on 1 January 2011, the group has decentralised.
+Following Iwata Sensei’s passing on 1 January 2011, Roshukai became decentralised. 
 
-Today, Roshukai does not operate under a single, centralised head teacher as it had in Iwata Sensei's day. Instead, it functions as a global network of independent branches,  Dojos, and lineages following the death of the founder Iwata Norikazu Sensei. 
+Rather than operating under a single head teacher, it now exists as a global network of independent branches, Dojo, and lineages, each guided by its own senior instructors and Dojo leaders.
 
-There are now Roshukai groups across the globe: with Dojo in various parts of the UK and in several European countries, across the USA and in South America, and of course multiple lineages across Japan - all being led by their respective seniors/Sensei/Dojo leaders.
+Today, Roshukai groups can be found throughout the UK, Europe, the USA, South America, and Japan.
 
-The Tokyo branch of Roshukai was led by Honda Masayoshi Jushin Sensei (1936–2022) - known as Adachi Roshukai. A unique group within Roshukai due to its focus on Yamauchi-ha lineage of Muso Jikiden Eishin Ryu.
+The Tokyo branch of Roshukai — commonly known as Adachi Roshukai — was led by Honda Masayoshi Jushin Sensei (1936–2022). The group was particularly notable for its focus on the Yamauchi-ha lineage of Muso Jikiden Eishin Ryu.
 
-Following Honda Sensei's passing, his senior students both regional and international continue to direct their respective study and Dojo to preserve his teachings and memory and continue their respective Iaido journeys.
+Following Honda Sensei’s passing, his senior students in Japan and abroad continue to lead their respective Dojo and preserve his teachings and legacy through their own ongoing Iaido practice.
 
-Edinburgh and Glasgow Roshukai Dojo are historically linked to Honda Sensei's Tokyo Roshukai Dojo. Following his passing, both Dojo maintain the Roshukai name that they were permitted to use by Honda Sensei to best honour his memory.
-
-We welcome open and respectful collaboration and training with other serious and dedicated practitioners from other Iaido Dojo.
+The Edinburgh and Glasgow Roshukai Dojos, through their historic ties to Honda Sensei, continue to use the Roshukai name, honouring his memory and preserving his teachings.
 
 # Syllabus
 ### Shoden
