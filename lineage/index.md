@@ -28,7 +28,7 @@ Our specific group is dedicated to the study of Muso Jikiden Eishin Ryu (MJER) I
 
 Muso Jikiden Eishin Ryu originates from Tosa Province (modern day Kochi Prefecture), an extensive area of Japan which was ruled by the Yamauchi clan throughout the Edo Period. 
 
-Yamanouchi Toyotake Sensei (1903 - 1946) held the title of Viscount and was a direct student of 17th generation Oe Masaji / Masamichi Sensei (1852 - 1927). He was one of a handful of 18th generation students to receive the Iaijutsu Kongen no Maki (**根源の巻**), a scroll signifying complete transmission of the school. 
+Yamauchi Toyotake Sensei (1903 - 1946) held the title of Viscount and was a direct student of 17th generation Oe Masaji / Masamichi Sensei (1852 - 1927). He was one of a handful of 18th generation students to receive the Iaijutsu Kongen no Maki (**根源の巻**), a scroll signifying complete transmission of the school. 
 
 <div class="image-container single-image-container">
     <img src="../assets/images/yamauchi-group-photo-resized.gif" alt="Yamauchi Toyotake Hoken Sensei with students">
