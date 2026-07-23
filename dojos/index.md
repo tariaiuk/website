@@ -120,10 +120,10 @@ During those years and due to working in various areas of Japan, Honisz-Greens s
     </div>
 </div>
 
-Honisz-Greens Sensei passed all his Iaido grades in Japan and passed his Iaido 6th Dan examination at first attempt in Kofu City, Yamanashi Prefecture - Japan. He was also awarded his Renshi Shogo from the Zen Nihon Kendo Renmei.
+Honisz-Greens Sensei passed all his Iaido grades up to 6th dan in Japan. He was also awarded his Renshi Shogo from the Zen Nihon Kendo Renmei.
 
-He passed Iaido 7th Dan in Prague in 2025.
+He currently holds the grade of 7th Dan Renshi.
 
-He also holds Mokuroku - Jodan Kyohan in a koryu art.
- 
-He is a British Kendo Association accredited National Coach and been a shinpan (judge) at the European Iaido Championships numerous times.
+He also holds Mokuroku - Jodan Kyohan in a koryu school.
+
+He is a British Kendo Association accredited National Coach (Level 4) and been a judge at the European Iaido Championships numerous times. 
