@@ -22,7 +22,7 @@ He currently practices diligently in preparation for his 7th Dan examination."
 <div class="grid-senpai">
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/shra-senpai.jpg" alt="Shra Senpatrick Senpai">
-    <p>Shra Senpatrick<br>Senpai, 5th Dan</p>
+    <p>Shra Senpatrick<br>Sensei, 5th Dan</p>
   </div>
   <div class="senpai-item">
     <img class="teacher-img" src="../assets/images/dojos/Ben-Senpai.jpg" alt="Ben Crabbe Senpai">
