@@ -6,7 +6,7 @@ layout: page
 <div class="image-container single-image-container">
     <img id="bridge-image" src="/assets/images/bridge.jpg" alt="Welcome!">
 </div>
-Welcome to the homepage of Edinburgh, Glasgow, and Swanley Roshukai.
+Welcome to the homepage of Edinburgh and Glasgow Roshukai.
 
 We are a non-profit making martial arts club established to help promote and practise the Japanese art of Iaido. For those interested in beginning their practice or for any other inquiries, please refer to our [Dojos](/dojos/index.html#our-dojos) tab for contact information and further details.
 
